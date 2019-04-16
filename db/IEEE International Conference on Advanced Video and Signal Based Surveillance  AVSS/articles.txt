@@ -1,0 +1,88 @@
+Message from general chairs.
+Automatic detection of long term parked cars.
+Detection of entry and exit zones in image sequences for automatic traffic analysis.
+PLSA-based sparse representation for vehicle color classification.
+Automatic vehicle tracking and recognition from aerial image sequences.
+Balancing robustness and information abundance via self-diagnosing in traffic surveillance video analysis.
+ARGOS-Venice Boat Classification.
+Vehicle identification using distance-based appearance model.
+Driver aggressiveness detection using visual information from forward camera.
+Ongoing work on traffic lights: Detection and evaluation.
+Car crashes detection by audio analysis in crowded roads.
+Vision-based vehicle queue analysis at junctions.
+Detecting road user actions in traffic intersections using RGB and thermal video.
+A stigmergic approach to indoor localization using Bluetooth Low Energy beacons.
+An omnidirectional vision system for bus safety surveillance.
+Novel multi-feature Bag-of-Words descriptor via subspace random projection for efficient human-action recognition.
+Particle filter based Conjoint Individual-Group Tracker (CIGT).
+Fusion of spatially constrained attributes with kernelized ranking for person re-identification.
+Data-augmentation for reducing dataset bias in person re-identification.
+Person re-identification visualization tool for object tracking across non-overlapping cameras.
+PETS 2015: Datasets and challenge.
+Robust global tracker based on an online estimation of tracklet descriptor reliability.
+Tracking performance evaluation on PETS 2015 Challenge datasets.
+Online pedestrian group walking event detection using spectral analysis of motion similarity graph.
+Evaluating template rescaling in short-term single-object tracking.
+Reliable intruder detection using combined modalities of intensity, thermal infrared and stereo depth.
+Evaluation of face recognition technologies for identity verification in an eGate based on operational data of an airport.
+Improved face recognition by combining information from multiple cameras in Automatic Border Control system.
+Ensembles of exemplar-SVMs for video face recognition from a single sample per person.
+Impact of resolution and image quality on video face analysis.
+Towards mobile and touchless fingerprint verification.
+Abnormal behaviour detection on queue analysis from stereo cameras.
+Double-constrained RPCA based on saliency maps for foreground detection in automated maritime surveillance.
+Robust pan-tilt-zoom tracking via optimization combining motion features and appearance correlations.
+Towards the evaluation of reproducible robustness in tracking-by-detection.
+Coalition formation for distributed tracking in wireless camera networks.
+Collaboration and spatialization for an efficient multi-person tracking via sparse representations.
+An unsupervised domain adaptation approach for cross-domain visual classification.
+Adaptive pooling over multiple trajectory attributes for action recognition.
+Action recognition in video using a spatial-temporal graph-based feature representation.
+Human action recognition using an improved string edit distance.
+Learning relative photometric differences of pairs of cameras.
+Patch-based fire detection with online outlier learning.
+Minimizing hallucination in histogram of Oriented Gradients.
+Collaborative multi-camera face recognition and tracking.
+Motion propagation detection association for multi-target tracking in wide area aerial surveillance.
+Online multi-face detection and tracking using detector confidence and structured SVMs.
+The multi-strand graph for a PTZ tracker.
+Temporally stable feature clusters for maritime object tracking in visible and thermal imagery.
+Modified particle filtering using foreground separation and confidence for object tracking.
+Real-time adaptive background modeling in fast changing conditions.
+A thermal Object Tracking benchmark.
+R-SpaRCS: An algorithm for foreground-background separation of compressively-sensed surveillance videos.
+A comparative view on exemplar 'tracking-by-detection' approaches.
+Online multi-modal task-driven dictionary learning and robust joint sparse representation for visual tracking.
+On fusion for robust motion segmentation.
+Exploiting 3D geometric primitives for multicamera pedestrian detection.
+Dynamic Bayesian Network modeling for self- and cross-correcting tracking.
+Telemetry assisted frame registration and background subtraction in low-altitude UAV videos.
+Social interaction based handling inter-person occlusion for online multi-pedestrian tracking.
+An occlusion reasoning scheme for monocular pedestrian tracking in dynamic scenes.
+Video event classification with temporal partitioning.
+Vehicle subtype, make and model classification from side profile video.
+Maximum likelihood Linear Dimension Reduction of heteroscedastic feature for robust Speaker Recognition.
+Change detection on light field for active video surveillance.
+Latent subcategory models for pedestrian detection with partial occlusion handling.
+Violence detection in crowded scenes using substantial derivative.
+Meeting detection in video through semantic analysis.
+Stereo mosaicking and 3D-video for singleview HDTV aerial sequences using a low bit rate ROI coding framework.
+Dynamic camera scheduling for visual surveillance in crowded scenes using Markov random fields.
+Efficient 24/7 object detection in surveillance videos.
+Observing human activities using movement modelling.
+MORF: Multi-Objective Random Forests for face characteristic estimation.
+Interaction analysis through fuzzy temporal logic: Extensions for clustering and parameter learning.
+Don't overlook the human! Applying the principles of cognitive systems engineering to the design of intelligent video surveillance systems.
+Large scale monitoring of crowds and building utilisation: A new database and distributed approach.
+Dynamic focus control for preventing motion blur.
+Plda-based system for text-prompted password speaker verification.
+Automatic configuration and calibration of modular sensing floors.
+An annotation-free method for evaluating privacy protection techniques in videos.
+Articulated pose estimation via multiple mixture parts model.
+Self-calibration from vehicle information.
+Transferring attributes for person re-identification.
+Enhanced gesture-based human-computer interaction through a Compressive Sensing reduction scheme of very large and efficient depth feature descriptors.
+A user study on anonymization techniques for smart video surveillance.
+A scalable and privacy preserving approach for counting pedestrians in urban environment.
+An end-to-end system for content-based video retrieval using behavior, actions, and appearance with interactive query refinement.
+A novel image filtering approach for sensor fingerprint estimation in source camera identification.

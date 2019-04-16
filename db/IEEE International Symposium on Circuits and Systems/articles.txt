@@ -1,0 +1,20 @@
+A Pausible Bisynchronous FIFO for GALS Systems.
+How to Synchronize a Pausible Clock to a Reference.
+A Low-Latency, Energy-Efficient L1 Cache Based on a Self-Timed Pipeline.
+Synchronizers and Data Flip-Flops are Different.
+Blade - A Timing Violation Resilient Asynchronous Template.
+Design and Verification of Speed-Independent Multiphase Buck Controller.
+DD1: A QDI, Radiation-Hard-by-Design, Near-Threshold 18uW/MIPS Microcontroller in 40nm Bulk CMOS.
+Timing Driven Placement for Quasi Delay-Insensitive Circuits.
+Gate Sizing and Vth Assignment for Asynchronous Circuits Using Lagrangian Relaxation.
+Performance Optimization and Analysis of Blade Designs under Delay Variability.
+Analyzing Isochronic Forks with Potential Causality.
+Naturalized Communication and Testing.
+AES Hardware-Software Co-design in WSN.
+Low Power Monolithic 3D IC Design of Asynchronous AES Core.
+Deadlock Recovery in Asynchronous Networks on Chip in the Presence of Transient Faults.
+Increasing Impartiality and Robustness in High-Performance N-Way Asynchronous Arbiters.
+Opportunistic Merge Element.
+Design and Analysis of Testable Mutual Exclusion Elements.
+Asynchronous Charge Sharing Power Consistent Montgomery Multiplier.
+Non-volatility for Ultra-Low Power Asynchronous Circuits in Hybrid CMOS/Magnetic Technology.

@@ -1,0 +1,358 @@
+Automatic Modulation Classification in Cognitive Radio Using Multiple Antennas and Maximum-Likelihood Techniques.
+A Two-Tier Evolutionary Game Theoretic Approach to Dynamic Spectrum Sharing through Licensed Shared Access.
+Adaptive Rate Control in Smart Grid Heterogeneous Communications Networks.
+Understanding Access Stability and Mobility Patterns of Mobile Internet Users.
+Application Sequence Prediction for Energy Consumption Reduction in Mobile Systems.
+Reduced Complexity MIMO Receiver with Real-Valued Beamforming.
+Exploiting the DASH Framework to Promote a Dynamic Transport Selection for Video Streaming over LTE Networks.
+Channel-Aware Scheduling in FFR-Aided OFDMA-Based Heterogeneous Cellular Networks.
+Evidence Theory Based Self-Interference Suppression for Two-Way Full-Duplex MIMO Relays.
+SDR-Based ADS-B with Dual-Frequency for UAS: A Universal Design.
+Acoustic Radar Weak Target Detection Method Based on Mellin Transform.
+Hidden Markov Model for Improved Ultrasound-Based Presence Detection.
+Minimization and Placement of Sensors in Structurally Observable Networks.
+Equalizing Energy Distribution in Sensor Nodes through Optimization of RPL.
+Collision-Free Routing Protocol in Multi-hop Wireless Sensor Networks.
+Measuring Distances with RSSI from Vehicular Short-Range Communications.
+THESEUS: A Routing System for Shared Sensor Networks.
+Spanning Data Across Heterogeneous MANETs through Proactive Strip Interoperability.
+Analytical Performance Evaluation of Frame Synchronization for Data with Known, Unequal Distribution over Binary Symmetric Channel.
+Enhancing Aggregation over Uncertain Databases.
+FPGA Based Real Time 'Secure' Body Temperature Monitoring Suitable for WBSN.
+SSIE: An Automatic Data Extractor for Sports Management in Athletics Modality.
+Semantic Mapping Relational to a Directed Property Hypergraph Model.
+Identifying and Classifying Suspicious Network Behavior Using Passive DNS Analysis.
+An Approach to IdM with Privacy in the Cloud.
+Dynamic Searchable Encryption with Multi-user Private Search for Cloud Computing.
+Scalable Multi-group Key Management for Advanced Metering Infrastructure.
+Personalized Privacy Aware Framework for Moving Objects in Participatory Sensing.
+SMART: An Application Framework for Real Time Big Data Analysis on Heterogeneous Cloud Environments.
+Automatic Classification and Taxonomy Generation for Semi-structured Data.
+Artificial Intelligence for Detecting Preterm Uterine Activity in Gynecology and Obstetric Care.
+A Novel Continuous Learning and Collaborative Decision Making Mechanism for Real-Time Cooperation of Humanoid Service Robots.
+An Optimization to CHARM Algorithm for Mining Frequent Closed Itemsets.
+An Associative Classifier Adopting Fuzzy Weighted Rules Based on Information Gain.
+Combining Fuzzy Rough Set with Salient Features for HRM Classification.
+Diffusion Least Mean Square Algorithms with Zero-Attracting Adaptive Combiners.
+Word-Sense Disambiguation of Korean Predicates Using Sejong Electronic Dictionary and Unsupervised Learning.
+Marketing or Newsletter Sender Reputation System Using Association Analysis Concept.
+Feature Selection in Brain Computer Interface Using Genetics Method.
+Online Pedestrian Tracking Using Ensemble Color Feature.
+A Data-Driven Hybrid Optimization Model for Short-Term Residential Load Forecasting.
+A Neural Network Clamping Force Model for Bolt Tightening of Wind Turbine Hubs.
+WARank: Weighted Asymmetric Ranking for Approximate Nearest Neighbor Search.
+Fault Detection and Classification Based on PCA and N-LMC.
+An Approach of Vector Space Model to Link Concrete Concepts with Wiki Entities.
+Multi-model or Single Model? A Study of Movie Box-Office Revenue Prediction.
+An Experimental Evaluation of Aggregation Algorithms for Processing Top-K Queries.
+Model-Based Self-Tuning PI Control of Bolt-Nut Tightening for Wind Turbine Bearing Assembly.
+Efficient CP-ABE Attribute/Key Management for IoT Applications.
+A Proactive Multi-type Context-Aware Recommender System in the Environment of Internet of Things.
+Fog Computing in Healthcare Internet of Things: A Case Study on ECG Feature Extraction.
+Rail Internet of Things: An Architectural Platform and Assured Requirements Model.
+Towards a UML Profile for Privacy-Aware Applications.
+Towards the Use of Unmanned Aerial Vehicles for Automatic Power Meter Readings.
+Semantic Web Services Discovery Adopting SERIN.
+A Taxonomy-Based Evaluation of Personalized E-Advertisement.
+Linux Enriched Design in Third Generation Wireless Open Access Research Platform.
+An Attributed Predicate RDF.
+A Method of Handling Control Dependence in Dynamic Taint Analysis.
+Dynamically Evolving Annotation-Based Variability for Runtime Adaptation.
+An Extension of UML Activity Diagram to Model the Behaviour of Context-Aware Systems.
+A Dynamic Power-Aware Scheduling of Mixed-Criticality Real-Time Systems.
+Improving Network Efficiency with Simplemux.
+The Impact of Heterogeneous Spreading Abilities of Network Ties on Information Spreading.
+Technology and Information Trust for Supporting Risky Decisions Based on Social-Media Content.
+Network Quality Adaptive Video Transmission.
+DICE: A Distributed Protocol for Camera-Aided Video Surveillance.
+Recommendation Systems Based on Online User's Action.
+Videoconferencing over OpenFlow Networks: An Optimization Framework for QoS Routing.
+Scorpion: A Solution Using Cooperative Rerouting to Prevent Congestion and Improve Traffic Condition.
+ETBAC-Based Model in Media Oriented System Transport Network.
+CHOKeD: Fair Active Queue Management.
+On-the-Fly Process Resource Quarantine for System Stabilization.
+A Novel QoS Routing Method for LEO Rosette Constellation Network.
+Remote Temporal Couplers for Multiple Content Synchronization.
+Towards New Caching Strategy for Information-centric Networking Based on Data Proximity Control.
+A Robust Face Recognition System Based on Curvelet and Fractal Dimension Transforms.
+Accelerating Brain Simulations on Graphical Processing Units.
+Graph Grammar for the Research Information Collection Method According to Research Activities.
+BE-SIFT: A More Brief and Efficient SIFT Image Matching Algorithm for Computer Vision.
+Robust Approach for Medical Data Classification and Deploying Self-Care Management System for Sickle Cell Disease.
+Session Resumption-Based End-to-End Security for Healthcare Internet-of-Things.
+Context-Aware Clinical Knowledge Sharing in Cross-Boundary E-Health: A Conceptual Model.
+GARUDA: A New Geographical Accident Aware Solution to Reduce Urban Congestion.
+Stochastic Bounding Models for Performance Analysis of Clouds.
+Hybrid and Extensible Architecture for Cloud Infrastructure Deployment.
+A New Lightweight Homomorphic Encryption Scheme for Mobile Cloud Computing.
+Optimal Real Time Pricing Based on Income Maximization for Smart Grid.
+Modelling the Data Aggregator Positioning Problem in Smart Grids.
+A Zero-Penalty Container-Based Execution Infrastructure for Hadoop Framework.
+Middleware Reconfiguration Relying on Formal Methods.
+Core-Selecting Auction Based Spectrum Allocation Scheme in Cognitive Femtocell Networks.
+An AGV Mechanism Based Secure Routing Protocol for Internet of Things.
+Usage and Consequences of Privacy Settings in Microblogs.
+Association Rules Mining Based on Clustering Analysis and Soft Sets.
+Big Data Analytics in MOOCs.
+A Multi-criteria Review-Based Hotel Recommendation System.
+The Belief Degrees of Fuzzy Linguistic Values Based on a Fuzzy Formal Context.
+Recognition of Fuzzy Characters on Oracle-Bone Inscriptions.
+LSA-Based Chinese-Slavic Mongolian NER Disambiguation.
+Ontology Description of Chinese Character Semantics.
+Delaunay and Graph Modal-Based Bagua Layout Text Line Extraction for Shui Script.
+A Novel Dynamic Description and Generation Method for Chinese Character.
+Power-Aware QoS Provisioning in OFDMA Small Cell Networks.
+Power Management and Rate Control Mechanism for Wi-Fi Infrastructure Networks.
+Empirical Performance Models for V2V Communications.
+SoCar: A Social Car2Car Framework to Refine Routes Information Based on Road Events and GPS.
+Power Optimization Technique in Interference-Limited Femtocells in LTE and LTE Advanced Based Femtocell Networks.
+Analyzing Linear Communication Networks Using the Ribosome Flow Model.
+A Novel Secure SDN/LTE Based Architecture for Smart Grid Security.
+OpenGUFI: An Extensible Graphical User Flow Interface for an SDN-Enabled Wireless Testbed.
+HTTP Data Offloading Using Multipath TCP Proxy.
+Extending Event Elements of Business Process Model for Internet of Things.
+Mapping Security Requirements to Identify Critical Security Areas of Focus in PaaS Cloud Models.
+Lightweight Forensics Application: Lightweight Approach to Securing Mobile Devices.
+A Novel Network Topology in Underwater Visible Light Sensor Networks.
+Virtual Resource Allocation and Composition for Data Stream Processing of Online Auditing in Cloud Computing.
+A Study of a Virtual Network Embedding Algorithm.
+A Crisis Mitigation Policy for SLA Profit Maximization in Multitenant Database.
+REODM: Identify Local Outliers in Big Data.
+Global Index Oriented Non-Shard Key for Multi-tenant Database.
+An Intention-Topic Model Based on Verbs Clustering and Short Texts Topic Mining.
+Performance and Resource Prediction at High Utilization for N-Tier Service Systems in Cloud an Experiment Driven Approach.
+Ontology-Based Requirements Generation for Credibility Validation of Safety-Critical System.
+Method to Develop Coded Excitation for Velocimetry in Downhole Drilling.
+Using Relational Algebra on the Specification of Real World ETL Processes.
+An Empirical Evaluation of Software Quality Assurance Practices and Challenges in a Developing Country.
+Evaluating Open Source Software Quality Models Against ISO 25010.
+IVOrpheus - A Proposal for Interaction by Voice Commands in Three-Dimensional Environments of Information Visualization.
+Evaluating User Influence Based on the Properties of User in Social Networks.
+Dealing with Uncertainties in Software Project Management.
+Towards a Distinction between Application State Resources and Data Resources in ROA.
+Mining Binary Data with Matrix Algebra.
+Rankboost-Based Result Merging.
+Blind Detection of Image Splicing Based on Fuzzy Run-Length.
+ITSR-HISL: An Improved Model for Trajectory Signature Recognition in Human Interactive Sign Language.
+Adaptive Context-Sensitive Spelling Error Correction Techniques for the Extremely Unpredictable Error Generating Language Environments.
+Practical Target Word Selection Method in Korean to Korean Sign Language Machine Translation.
+Methodology for an Open Digital Forensics Model Based on CAINE.
+A Reliable Crisis Information System to Share Data after the Event of a Large-Scale Disaster.
+Use Cases and Development of Software Defined Networks in OpenStack.
+Euclidean Distance-Based QoS Metric for Dynamic MAP Selection in HMIPv6 Network.
+Real Time Bi-directional Traffic Management Support System with GPS and WebSocket.
+Power System Applications Integration for the Smart Grid.
+Static Group Privacy Protection Mechanism Based on Cloud Model.
+Tracking File's Metadata from Computer Memory Analysis.
+Facial Expression Recognition with sEMG Method.
+A Correlated Topic Modeling Approach for Facial Expression Recognition.
+Improving Camera Pose Estimation for Indoor Marker-less Augmented Reality.
+Intelligent Mobile Framework Based on Swarm Computation.
+A Web Service Composition Method Based on Merging Genetic Algorithm and Ant Colony Algorithm.
+The Research on Collaborative Filtering Recommendation Algorithm Based on Improved Clustering Processing.
+The Video Recommendation System Based on DBN.
+Content-centric Network-Based MANET for Streaming Video Transmission.
+A Fast and Accurate Iris Localization Technique for Healthcare Security System.
+An Automatic Corneal Subbasal Nerve Registration System Using FFT and Phase Correlation Techniques for an Accurate DPN Diagnosis.
+Breast Cancer Detection Using 1D, 2D, and 3D FDTD Numerical Methods.
+The Application of Full-Field Optical Coherence Tomography on Evaluating Film Coating of Pharmaceutical Pellets.
+Smart Bolus Estimation Taking into Account the Amount of Insulin on Board.
+Channel Estimation for OFDM FFT/DWT in Multi-carrier Modulation Used in Wireless Telemedicine.
+Wear-I: A New Paradigm in Wearable Computing (Invited Paper).
+Beaconless Geographic Routing Protocol with Adaptive Delay Timer in Wireless Sensor Networks.
+Energy-Efficient Location Estimation Using Variable Range Beacons in Wireless Sensor Networks.
+Energy Efficient Adaptive Cooperative Communications in Wireless Sensor Networks.
+XML Based Wireless Patient Monitoring System Using Vehicular Ad-Hoc Networks.
+When Smart Phone Meets Vehicle: A New On-Board Unit Scheme for VANETs.
+Probabilistic Area-Based Dissemination for Heterogeneous Transmission Ranges in Vehicular Ad-Hoc Networks.
+A Decentralized Batch-Based Group Key Management Protocol for Mobile Internet of Things (DBGK).
+A Dynamic Power Tuning for the Constrained Application Protocol of Internet of Things.
+E-Trickle: Enhanced Trickle Algorithm for Low-Power and Lossy Networks.
+Exploring Accuracy-Cost Tradeoff in In-Home Living Activity Recognition Based on Power Consumptions and User Positions.
+Bootstrapping Personalised Human Activity Recognition Models Using Online Active Learning.
+Minutiae Based Automatic Fingerprint Recognition: Machine Learning Approaches.
+Automatic Animal Detection from Kinect Sensed Images for Livestock Monitoring and Assessment.
+Temporal Recursive Pedestrian Trajectory Identification for Multi-camera Surveillance System.
+ECG Security Identification System on the Zynq SoC Platform.
+Integration of QoS Parameters from IEEE 802.11s WLAN Mesh Networks into Logical P2P Overlays.
+A New Relay Node Selection Model for Wireless Community Mesh Networks.
+Joint Relay Selection and Resource Allocation for D2D-Enabled Cellular Communications.
+Adaptive Current Level Control Algorithm For Battery-Powered ZigBee Network in Enterprise Settings.
+Increasing Interference Robustness of WiFi Fingerprinting by Leveraging Spectrum Information.
+Channel Capacity Analysis of Blood Capillary-Based Molecular Communication.
+Performance Investigation and Comparison between Virtual Networks and Physical Networks Based on an Advanced Testbed Network.
+Prototyping and In-Depth Analysis of Big Data Benchmarking.
+Pota: Maximizing Profit for Task-Level Scheduling for Data Center Networks.
+A Data Imputation Method Based on Deep Belief Network.
+DRISTI: Distributed Real-Time In-Situ Seismic Tomographic Imaging.
+Load Scheduling Based on an Advanced Real-Time Price Forecasting Model.
+On the Implementation of RT-FAIR Scheduling Framework in Linux.
+Developing Energy-Aware Task Allocation Schemes in Cloud-Assisted Mobile Workflows.
+A Smartphone Management Method to Save Battery Using Bayesian Networks and Fuzzy System.
+DIVINE: Building a Wearable Device for Intelligent Control of Environment Using Google Glass.
+Cost-Effective Hybrid Replacement Strategy for SSD in Web Cache.
+Analysis of Urban Residential Water Consumption Based on Smart Meters and Fuzzy Clustering.
+Response Time in Switching Scents When Converting Scenes.
+COVER: A Cooperative Virtual Force Robot Deployment Technique.
+Assessing Physical Location as a Potential Contextual Cue For Adaptive Mobile Contact Lists.
+Anti-counterfeiting Using Irregularities of Magnetic Flux Density.
+A Map-Reduce Method for Training Autoencoders on Xeon Phi.
+Universal Random Number Generation with Field-Programmable Analog Array and Magnetic Tunneling Junction (MTJ) Devices.
+Integrated QoS Assessment of Web Services.
+On Induced Soft Sets and Topology for the Parameter Set of a Soft Set.
+A Consensus Model for Multiple Criteria Group Decision Making under Linguistic Environment.
+Entropy on Interval-Valued Intuitionistic Fuzzy Soft Set.
+The Rough Set Model Based on Grade Indiscernibility Relation.
+Estimation of Physical Activity Walking in Different Slopes Based on Accelerometer Approach.
+Energy-Efficient Multimedia Multicast Scheduling and Resource Allocation Algorithms for OFDMA-Based Systems.
+Efficient Strategies of Compressing Three-Dimensional Sparse Arrays Based on Intel XEON and Intel XEON Phi Environments.
+Trusted Platform Based Linux File Access Control.
+Efficient Brain MRI Segmentation Algorithm on TK1.
+Voice Helper: A Mobile Assistive System for Visually Impaired Persons.
+Walk and Jog Characterization Using a Triaxial Accelerometer.
+Activity Tracker and Elderly.
+Introducing Digital Wellness: Bringing Cyberpsychological Balance to Healthcare and Information Technology.
+Clustering of Physical Activities for Quantified Self and mHealth Applications.
+A Simple Software Development Methodology Based on MVP for Android Applications in a Classroom Context.
+Travel Time Prediction on Highways.
+A Combined Smartphone and Smartwatch Fall Detection System.
+CoRFL: A Connectivity Restoration Mechanism Using Fuzzy Logic in Wireless Actor and Sensor Networks.
+Inspired Counter Based Broadcasting for Dynamic Source Routing in Mobile Networks.
+Development of ZigBee Triaxial Accelerometer Based Human Activity Recognition System.
+Towards a Holistic Multi-cloud Brokerage System: Taxonomy, Survey, and Future Directions.
+C2@home - A Novel User-Side Cloud-of-Clouds Management Architecture.
+Wireless Location Estimation Using Virtual Forces.
+Towards a Mobile Assistive Technology for Monitoring and Assessing Cognitive Fatigue in Individuals with Acquired Brain Injury.
+Probabilistic Estimation of Resource Affinities of Processes in Computing Systems.
+Towards a Semantic Layer to Support Road and Public Transport User Decision-Making.
+Development of an Integrated Agent for Greener Airport Operations.
+Big Data Computation for Workshop-Based Planning Support.
+Implementation of the Big Data Management System for Demand Side Energy Management.
+POPmine: Tracking Political Opinion on the Web.
+Nudge Better Quantified-Self with Context-Aware and Proactive Services.
+Towards a Heterogeneous Compute Engine for Software Acceleration on Big Data Infrastructures.
+Predictive Models for Energy-Efficient Clouds: An Analysis on Real-Life and Synthetic Data.
+Towards Free Market Cloud Computing.
+Separating Gesture Detection and Application Control Concerns with a Multimodal Architecture.
+The Potential of the Brain-Computer Interface for Learning: A Technology Review.
+Design of Novel Teaching Episodes in Medical Education Using Emerging Experiential Digital Assets: Technology Enabled Medical Education Beyond the Gimmicky.
+Simulating Nature for Elderly Users - A Design Approach for Recreational Virtual Environments.
+Playing Immersive Games on the REVERIE Platform.
+Hardware Interfaces for VR Applications: Evaluation on Prototypes.
+The REVERIE Human Representation Addresses Issues Related to Virtual Presence, Communication, and Interaction in Collaborative Virtual Environments.
+Lessons from Digital Puppetry: Updating a Design Framework for a Perceptual User Interface.
+Survey on Clean Slate Cellular-IoT Standard Proposals.
+Performance Evaluation of the RPL Protocol in Fixed and Mobile Sink Low-Power and Lossy-Networks.
+Performance Evaluation of RPL Objective Functions.
+Empirical Experiments for Sensors' Distance Estimation in Smart Places.
+Level Crossing Rate of Ratio of Product of Two k-u Random Variables and Nakagami-m Random Variable.
+Content-Based Video Quality Prediction Using Random Neural Networks for Video Streaming over LTE Networks.
+OpenFlow 1.3 Extension for OMNeT++.
+Medium Access Control Protocol to Address Hidden Terminals in MU-MIMO WLANs.
+Hata Path Loss Model Tuning for Cellular Networks in Irbid City.
+Hybrid Clustered Peer-Assisted DASH-SVC System.
+Video Quality in 5G Networks: Context-Aware QoE Management in the SDN Control Plane.
+Client QoE-Oriented Segment Selection for DASH.
+Anomalous Region Detection on the Mobility Data.
+Block-Based Feature Adaptive Compressive Sensing for Video.
+Distributed Black Virus Decontamination and Rooted Acyclic Orientations.
+Towards Automated Generation and Visualization of Hierarchical Attack Representation Models.
+Predicting the Effects of DDoS Attacks on a Network of Critical Infrastructures.
+Efficient Discovery of Malicious Symptoms in Clouds via Monitoring Virtual Machines.
+Efficient Event Detection in Social Media Data Streams.
+A New Prime and Probe Cache Side-Channel Attack for Cloud Computing.
+Evolutionary Virus Immune Strategy Based on Community Vitality.
+CloudZombie: Launching and Detecting Slow-Read Distributed Denial of Service Attacks from the Cloud.
+Detection and Prevention of Malicious Requests in ICN Routing and Caching.
+A Three-Stage Process to Detect Outliers and False Positives Generated by Intrusion Detection Systems.
+A Cyber Security Ontology for BPMN-Security Extensions.
+An Empirical Risk Management Framework for Monitoring Network Security.
+Protecting Future Personal Computing: Challenging Traditional Network Security Models.
+A Safety Concept for a Railway Mixed-Criticality Embedded System Based on Multicore Partitioning.
+A Modular Safety Case for an IEC 61508 Compliant Generic COTS Processor.
+Digital Memories Based Mobile User Authentication for IoT.
+The Trustworthy Autonomic Interface Guardian Architecture for Cyber-Physical Systems.
+ShutterRoller: Preserving Social Network Privacy towards High-Speed Domain Gateway.
+Identity-Based Association Protocols for Wireless Personal Area Networks.
+Representation of Trust and Reputation in Self-Managed Computing Systems.
+Preserving Source-Location Privacy through Redundant Fog Loop for Wireless Sensor Networks.
+Simulation Environment Based on SystemC and VEOS for Multi-core Processors with Virtual AUTOSAR ECUs.
+Evaluation and Prevention of MAC Layer Misbehaviours in Public Wireless Hotspots.
+Enterprise Data Center Globality Measurement.
+Towards Efficient Dissemination and Filtering of XML Data Streams.
+CCTV as a Smart Sensor Network.
+Take Off a Load: Load-Adjusted Video Quality Prediction and Measurement.
+PAM: A Packet Manipulation Mechanism for Mitigating Crosstalk Faults in NoCs.
+Correlation-Based Top-k Recommendation for Web Services.
+The Impact of Hypervisor Scheduling on Compromising Virtualized Environments.
+Incremental, Distributed, and Concurrent Scheduling in Systems-of-Systems with Real-Time Requirements.
+Diverse Compiling for Microprocessor Fault Detection in Temporal Redundant Systems.
+Calligraphy Imitation System Based on Virtual Brush and Scale-Invariant Feature Transform.
+Linear (k, n) Secret Sharing Scheme with Cheating Detection.
+A Fragment Classification Method Depending on Data Type.
+Don't Speak to Strangers: The Suspicious Strategy Can Help to Improve Cooperation in Spatial Donation Game.
+A Secure Authentication Scheme for Session Initiation Protocol Based on Elliptic Curve Cryptography.
+Counterfeiting and Defending the Digital Forensic Process.
+Mitigating Circumstances in Cybercrime: A Position Paper.
+MP-Shield: A Framework for Phishing Detection in Mobile Devices.
+The Evidentiary Value of Link Files in Linux File System to Digital Forensic Investigation.
+Fast Mining of Large-Scale Logs for Botnet Detection: A Field Study.
+Zero-Carbon Cloud: A Volatile Resource for High-Performance Computing.
+Use HDLC Principles for Distributed Applications.
+AnkaCom: A Development and Experiment for Extreme Scale Computing.
+A Mobile Phone Device as a Biometrics Authentication Method for an ATM Terminal.
+Human-Computer Interaction System for Communications and Control.
+Using Dropped Call as an Authentication Factor.
+Function and Performance of Testing: Towards a Systemic View.
+Autonomic Management Using Self-Stabilization for Hierarchical and Distributed Middleware.
+A Context Aware Reputation Mechanism for Enhancing Big Data Veracity in Mobile Cloud Computing.
+Empirical Analysis of Rate Limiting + Leap Ahead (RL+LA) Countermeasure against Witty Worm.
+Fuzzy Inference Based Intrusion Detection System: FI-Snort.
+Toward a Secure Android Software Protection System.
+Computational Objectivity in Depression Assessment for Unstructured Large Datasets.
+Investigation of Energy Efficiency on Cloud Computing.
+A Semi-automated Assessment of the Direction of Influence Relations from Semantic Networks: A Case Study in Maths Anxiety.
+Reducing Vehicular Traffic Congestion Using Available Forward Road Capacity Detection.
+Crowd Steering in Public Spaces: Approaches and Strategies.
+Performance Evaluation of Cyber-Physical Intrusion Detection on a Robotic Vehicle.
+A Smartphone-Based System for Personal Data Management and Personality Analysis.
+A Novel Image Quality Assessment Method Based on Vision Attention.
+ShakeMe: Key Generation from Shared Motion.
+A Rule-Based Ontology Reasoning System for Context-Aware Building Energy Management.
+A Convolutional Neural Network for Leaves Recognition Using Data Augmentation.
+Neural Networks Based Formation Control of Anti-ship Missiles with Constant Velocity.
+Interactive Display Services for Smart Environments.
+Prevent Cooking Risks in Kitchen of Elderly People: Adaptable Reasoning Engine Based on Fuzzy Logic for Smart Oven.
+Parameter Optimisation for Location Extraction and Prediction Applications.
+Unified Structure and Data Driven Process for Knowledge Enrichment and Problem Solving.
+Cooperative Socio-aware Dynamic Backoff Optimization for Urban VANETs.
+A Secure Cooperative Spectrum Sensing Strategy for Distributed Cognitive Radio Networks.
+Backhaul Aggregation for Smart Homes in Heterogeneous Wireless Networks.
+FPGA Based Reconfigurable IPSec AH Core Suitable for IoT Applications.
+Coalition Based Bandwidth Allocation in Mobile Social Networks.
+Context-Aware Service Discovery and Selection in Decentralized Environments.
+Pervasive Information Visualization: Toward an Information Visualization Design Methodology for Multi-device Co-located Synchronous Collaboration.
+The Mobile Tree Browser: A Space Filling Information Visualization for Browsing Labelled Hierarchies on Mobile Devices.
+The Robustness of Face-Based CAPTCHAs.
+Design and Verification of Heterogeneous Streaming Parallel Mechanisms on Kepler CUDA.
+PSO Based Multiobjective Reliable Optimization Model for Cloud Storage.
+Community Detection Algorithm Based on the Scale Free Property of Networks.
+An Efficient Method for Document Categorization Based on Word2vec and Latent Semantic Analysis.
+Water Quality Modeling for Pipeline Network Peripherals Based on Simulation of Water Age.
+Prediction and Guidance of Behaviour: A Web-Based Multipurpose Behaviour Intervention Investigation Methodology.
+Smart Health Monitoring Using the Advance Metering Infrastructure.
+A Prostate Cancer Care Process Example of Using Data from Internet of Things.
+Improving the Validity of Lifelogging Physical Activity Measures in an Internet of Things Environment.
+Life-Logging Data Aggregation Solution for Interdisciplinary Healthcare Research and Collaboration.
+Improving Reliability of Message Broadcast over Internet of Vehicles (IoVs).
+Investigating Big Data Healthcare Security Issues with Raspberry Pi.
+MyHealthAvatar: A Case Study of Web-Based Interactive Visual Analytics of Lifestyle Data.
+BPMN Security Extensions for Healthcare Process.
+Cognitive Radio Aided Internet of Vehicles (IoVs) for Improved Spectrum Resource Allocation.
+A Survey of Physical Activity Monitoring and Assessment Using Internet of Things Technology.
+Sentiment Analysis Using Convolutional Neural Network.
+Recognition of Dynamic Data Structures to Support Porting of Applications to the Cloud.
+Assist-Me - A Volunteer Mobile Emergency System to Assist Elderly People.
+A Dining Context-Aware System with Mobile and Wearable Devices.
+An Adaptable inVANETs-Based Intersection Traffic Control Algorithm.
+Relay Node Deployment for Wireless Sensor Networks Based on PSO.

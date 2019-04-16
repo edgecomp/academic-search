@@ -2,6 +2,8 @@ import os
 import requests
 from bs4 import BeautifulSoup
 
+CONFERENCE_LIST_DIR_PATH = ''
+
 
 def create_conference_list_dir(directory_name):
     if not os.path.exists(directory_name):
@@ -11,10 +13,11 @@ def create_conference_list_dir(directory_name):
 
 def create_list(project_directory):
     create_conference_list_dir(project_directory)
-    conference_list = project_directory + '/conference_list.txt'
-    if not os.path.isfile(conference_list):
-        write_file(conference_list, '')
-    return conference_list
+    global CONFERENCE_LIST_DIR_PATH
+    CONFERENCE_LIST_DIR_PATH = project_directory + '/conference_list.txt'
+    if not os.path.isfile(CONFERENCE_LIST_DIR_PATH):
+        write_file(CONFERENCE_LIST_DIR_PATH, '')
+    return CONFERENCE_LIST_DIR_PATH
 
 
 def write_file(path, data):
@@ -30,7 +33,6 @@ def append_to_existing_file(path, data):
 
 def filter_conferences(conference_name, list_path):
     if 'Conference' in conference_name or 'Symposium' in conference_name:
-        # print(conference_name)
         append_to_existing_file(list_path, conference_name)
 
 
@@ -46,17 +48,17 @@ def get_conference_names(list_path):
         html = req.text
         soup = BeautifulSoup(html, 'html.parser')
 
-        tabledatas = soup.findAll('td', {"class": "gsc_mvt_t"})
-        for tableData in tabledatas:
+        tabledata = soup.findAll('td', {"class": "gsc_mvt_t"})
+        for tableData in tabledata:
             conference_name = tableData.text
             filter_conferences(conference_name, list_path)
 
 
-def main():
-    directory_name = 'Conference List'
-    # create_conference_list_dir(directory_name)
-    get_conference_names(create_list(directory_name))
-
-
-if __name__ == "__main__":
-    main()
+# def main():
+#     directory_name = 'Conference List'
+#     # create_conference_list_dir(directory_name)
+#     get_conference_names(create_list(directory_name))
+#
+#
+# if __name__ == "__main__":
+#     main()

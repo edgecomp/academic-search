@@ -1,0 +1,46 @@
+Keynote speaker.
+Keynote speaker.
+Interactive streamline exploration and manipulation using deformation.
+Moment invariants for 3D flow fields via normalization.
+Surface flow visualization using the closest point embedding.
+Parallel unsteady flow line integral convolution for high-performance dense visualization.
+Dendrogramix: A hybrid tree-matrix visualization technique to support interactive exploration of dendrograms.
+Attribute-driven edge bundling for general graphs with applications in trail analysis.
+Interactive visual summary of major communities in a large network.
+Clustered edge routing.
+Spherical layout and rendering methods for immersive graph visualization.
+Laplacian-based dynamic graph visualization.
+MultiStory: Visual analytics of dynamic multi-relational networks.
+Variational circular treemaps for interactive visualization of hierarchical data.
+OD-Wheel: Visual design to explore OD patterns of a central region.
+Analyzing delays in trajectories.
+Applying feature integration theory to glyph-based information visualization.
+ERICAs: Enabling insights into ab initio Molecular Dynamics simulations.
+Extending Dimensions in Radviz based on mean shift.
+Text visualization techniques: Taxonomy, visual survey, and community insights.
+Visual exploration of Location-Based Social Networks data in urban planning.
+SentiCompass: Interactive visualization for exploring and comparing the sentiments of time-varying twitter data.
+Application of Pareto sets in quality control of series production in car manufacturing.
+Visualizing 2D scalar fields with hierarchical topology.
+Adaptive particle relaxation for time surfaces.
+Computation-to-core mapping strategies for iso-surface volume rendering on GPUs.
+VisMOOC: Visualizing video clickstream data from Massive Open Online Courses.
+TraVis - A visualization framework for mobile transect data sets in an urban microclimate context.
+CloudGazer: A divide-and-conquer approach to monitoring and optimizing cloud-based networks.
+Can twitter really save your life? A case study of visual social media analytics for situation awareness.
+MetaTracts - A method for robust extraction and visualization of carbon fiber bundles in fiber reinforced composites.
+SketchInsight: Natural data exploration on interactive whiteboards leveraging pen and touch interaction.
+Clutter-aware label layout.
+Uncertainty modeling and error reduction for pathline computation in time-varying flow fields.
+An uncertainty-driven approach to vortex analysis using oracle consensus and spatial proximity.
+Efficient volume illumination with multiple light sources through selective light updates.
+Advanced lighting for unstructured-grid data visualization.
+Illustrative Timelapse: A technique for illustrative visualization of particle-based simulations.
+Coverage-based opacity estimation for interactive Depth of Field in molecular visualization.
+Distance between extremum graphs.
+A parallel and memory efficient algorithm for constructing the contour tree.
+Ray tracing within a data parallel framework.
+Biclustering multivariate data for correlated subspace mining.
+Improving the fidelity of contextual data layouts using a Generalized Barycentric Coordinates framework.
+Interactive high-dimensional visualization of social graphs.
+TrajRank: Exploring travel behaviour on a route by trajectory ranking.

@@ -1,0 +1,141 @@
+Wide input range 1.7μW 1.2kS/s resistive sensor interface circuit with 1 cycle/sample logarithmic sub-ranging.
+Challenges for high-density 16Gb ReRAM with 27nm technology.
+High-level video analytics PC subsystem using SoC with heterogeneous multi-core architecture.
+A 0.5-degree error 10mW CMOS image sensor-based gaze estimation processor with logarithmic processing.
+A 2.5-V, 160-μJ-output piezoelectric energy harvester and power management IC for batteryless wireless switch (BWS) applications.
+A robust -40 to 120°C all-digital true random number generator in 40nm CMOS.
+A RISC-V vector processor with tightly-integrated switched-capacitor DC-DC converters in 28nm FDSOI.
+Inductively-powered wireless solid-state drive (SSD) system with merged error correction of high-speed non-contact data links and NAND flash memory.
+Profiting from IoT: The key is very-large-scale happiness integration.
+15 dB Conversion gain, 20 MHz carrier frequency AM receiver in flexible a-IGZO TFT technology with textile antennas.
+A 0.4-1.6GHz spur-free bang-bang digital PLL in 65nm with a D-flip-flop based frequency subtractor circuit.
+A 16-core voltage-stacked system with an integrated switched-capacitor DC-DC converter.
+A 16-channel wireless neural interfacing SoC with RF-powered energy-replenishing adiabatic stimulation.
+A linear response single exposure CMOS image sensor with 0.5e- readout noise and 76ke- full well capacity.
+A 5.9mW/Gb/s 7Gb/s/pin 8-lane single-ended RX with crosstalk cancellation scheme using a XCTLE and 56-tap XDFE in 32nm SOI CMOS.
+A -194 dBc/Hz FOM interactive current-reused QVCO (ICR-QVCO) with capacitor-coupling self-switching sinusoidal current biasing (CSSCB) phase noise reduction technique.
+A 3.5mW 315/400MHz IEEE802.15.6/proprietary mode digitally-tunable radio SoC with integrated digital baseband and MAC processor in 40nm CMOS.
+A 0.094um2 high density and aging resilient 8T SRAM with 14nm FinFET technology featuring 560mV VMIN with read and write assist.
+IoT: The Impact of Things.
+Embedded image recognition systems for advanced safety vehicles.
+A 2.8mW/Gb/s 14Gb/s serial link transceiver in 65nm CMOS.
+A 7.2 mW 75.3 dB SNDR 10 MHz BW CT delta-sigma modulator using Gm-C-based noise-shaped quantizer and digital integrator.
+A 0.6V all-digital body-coupled wakeup transceiver for IoT applications.
+Enabling closed-loop neural interface: A bi-directional interface circuit with stimulation artifact cancellation and cross-channel CM noise suppression.
+A 99nW 70.4kHz resistive frequency locking on-chip oscillator with 27.4ppm/ºC temperature stability.
+Robotics for innovation.
+A 60GHz wireless transceiver employing hybrid analog/digital beamforming with interference suppression for multiuser gigabit/s radio access.
+A 13-ENOB, 5 MHz BW, 3.16 mW multi-bit continuous-time ΔΣ ADC in 28 nm CMOS with excess-loop-delay compensation embedded in SAR quantizer.
+A 32 Gb/s 0.55 mW/Gbps PAM4 1-FIR 2-IIR tap DFE receiver in 65-nm CMOS.
+A fully integrated CMOS fluorescence biosensor with on-chip nanophotonic filter.
+A 0.78mW/cm2 autonomous thermoelectric energy-harvester for biomedical sensors.
+Broadwell: A family of IA 14nm processors.
+A 33 nJ/vector descriptor generation processor for low-power object recognition.
+High-mobility high-Ge-content Si1-xGex-OI PMOS FinFETs with fins formed using 3D germanium condensation with Ge fraction up to x∼ 0.7, scaled EOT∼8.5Å and ∼10nm fin width.
+Neurochemical thermostat: A neural interface SoC with integrated chemometrics for closed-loop regulation of brain dopamine.
+A 6.4Gb/s/pin at sub-1V supply voltage TX-interleaving technique for mobile DRAM interface.
+Reconstruction of multiple-user voice commands using a hybrid system based on thin-film electronics and CMOS.
+A TDD/FDD SAW-less superheterodyne receiver with blocker-resilient band-pass filter and multi-stage HR in 28nm CMOS.
+A 9.35-ENOB, 14.8 fJ/conv.-step fully-passive noise-shaping SAR ADC.
+A configurable TCAM/BCAM/SRAM using 28nm push-rule 6T bit cell.
+Highly reliable TaOx ReRAM with centralized filament for 28-nm embedded application.
+A dithering-less 54.79-to-63.16GHz DCO with 4-Hz frequency resolution using an exponentially-scaling C-2C switched-capacitor ladder.
+Low-power embedded ReRAM technology for IoT applications.
+Image sensor/digital logic 3D stacked module featuring inductive coupling channels for high speed/low-noise image transfer.
+A 60Gb/s 173mW receiver frontend in 65nm CMOS technology.
+1.8 Mbit/mm2 ternary-CAM macro with 484 ps search access time in 16 nm Fin-FET bulk CMOS technology.
+A multi-chip system optimized for insect-scale flapping-wing robots.
+Solar energy harvesting system with integrated battery management and startup using single inductor and 3.2nW quiescent power.
+Breakthrough technologies and reference designs for new IoT applications.
+A 5.5W AC input converter-free LED driver with 82% low-frequency-flicker reduction, 88.2% efficiency and 0.92 power factor.
+A fully-integrated 40-phase flying-capacitance-dithered switched-capacitor voltage regulator with 6mV output ripple.
+4.2 pW timer for heavily duty-cycled systems.
+A 1Gb/s energy efficient triple-channel UWB-based cognitive radio.
+A 10/20/30/40 MHz feed-forward FIR DAC continuous-time ΔΣ ADC with robust blocker performance for radio receivers.
+A 75 MHz BW 68dB DR CT-ΣΔ modulator with single amplifier biquad filter and a broadband low-power common-gate summing technique.
+Automotive low power technology for IoT society.
+A 16nm FinFet 19/39MHz 78/72dB DR noise-injected aggregated CTSDM ADC for configurable LTE advanced CCA/NCCA Application.
+A 19.6-Gbps CMOS optical receiver with local feedback IIR DFE.
+A 100-GbE reverse gearbox IC in 40nm CMOS for supporting legacy 10- and 40-GbE standards.
+410-GHz CMOS imager using a 4th sub-harmonic mixer with effective NEP of 0.3 fW/Hz0.5 at 1-kHz noise bandwidth.
+Active-lite interposer for 2.5 & 3D integration.
+A 1W 8-ratio switched-capacitor boost power converter in 140nm CMOS with 94.5% efficiency, 0.5mm thickness and 8.1mm2 PCB area.
+Fully integrated DC-DC converter and a 0.4V 32-bit CPU with timing-error prevention supplied from a prototype 1.55V Li-ion battery.
+A 4×9 Gb/s 1 pJ/b NRZ/multi-tone serial-data transceiver with crosstalk reduction architecture for multi-drop memory interfaces in 40nm CMOS.
+Single-chip 4K 60fps 4: 2: 2 HEVC video encoder LSI with 8K scalability.
+A 4.35Gb/s/pin LPDDR4 I/O interface with multi-VOH level, equalization scheme, and duty-training circuit for mobile applications.
+A 12b 70MS/s SAR ADC with digital startup calibration in 14nm CMOS.
+A digital bang-bang phase-locked loop with automatic loop gain control and loop latency reduction.
+A fully integrated ±5A current-sensing system with ±0.25% gain error and 12μΑ offset from -40°C to +85°C.
+An all-digital bang-bang PLL using two-point modulation and background gain calibration for spread spectrum clock generation.
+A 4.84mW 30fps dual frequency division multiplexing electrical impedance tomography SoC for lung ventilation monitoring system.
+Reliability enhancement of 1Xnm TLC for cold flash and millennium memories.
+A 3.8 mW/Gbps quad-channel 8.5-13 Gbps serial link with a 5-tap DFE and a 4-tap transmit FFE in 28 nm CMOS.
+A self-referenced VCO-based temperature sensor with 0.034°C/mV supply sensitivity in 65nm CMOS.
+Privacy-protection solid-state storage (PP-SSS) system: Automatic lifetime management of internet-data's right to be forgotten.
+A 640M pixel/s 3.65mW sparse event-driven neuromorphic object recognition processor with on-chip learning.
+Technology innovation in an IoT Era.
+A low-PDP and low-area repeater using passive CTLE for on-chip interconnects.
+A 23mW face recognition accelerator in 40nm CMOS with mostly-read 5T memory.
+86.55% Peak efficiency envelope modulator for 1.5W 10MHz LTE PA without AC coupling capacitor.
+A 2.7mW/Channel 48-to-1000MHz Direct Sampling Full-Band Cable Receiver.
+Sensor-hub sweet-spot analysis for ultra-low-power always-on operation.
+A 25GS/s 6b TI binary search ADC with soft-decision selection in 65nm CMOS.
+Holistic technology optimization and key enablers for 7nm mobile SoC.
+Low-voltage metal-fuse technology featuring a 1.6V-programmable 1T1R bit cell with an integrated 1V charge pump in 22nm tri-gate process.
+A throughput-agnostic 11.9-13.6GOPS/mW multi-signal classification SoC for cognitive radios in 40nm CMOS.
+A 12-bit 200-MS/s 3.4-mW CMOS ADC with 0.85-V supply.
+Caching mechanisms towards single-level storage systems for Internet of Things.
+A 794Mbps 135mW iterative detection and decoding receiver for 4×4 LDPC-coded MIMO systems in 40nm.
+A 1.2-5Gb/s 1.4-2pJ/b serial link in 22nm CMOS with a direct data-sequencing blind oversampling CDR.
+A reconfigurable sense amplifier with 3X offset reduction in 28nm FDSOI CMOS.
+Sub-μW standby power, <18 μW/DMIPS@25MHz MCU with embedded atom-switch programmable logic and ROM.
+Circuits evening panel discussion 2: Wearable electronics: Still an oasis or just a mirage for the semiconductor industry?
+A battery-connected 24-ratio switched capacitor PMIC achieving 95.5%-efficiency.
+A 3D stacked CMOS image sensor with 16Mpixel global-shutter mode and 2Mpixel 10000fps mode using 4 million interconnections.
+A 0.66e-rms temporal-readout-noise 3D-stacked CMOS image sensor with conditional correlated multiple sampling (CCMS) technique.
+A 0.5-to-0.75V, 3-to-8 Gbps/lane, 385-to-790 fJ/b, bi-directional, quad-lane forwarded-clock transceiver in 22nm CMOS.
+A sharp programmable passive filter based on filtering by Aliasing.
+An efficient and resilient ultra-high speed galvanic data isolator leveraging broad-band multi resonant tank electro-magnetic coupling.
+A 54mW 1.2GS/s 71.5dB SNDR 50MHz BW VCO-based CT ΔΣ ADC using dual phase/frequency feedback in 65nm CMOS.
+A near-field modulation chopping stabilized injection-locked oscillator sensor for protein conformation detection at microwave frequency.
+Fabrication of a 3000-6-input-LUTs embedded and block-level power-gated nonvolatile FPGA chip using p-MTJ-based logic-in-memory structure.
+A computer designed half Gb 16-channel 819Gb/s high-bandwidth and 10ns low-latency DRAM for 3D stacked memory devices using TSVs.
+A 16-bit 10Gsps current steering RF DAC in 65nm CMOS achieving 65dBc ACLR multi-carrier performance at 4.5GHz Fout.
+A 14b 750MS/s DAC in 20nm CMOS with <-168dBm/Hz noise floor beyond Nyquist and 79dBc SFDR utilizing a low glitch-noise hybrid R-2R architecture.
+A 0.4V self-powered CMOS imager with 140dB dynamic range and energy harvesting.
+A 6b 46GS/s ADC with >23GHz BW and sparkle-code error correction.
+A 10.6mm3 fully-integrated, wireless sensor node with 8GHz UWB transmitter.
+14nm FinFET based supply voltage boosting techniques for extreme low Vmin operation.
+A 14 nm SoC platform technology featuring 2nd generation Tri-Gate transistors, 70 nm gate pitch, 52 nm metal pitch, and 0.0499 um2 SRAM cells, optimized for low power, high performance and high density SoC products.
+Transistor-interconnect mobile system-on-chip co-design method for holistic battery energy minimization.
+Design and demonstration of reliability-aware Ge gate stacks with 0.5 nm EOT.
+7.4μW Ultra-high slew-rate pseudo single-stage amplifier driving 0.1-to-15nF capacitive load with >69° phase margin.
+A CMOS 4-channel MIMO baseband receiver with 65dB harmonic rejection over 48MHz and 50dB spatial signal separation over 3MHz at 1.3mW.
+56Gb/s PAM4 and NRZ SerDes transceivers in 40nm CMOS.
+A fully integrated IEEE 802.15.7 visible light communication transmitter with on-chip 8-W 85% efficiency boost LED driver.
+Toward 1024-channel parallel neural recording: Modular Δ-ΔΣ analog front-end architecture with 4.84fJ/C-s·mm2 energy-area product.
+A 0.7 V 256 μW ΔΣ modulator with passive RC integrators achieving 76 dB DR in 2 MHz BW.
+A 450-fs jitter PVT-robust fractional-resolution injection-locked clock multiplier using a DLL-based calibrator with replica-delay-cells.
+A 144MHz integrated resonant regulating rectifier with hybrid pulse modulation.
+A 40-Gb/s 9.2-mW CMOS equalizer.
+RRAM-based 7T1R nonvolatile SRAM with 2x reduction in store energy and 94x reduction in restore energy for frequent-off instant-on applications.
+A self-powered IPv6 bidirectional wireless sensor & actuator network for indoor conditions.
+Resonant clock mega-mesh for the IBM z13TM.
+Circuits evening panel discussion 1: Is university circuit design research and education keeping up with industry needs?
+1.32GHz high-throughput charge-recovery AES core with resistance to DPA attacks.
+FPGA-accelerated complex event processing.
+An 82%-efficient multiphase voltage-regulator 3D interposer with on-chip magnetic inductors.
+System challenges and hardware requirements for future consumer devices: From wearable to ChromeBooks and devices in-between.
+An AMLED microdisplay driver SoC with built-in 1.25-Mb/s VLC transmitter.
+A 3-10fJ/conv-step 0.0032mm2 error-shaping alias-free asynchronous ADC.
+Technology/circuits joint evening panel discussion semiconductor industry in 2020: Evolution or revolution?
+A 120nW 8b sub-ranging SAR ADC with signal-dependent charge recycling for biomedical applications.
+Hybrid driver IC for real-time TFT non-uniformity compensation of ultra high-definition AMOLED display.
+The progresses of MRAM as a memory to save energy consumption and its potential for further reduction.
+Automated driving - Impacts on the vehicle architecture.
+A 45nm SOI monolithic photonics chip-to-chip link with bit-statistics-based resonant microring thermal tuning.
+A low-power Gm-C-based CT-ΔΣ audio-band ADC in 1.1V 65nm CMOS.
+0.65-0.73THz quintupler with an on-chip antenna in 65-nm CMOS.
+A 25-Gb/s, -10.8-dBm input sensitivity, PD-bandwidth tolerant CMOS optical receiver.
+A 3.07μm2/bitcell physically unclonable function with 3.5% and 1% bit-instability across 0 to 80°C and 0.6 to 1.2V in a 65nm CMOS.

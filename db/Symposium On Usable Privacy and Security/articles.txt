@@ -1,0 +1,22 @@
+A Design Space for Effective Privacy Notices.
+"WTH..!?!" Experiences, Reactions, and Expectations Related to Online Privacy Panic Situations.
+"My Data Just Goes Everywhere: " User Mental Models of the Internet and Implications for Privacy and Security.
+User Perceptions of Sharing, Advertising, and Tracking.
+Leading Johnny to Water: Designing for Usability and Trust.
+Usability of Augmented Reality for Revealing Secret Messages to Users but Not Their Devices.
+Unpacking Security Policy Compliance: The Motivators and Barriers of Employees' Security Behaviors.
+"I Added '!' at the End to Make It Secure": Observing Password Creation in the Lab.
+Social Media As a Resource for Understanding Security Experiences: A Qualitative Analysis of #Password Tweets.
+"I'm Stuck!": A Contextual Inquiry of People with Visual Impairments in Authentication.
+Where Have You Been? Using Location-Based Security Questions for Fallback Authentication.
+The Impact of Cues and User Interaction on the Memorability of System-Assigned Recognition-Based Graphical Passwords.
+On the Memorability of System-generated PINs: Can Chunking Help?
+Evaluating the Effectiveness of Using Hints for Autobiographical Authentication: A Field Study.
+Usability and Security Perceptions of Implicit Authentication: Convenient, Secure, Sometimes Annoying.
+Understanding the Inconsistencies between Text Descriptions and the Use of Privacy-sensitive Resources of Mobile Apps.
+On the Impact of Touch ID on iPhone Passcodes.
+Learning Assigned Secrets for Unlocking Mobile Devices.
+Security Practices for Households Bank Customers in the Kingdom of Saudi Arabia.
+Too Much Knowledge? Security Beliefs and Protective Behaviors Among United States Internet Users.
+"...No one Can Hack My Mind": Comparing Expert and Non-Expert Security Practices.
+A Human Capital Model for Mitigating Security Analyst Burnout.

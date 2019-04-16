@@ -1,0 +1,128 @@
+Making Sense of Big Data with the Berkeley Data Analytics Stack.
+New Directions in Recommender Systems.
+Big Data: New Paradigm or "Sound and Fury, Signifying Nothing"?
+Delayed-Dynamic-Selective (DDS) Prediction for Reducing Extreme Tail Latency in Web Search.
+MergeRUCB: A Method for Large-Scale Online Ranker Evaluation.
+Engagement Periodicity in Search Engine Usage: Analysis and its Application to Search Quality Evaluation.
+Toward Predicting the Outcome of an A/B Experiment for Search Relevance.
+Optimal Space-time Tradeoffs for Inverted Indexes.
+Understanding and Predicting Graded Search Satisfaction.
+Robust Tree-based Causal Inference for Complex Ad Effectiveness Analysis.
+The Power of Random Neighbors in Social Networks.
+Negative Link Prediction in Social Media.
+Sarcasm Detection on Twitter: A Behavioral Modeling Approach.
+Modeling and Predicting Retweeting Dynamics on Microblogging Platforms.
+On Integrating Network and Community Discovery.
+On the Accuracy of Hyper-local Geotagging of Social Media Content.
+Learning from User Interactions.
+Learning to Recommend Related Entities to Search Users.
+Will This Paper Increase Your h-index?: Scientific Impact Prediction.
+Concept Graph Learning from Educational Data.
+Review Synthesis for Micro-Review Summarization.
+Fast and Space-Efficient Entity Linking for Queries.
+On Tag Recommendation for Expertise Profiling: A Case Study in the Scientific Domain.
+FLAME: A Probabilistic Model Combining Aspect Based Opinion Mining and Collaborative Filtering.
+Semantic Matching in APP Search.
+Boosting Search with Deep Understanding of Contents and Users.
+Driven by Food: Modeling Geographic Choice.
+Hiring Behavior Models for Online Labor Markets.
+Just in Time Recommendations: Modeling the Dynamics of Boredom in Activity Streams.
+Leveraging In-Batch Annotation Bias for Crowdsourced Active Learning.
+Listwise Approach for Rank Aggregation in Crowdsourcing.
+WorkerRank: Using Employer Implicit Judgements to Infer Worker Reputation.
+The Information Life of Social Networks.
+User Modeling for a Personal Assistant.
+Predicting The Next App That You Are Going To Use.
+You Are Where You Go: Inferring Demographic Attributes from Location Check-ins.
+SimApp: A Framework for Detecting Similar Mobile Applications by Online Kernel Learning.
+Personalized Mobile App Recommendation: Reconciling App Functionality and User Privacy Preference.
+Inferring Movement Trajectories from GPS Snippets.
+Regressing Towards Simpler Prediction Systems.
+Global Optimization for Display Ad.
+Back to the Past: Supporting Interpretations of Forgotten Stories by Time-aware Re-Contextualization.
+Diluted Treatment Effect Estimation for Trigger Analysis in Online Controlled Experiments.
+Inverting a Steady-State.
+Automatic Gloss Finding for a Knowledge Base using Ontological Constraints.
+Finding Subgraphs with Maximum Total Density and Limited Overlap.
+Modeling Website Popularity Competition in the Attention-Activity Marketplace.
+Exploring the Space of Topic Coherence Measures.
+Dynamic Information Retrieval Modeling.
+Scalability and Efficiency Challenges in Large-Scale Web Search Engines.
+Offline Evaluation and Optimization for Interactive Systems.
+Real-Time Bidding: A New Frontier of Computational Advertising Research.
+Learning About Health and Medicine from Internet Data.
+Distributed Graph Algorithmics: Theory and Practice.
+DL-WSDM'15: Workshop on Deep Learning for Web Search and Data Mining.
+HIA'15: Heterogeneous Information Access Workshop at WSDM 2015.
+WSDM'15 Workshop Summary / Scalable Data Analytics: Theory and Applications.
+The 2nd workshop on Vertical Search Relevance at WSDM 2015.
+An Approach to the Problem of Annotation of Research Publications.
+Incorporating Phrase-level Sentiment Analysis on Textual Reviews for Personalized Recommendation.
+Mining Groups Stability in Ubiquitous and Social Environments: Communities, Classes and Clusters.
+Sentiment-Specific Representation Learning for Document-Level Sentiment Analysis.
+Chronological Scientific Information Recommendation via Supervised Dynamic Topic Modeling.
+Topics, Tasks & Beyond: Learning Representations for Personalization.
+Making Sense of Big Data with the Berkeley Data Analytics Stack.
+New Directions in Recommender Systems.
+Big Data: New Paradigm or "Sound and Fury, Signifying Nothing"?
+Delayed-Dynamic-Selective (DDS) Prediction for Reducing Extreme Tail Latency in Web Search.
+MergeRUCB: A Method for Large-Scale Online Ranker Evaluation.
+Engagement Periodicity in Search Engine Usage: Analysis and its Application to Search Quality Evaluation.
+Toward Predicting the Outcome of an A/B Experiment for Search Relevance.
+Optimal Space-time Tradeoffs for Inverted Indexes.
+Understanding and Predicting Graded Search Satisfaction.
+Robust Tree-based Causal Inference for Complex Ad Effectiveness Analysis.
+The Power of Random Neighbors in Social Networks.
+Negative Link Prediction in Social Media.
+Sarcasm Detection on Twitter: A Behavioral Modeling Approach.
+Modeling and Predicting Retweeting Dynamics on Microblogging Platforms.
+On Integrating Network and Community Discovery.
+On the Accuracy of Hyper-local Geotagging of Social Media Content.
+Learning from User Interactions.
+Learning to Recommend Related Entities to Search Users.
+Will This Paper Increase Your h-index?: Scientific Impact Prediction.
+Concept Graph Learning from Educational Data.
+Review Synthesis for Micro-Review Summarization.
+Fast and Space-Efficient Entity Linking for Queries.
+On Tag Recommendation for Expertise Profiling: A Case Study in the Scientific Domain.
+FLAME: A Probabilistic Model Combining Aspect Based Opinion Mining and Collaborative Filtering.
+Semantic Matching in APP Search.
+Boosting Search with Deep Understanding of Contents and Users.
+Driven by Food: Modeling Geographic Choice.
+Hiring Behavior Models for Online Labor Markets.
+Just in Time Recommendations: Modeling the Dynamics of Boredom in Activity Streams.
+Leveraging In-Batch Annotation Bias for Crowdsourced Active Learning.
+Listwise Approach for Rank Aggregation in Crowdsourcing.
+WorkerRank: Using Employer Implicit Judgements to Infer Worker Reputation.
+The Information Life of Social Networks.
+User Modeling for a Personal Assistant.
+Predicting The Next App That You Are Going To Use.
+You Are Where You Go: Inferring Demographic Attributes from Location Check-ins.
+SimApp: A Framework for Detecting Similar Mobile Applications by Online Kernel Learning.
+Personalized Mobile App Recommendation: Reconciling App Functionality and User Privacy Preference.
+Inferring Movement Trajectories from GPS Snippets.
+Regressing Towards Simpler Prediction Systems.
+Global Optimization for Display Ad.
+Back to the Past: Supporting Interpretations of Forgotten Stories by Time-aware Re-Contextualization.
+Diluted Treatment Effect Estimation for Trigger Analysis in Online Controlled Experiments.
+Inverting a Steady-State.
+Automatic Gloss Finding for a Knowledge Base using Ontological Constraints.
+Finding Subgraphs with Maximum Total Density and Limited Overlap.
+Modeling Website Popularity Competition in the Attention-Activity Marketplace.
+Exploring the Space of Topic Coherence Measures.
+Dynamic Information Retrieval Modeling.
+Scalability and Efficiency Challenges in Large-Scale Web Search Engines.
+Offline Evaluation and Optimization for Interactive Systems.
+Real-Time Bidding: A New Frontier of Computational Advertising Research.
+Learning About Health and Medicine from Internet Data.
+Distributed Graph Algorithmics: Theory and Practice.
+DL-WSDM'15: Workshop on Deep Learning for Web Search and Data Mining.
+HIA'15: Heterogeneous Information Access Workshop at WSDM 2015.
+WSDM'15 Workshop Summary / Scalable Data Analytics: Theory and Applications.
+The 2nd workshop on Vertical Search Relevance at WSDM 2015.
+An Approach to the Problem of Annotation of Research Publications.
+Incorporating Phrase-level Sentiment Analysis on Textual Reviews for Personalized Recommendation.
+Mining Groups Stability in Ubiquitous and Social Environments: Communities, Classes and Clusters.
+Sentiment-Specific Representation Learning for Document-Level Sentiment Analysis.
+Chronological Scientific Information Recommendation via Supervised Dynamic Topic Modeling.
+Topics, Tasks & Beyond: Learning Representations for Personalization.

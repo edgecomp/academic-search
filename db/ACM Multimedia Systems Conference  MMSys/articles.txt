@@ -1,0 +1,32 @@
+LBVC: towards low-bandwidth video chat on smartphones.
+Video composition by the crowd: a system to compose user-generated videos in near real-time.
+EMOD: an efficient on-device mobile visual search system.
+Optimizing the video transcoding workflow in content delivery networks.
+Transcoding live adaptive video streams at a massive scale in the cloud.
+SmoothCache 2.0: CDN-quality adaptive HTTP live streaming on peer-to-peer overlays.
+Expert driven semi-supervised elucidation tool for medical endoscopic videos.
+Merge and forward: self-organized inter-destination multimedia synchronization.
+Energy efficient video encoding using the tegra K1 mobile processor.
+Media download optimization through prefetching and resource allocation in mobile networks.
+How much delay is there really in current games?
+Scaling virtual camera services to a large number of users.
+Rhizome: utilizing the public cloud to provide 3D gaming infrastructure.
+Video BenchLab demo: an open platform for video realistic streaming benchmarking.
+Content first: a concept for industrial augmented reality maintenance applications using mobile devices.
+MMT+AVR: enabling collaboration in augmented virtuality/reality using ISO's MPEG media transport.
+Depth-disparity calibration for augmented reality on binocular optical see-through displays.
+Congestion-aware MAC layer adaptation to improve video teleconferencing over wi-fi.
+Integrated prefetching and caching for adaptive video streaming over HTTP: an online approach.
+Dynamic configuration of single frequency networks in mobile streaming systems.
+Video BenchLab: an open platform for realistic benchmarking of streaming media workloads.
+Screencast dissected: performance measurements and design considerations.
+Analysis and characterization of a video-on-demand service workload.
+Multi-sensor concert recording dataset including professional and user-generated content.
+Div150Cred: A social image retrieval result diversification with user tagging credibility dataset.
+A scalable video coding dataset and toolchain for dynamic adaptive streaming over HTTP.
+RAISE: a raw images dataset for digital image forensics.
+YouTube live and Twitch: a tour of user-generated live streaming systems.
+The toulouse vanishing points dataset.
+Stanford I2V: a news video dataset for query-by-image experiments.
+Data set for fall events and daily activities from inertial sensors.
+A multi-lens stereoscopic synthetic video dataset.

@@ -1,0 +1,126 @@
+Performance Characterization of In-Memory Data Analytics on a Modern Cloud Server.
+Pipeline Item-Based Collaborative Filtering Based on MapReduce.
+A Scalable Algorithm for Bichromatic Reverse Nearest Neighbor with Grids.
+Efficient k-Nearest Neighbors Search in High Dimensions Using MapReduce.
+Fast Memory Deduplication of Disk Cache Pages in Virtual Environments.
+Energy-Efficient Storage Policy for Instant Messenger Services.
+HDenDist: Nonlinear Hierarchical Clustering Based on Density and Min-distance.
+A Hierachical Collocation Extraction Tool.
+Efficient Key Management for IOT Owner in the Cloud.
+Energy Efficieny in Virtual Machines Allocation for Cloud Data Centers Using the Imperialist Competitive Algorithm.
+WindTalker: An Efficient and Robust Protocol of Cloud Covert Channel Based on Memory Deduplication.
+Optimal Fault Tolerance Strategy Selection for Application Migration in Federated Hybrid Cloud.
+RSAE: Ranked Keyword Search over Asymmetric Encrypted Cloud Data.
+cUpdate: Updating Software-Defined Networks with the Least Traffic Migration.
+Price Trend Prediction of Stock Market Using Outlier Data Mining Algorithm.
+The Reform of Vocational Colleges' Teaching Method in the Age of Big Data - Based on PHP Programming.
+Delay-Aware Associate Tasks Scheduling in the Cloud Computing.
+Design Issues of Trustworthy Cloud Platform Based on IP Monitoring and File Risk.
+A Floating Population Prediction Model in Travel Spots Using Weather Big Data.
+Predicting Spatiotemporal Traffic Flow Based on Support Vector Regression and Bayesian Classifier.
+Dynamic Fair Division of Multiple Resources with Satiable Agents in Cloud Computing Systems.
+A Corrected Hybrid Approach for Electricity Demand Forecasting.
+Design Optimization for Cloud Application Migration and Remigration.
+SAACO: A Self Adaptive Ant Colony Optimization in Cloud Computing.
+System Capacity Analysis on Constellation of Interconnected HAP Networks.
+Personal Data Lake with Data Gravity Pull.
+Knowledge Management in Big Data Times.
+A Secure and Lightweight Data Access Control Scheme for Mobile Cloud Computing.
+Dynamic Token Based Improving MapReduce Performance in Cloud Computing.
+The Blockchain-Based Digital Content Distribution System.
+The Research of Human-Computer Interaction Model Based on the Morhpable Model Based 3D Face Synthesis in the Speech Rehabilitation for Deaf Children.
+Face Mount Computer Input Device for Serious Disabled.
+Design of Remote Medical Monitoring System Based on ZigBee Technology.
+Design of Measurement System for Respiratory Training Device Based on Speech Training for Hearing-Impaired Children.
+Structural Health Monitoring WTB Using the Effectiveness of Graphical Programming Packages Analysis on Acoustic Emission Data.
+Application of Improved Spectral Subtraction Algorithm for Speech Emotion Recognition.
+Multiple Access Applications of Transform Domain Communication System Based on Phase Coding.
+Application of the Improved Variable Arguments PID in Asymmetric Hydraulic Cylinder Electro-hydraulic Servo System.
+Application of OPC to Realize the Communications between WinCC and Master-Slave PLC in the PROFIBUS Network.
+Design of Doppler Radar Microwave Transmitting Unit.
+An ISBN Code Number Recognition Algorithm Based on Android.
+Construction and Research of Braille Corpus.
+A Feature Point Matching Algorithm for Complex Background Image.
+Research on Current Situation of Perceived Self-Efficacy of Hearing-Impaired Students Majoring in Artistic Specialties.
+Eye Detection Based on Integral Projection and Hough Round Transform.
+Face Detection under Particular Environment Based on Skin Color Model and Radial Basis Function Network.
+Development of Assistive Device by Elderly Engineers Association.
+Study on Action Recognition Based on Kinect and Its Application in Rehabilitation Training.
+A Survey of Fall Detection Algorithm for Elderly Health Monitoring.
+Efficient Privacy-Preserving Aggregation for Mobile Crowdsensing.
+LSVS: Bringing Layer Slicing and Virtual Sinks to Geographic Opportunistic Routing in Strip WSNs.
+Incentive Mechanism Design for Smartphone Crowdsensing.
+Remote Cloud or Local Crowd: Communicating and Sharing the Crowdsensing Data.
+Searching a Circular Corridor with Three Flashlights.
+Some Transformation Methods on Probabilistic Model for Crowdsensing Networks.
+An Improved Algorithm of Materialized View Selection within the Confinement of Space.
+Building XML Data Warehouse with Data Reconstruction by Knowledge Graph.
+Approximate Normal Parameter Reduction of Fuzzy Soft Set Based on Harmony Search Algorithm.
+Study of Photovoltaic Power Generation Output Predicting Model Based on Nonlinear Time Series.
+A Comprehensive College Coaches Evaluation Model Based on AHP and Grey Correlation Theory.
+Motion Control on the Working Device of a Demolition Robot Based on an Exponential Reaching Law.
+Core Point Evolution: A Waterwave Model of Software Development Process.
+Studies on Centroid Type-Reduction Algorithms for Interval Type-2 Fuzzy Logic Systems.
+Performance Characterization of In-Memory Data Analytics on a Modern Cloud Server.
+Pipeline Item-Based Collaborative Filtering Based on MapReduce.
+A Scalable Algorithm for Bichromatic Reverse Nearest Neighbor with Grids.
+Efficient k-Nearest Neighbors Search in High Dimensions Using MapReduce.
+Fast Memory Deduplication of Disk Cache Pages in Virtual Environments.
+Energy-Efficient Storage Policy for Instant Messenger Services.
+HDenDist: Nonlinear Hierarchical Clustering Based on Density and Min-distance.
+A Hierachical Collocation Extraction Tool.
+Efficient Key Management for IOT Owner in the Cloud.
+Energy Efficieny in Virtual Machines Allocation for Cloud Data Centers Using the Imperialist Competitive Algorithm.
+WindTalker: An Efficient and Robust Protocol of Cloud Covert Channel Based on Memory Deduplication.
+Optimal Fault Tolerance Strategy Selection for Application Migration in Federated Hybrid Cloud.
+RSAE: Ranked Keyword Search over Asymmetric Encrypted Cloud Data.
+cUpdate: Updating Software-Defined Networks with the Least Traffic Migration.
+Price Trend Prediction of Stock Market Using Outlier Data Mining Algorithm.
+The Reform of Vocational Colleges' Teaching Method in the Age of Big Data - Based on PHP Programming.
+Delay-Aware Associate Tasks Scheduling in the Cloud Computing.
+Design Issues of Trustworthy Cloud Platform Based on IP Monitoring and File Risk.
+A Floating Population Prediction Model in Travel Spots Using Weather Big Data.
+Predicting Spatiotemporal Traffic Flow Based on Support Vector Regression and Bayesian Classifier.
+Dynamic Fair Division of Multiple Resources with Satiable Agents in Cloud Computing Systems.
+A Corrected Hybrid Approach for Electricity Demand Forecasting.
+Design Optimization for Cloud Application Migration and Remigration.
+SAACO: A Self Adaptive Ant Colony Optimization in Cloud Computing.
+System Capacity Analysis on Constellation of Interconnected HAP Networks.
+Personal Data Lake with Data Gravity Pull.
+Knowledge Management in Big Data Times.
+A Secure and Lightweight Data Access Control Scheme for Mobile Cloud Computing.
+Dynamic Token Based Improving MapReduce Performance in Cloud Computing.
+The Blockchain-Based Digital Content Distribution System.
+The Research of Human-Computer Interaction Model Based on the Morhpable Model Based 3D Face Synthesis in the Speech Rehabilitation for Deaf Children.
+Face Mount Computer Input Device for Serious Disabled.
+Design of Remote Medical Monitoring System Based on ZigBee Technology.
+Design of Measurement System for Respiratory Training Device Based on Speech Training for Hearing-Impaired Children.
+Structural Health Monitoring WTB Using the Effectiveness of Graphical Programming Packages Analysis on Acoustic Emission Data.
+Application of Improved Spectral Subtraction Algorithm for Speech Emotion Recognition.
+Multiple Access Applications of Transform Domain Communication System Based on Phase Coding.
+Application of the Improved Variable Arguments PID in Asymmetric Hydraulic Cylinder Electro-hydraulic Servo System.
+Application of OPC to Realize the Communications between WinCC and Master-Slave PLC in the PROFIBUS Network.
+Design of Doppler Radar Microwave Transmitting Unit.
+An ISBN Code Number Recognition Algorithm Based on Android.
+Construction and Research of Braille Corpus.
+A Feature Point Matching Algorithm for Complex Background Image.
+Research on Current Situation of Perceived Self-Efficacy of Hearing-Impaired Students Majoring in Artistic Specialties.
+Eye Detection Based on Integral Projection and Hough Round Transform.
+Face Detection under Particular Environment Based on Skin Color Model and Radial Basis Function Network.
+Development of Assistive Device by Elderly Engineers Association.
+Study on Action Recognition Based on Kinect and Its Application in Rehabilitation Training.
+A Survey of Fall Detection Algorithm for Elderly Health Monitoring.
+Efficient Privacy-Preserving Aggregation for Mobile Crowdsensing.
+LSVS: Bringing Layer Slicing and Virtual Sinks to Geographic Opportunistic Routing in Strip WSNs.
+Incentive Mechanism Design for Smartphone Crowdsensing.
+Remote Cloud or Local Crowd: Communicating and Sharing the Crowdsensing Data.
+Searching a Circular Corridor with Three Flashlights.
+Some Transformation Methods on Probabilistic Model for Crowdsensing Networks.
+An Improved Algorithm of Materialized View Selection within the Confinement of Space.
+Building XML Data Warehouse with Data Reconstruction by Knowledge Graph.
+Approximate Normal Parameter Reduction of Fuzzy Soft Set Based on Harmony Search Algorithm.
+Study of Photovoltaic Power Generation Output Predicting Model Based on Nonlinear Time Series.
+A Comprehensive College Coaches Evaluation Model Based on AHP and Grey Correlation Theory.
+Motion Control on the Working Device of a Demolition Robot Based on an Exponential Reaching Law.
+Core Point Evolution: A Waterwave Model of Software Development Process.
+Studies on Centroid Type-Reduction Algorithms for Interval Type-2 Fuzzy Logic Systems.

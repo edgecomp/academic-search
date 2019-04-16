@@ -1,0 +1,248 @@
+Session 1 overview: Plenary session.
+1.1 Silicon technologies and solutions for the data-driven world.
+1.2 The future of IC design innovation.
+1.3 Analog CMOS from 5 micrometer to 5 nanometer.
+Session 2 Overview: RF TX/RX design techniques: RF subcommittee.
+2.1 A highly linear inductorless wideband receiver with phase- and thermal-noise cancellation.
+2.2 A +70dBm IIP3 single-ended electrical-balance duplexer in 0.18um SOI CMOS.
+2.3 A 130-to-180GHz 0.0035mm2 SPDT switch with 3.3dB loss and 23.7dB isolation in 65nm bulk CMOS.
+2.4 A 0.028mm2 11mW single-mixing blocker-tolerant receiver with double-RF N-path filtering, S11 centering, +13dBm OB-IIP3 and 1.5-to-2.9dB NF.
+2.5 A 2-to-6GHz Class-AB power amplifier with 28.4% PAE in 65nm CMOS supporting 256QAM.
+2.6 Class-0: A highly linear class of power amplifiers in 0.13μm CMOS for WCDMA/LTE applications.
+2.7 A hybrid supply modulator with 10dB ET operation dynamic range achieving a PAE of 42.6% at 27.0dBm PA output power.
+2.8 A broadband CMOS digital power amplifier with hybrid Class-G Doherty efficiency enhancement.
+2.9 A 29dBm 18.5% peak PAE mm-Wave digital power amplifier with dynamic load modulation.
+2.10 A 60GHz 28nm UTBB FD-SOI CMOS reconfigurable power amplifier with 21% PAE, 18.2dBm P1dB and 74mW PDC.
+Session 3 overview: Ultra-high-speed wireline transceivers and energy-efficient links: Wireline subcommittee.
+3.1 A 28Gb/s multi-standard serial-link transceiver for backplane applications in 28nm CMOS.
+3.2 multi-standard 185fsrms 0.3-to-28Gb/s 40dB backplane signal conditioner with adaptive pattern-match 36-Tap DFE and data-rate-adjustment PLL in 28nm CMOS.
+3.3 A 0.5-to-32.75Gb/s flexible-reach wireline transceiver in 20nm CMOS.
+3.4 A 36Gb/s PAM4 transmitter using an 8b 18GS/S DAC in 28nm CMOS.
+3.5 A 16-to-40Gb/s quarter-rate NRZ/PAM4 dual-mode transmitter in 14nm CMOS.
+3.6 A 10Gb/s hybrid ADC-based receiver with embedded 3-tap analog FFE and dynamically-enabled digital equalization in 65nm CMOS.
+3.7 A 7Gb/s rapid on/off embedded-clock serial-link transceiver with 20ns power-on time, 740μW off-state power for energy-proportional links in 65nm CMOS.
+3.8 A 0.45-to-0.7V 1-to-6Gb/S 0.29-to-0.58pJ/b source-synchronous transceiver using automatic phase calibration in 65nm CMOS.
+Session 4 overview: Processors: High-performance digital subcommittee.
+4.1 22nm Next-generation IBM System z microprocessor.
+4.2 A 20nm 32-Core 64MB L3 cache SPARC M7 processor.
+4.3 Fine-grained adaptive power management of the SPARC M7 processor.
+4.4 Energy-efficient microserver based on a 12-core 1.8GHz 188K-CoreMark 28nm bulk CMOS 64b SoC for big-data applications with 159GB/S/L memory bandwidth system density.
+4.5 The Xeon® processor E5-2600 v3: A 22nm 18-core product family.
+4.6 A1.93TOPS/W scalable deep learning/inference processor with tetra-parallel MIMD architecture for big-data applications.
+4.7 A 409GOPS/W adaptive and resilient domino register file in 22nm tri-gate CMOS featuring in-situ timing margin and error detection for tolerance to within-die variation, voltage droop, temperature and aging.
+4.8 A 28nm x86 APU optimized for power and area efficiency.
+Session 5 overview: Analog techniques: Analog subcommittee.
+5.1 A 60V auto-zero and chopper operational amplifier with 800kHz interleaved clocks and input bias-current trimming.
+5.2 A 110dB SNR ADC with ±30V input common-mode range and 8μV Offset for current sensing applications.
+5.3 A 2-channel -83.2dB crosstalk 0.061mm2 CCIA with an orthogonal frequency chopping technique.
+5.4 A 32nW bandgap reference voltage operational from 0.5V supply for ultra-low power systems.
+5.5 A forward-body-bias tuned 450MHz Gm-C 3rd-order low-pass filter in 28nm UTBB FD-SOI with >1dBVp IIP3 over a 0.7-to-1V supply.
+5.6 A 0.13μm fully digital low-dropout regulator with adaptive control and reduced dynamic stability for ultra-wide dynamic range.
+5.7 A 29nW bandgap reference circuit.
+5.8 A digitally assisted single-point-calibration CMOS bandgap voltage reference with a 3σ inaccuracy of ±0.08% for fuel-gauge applications.
+5.9 A 37μW dual-mode crystal oscillator for single-crystal radios.
+5.10 A 4.7MHz 53μW fully differential CMOS reference clock oscillator with -22dB worst-case PSNR for miniaturized SoCs.
+Session 6 overview: Image sensors and displays: IMMD subcommittee.
+6.1 A 1/1.7-inch 20Mpixel Back-illuminated stacked CMOS image sensor for new imaging applications.
+6.2 133Mpixel 60fps CMOS image sensor with 32-column shared high-speed column-parallel SAR ADCs.
+6.3 A 45.5μW 15fps always-on CMOS image sensor for mobile and wearable devices.
+6.4 Single-shot 200Mfps 5×3-aperture compressive CMOS imager.
+6.5 25.3μW at 60fps 240×160-pixel vision sensor for motion capturing with in-pixel non-volatile analog memory using crystalline oxide semiconductor FET.
+6.6 A 240Hz-reporting-rate mutual-capacitance touch-sensing analog front-end enabling multiple active/passive styluses with 41dB/32dB SNR for 0.5mm diameter.
+6.7 A 2.3mW 11cm-range bootstrapped and correlated-double-sampling (BCDS) 3D touch sensor for mobile devices.
+6.8 A pen-pressure-sensitive capacitive touch system using electrically coupled resonance pen.
+Session 7 overview: Non-volatile memory solutions: Memory subcommittee.
+7.1 A low-power 64Gb MLC NAND-flash memory in 15nm CMOS technology.
+7.2 A 128Gb 3b/cell V-NAND flash memory with 1Gb/s I/O rate.
+7.3 A 28nm embedded SG-MONOS flash macro for automotive achieving 200MHz read operation and 2.0MB/S write throughput at Ti, of 170°C.
+7.4 A covalent-bonded cross-coupled current-mode sense amplifier for STT-MRAM with 1T1MTJ common source-line structure array.
+7.5 A 3.3ns-access-time 71.2μW/MHz 1Mb embedded STT-MRAM using physically eliminated read-disturb scheme and normally-off memory architecture.
+7.6 1GB/s 2Tb NAND flash multi-chip package with frequency-boosting interface chip.
+7.7 Enterprise-grade 6x fast read and 5x highly reliable SSD with TLC NAND-flash memory for big-data storage.
+Session 8 overview: Low-power digital techniques: Energy-efficient digital.
+8.1 An 80nW retention 11.7pJ/cycle active subthreshold ARM Cortex-M0+ subsystem in 65nm CMOS for WSN applications.
+8.2 Batteryless Sub-nW Cortex-M0+ processor with dynamic leakage-suppression logic.
+8.3 A 10.5μA/MHz at 16MHz single-cycle non-volatile memory access microcontroller with full state retention at 108nA in a 90nm process.
+8.4 A 0.33V/-40°C process/temperature closed-loop compensation SoC embedding all-digital clock multiplier and DC-DC converter exploiting FDSOI 28nm back-gate biasing.
+8.5 A 16nm auto-calibrating dynamically adaptive clock distribution for maximizing supply-voltage-droop tolerance across a wide operating range.
+8.6 Enabling wide autonomous DVFS in a 22nm graphics execution core using a digitally controlled hybrid LDO/switched-capacitor VR with fast droop mitigation.
+8.7 Dual-use low-drop-out regulator/power gate with linear and on-off conduction modes for microprocessor on-die supply voltages in 14nm.
+Session 9 overview: High-performance wireless: Wireless subcommittee.
+9.1 A 13mm2 40nm multiband GSM/EDGE/HSPA+/TDSCDMA/LTE transceiver.
+9.2 A single-chip HSPA transceiver with fully integrated 3G CMOS power amplifiers.
+9.3 A transmitter with 10b 128MS/S incremental-charge-based DAC achieving -155dBc/Hz out-of-band noise.
+9.4 A 28nm CMOS digital fractional-N PLL with -245.5dB FOM and a frequency tripler for 802.11abgn/ac radio.
+9.5 efficient digital quadrature transmitter based on IQ cell sharing.
+9.6 A 5.3GHz 16b 1.75GS/S wideband RF Mixing-DAC achieving IMD<-82dBc up to 1.9GHz.
+9.7 An LTE SAW-less transmitter using 33% duty-cycle LO signals for harmonic suppression.
+Session 10 overview: Advanced wireline techniques and PLLs: Wireline subcommittee.
+10.1 A 6Gb/s 6pJ/b 5mm-distance non-contact interface for modular smartphones using two-fold transmission-line coupler and EMC-qualified pulse transceiver.
+10.2 An FSK plastic waveguide communication link in 40nm CMOS.
+10.3 A 7.5mW 7.5Gb/s mixed NRZ/multi-tone serial-data transceiver for multi-drop memory interfaces in 40nm CMOS.
+10.4 A 5.8Gb/s adaptive integrating duobinary-based DFE receiver for multi-drop memory interface.
+10.5 A 5.9pJ/b 10Gb/s serial link with unequalized MM-CDR in 14nm tri-gate CMOS.
+10.6 continuous-time linear equalization with programmable active-peaking transistor arrays in a 14nm FinFET 2mW/Gb/s 16Gb/s 2-Tap speculative DFE receiver.
+10.7 A 6.75-to-8.25GHz 2.25mW 190fsrms integrated-jitter PVT-insensitive injection-locked clock multiplier using all-digital continuous frequency-tracking loop in 65nm CMOS.
+10.8 A wideband fractional-N ring PLL using a near-ground pre-distorted switched-capacitor loop filter.
+10.9 A 13.1-to-28GHz fractional-N PLL in 32nm SOI CMOS with a ΔΣ noise-cancellation scheme.
+Session 11 overview: Sensors and imagers for life sciences: IMMD subcommittee.
+11.1 A time-divided spread-spectrum code based 15pW-detectable multi-channel fNIRS IC for portable functional brain imaging.
+11.2 A 10.8ps-time-resolution 256×512 image sensor with 2-Tap true-CDS lock-in pixels for fluorescence lifetime imaging.
+11.3 A 160×120-pixel analog-counting single-photon imager with Sub-ns time-gating and self-referenced column-parallel A/D conversion for fluorescence lifetime imaging.
+11.4 A 67, 392-SPAD PVTB-compensated multi-channel digital SiPM with 432 column-parallel 48ps 17b TDCs for endoscopic time-of-flight PET.
+11.5 A time-correlated single-photon-counting sensor with 14GS/S histogramming time-to-digital converter.
+11.6 A multi-channel neural-recording amplifier system with 90dB CMRR employing CMOS-inverter-based OTAs with CMFB through supply rails in 65nm CMOS.
+11.7 A multimodality CMOS sensor array for cell-based assay and drug screening.
+11.8 Integrated ultrasonic system for measuring body-fat composition.
+Session 12 overview: Inductor-based power conversion: Analog subcommittee.
+12.1 A 0.518mm2 quasi-current-mode hysteretic buck DC-DC converter with 3μs load transient response in 0.35μm BCDMOS.
+12.2 A1.8V 30-to-70MHz 87% peak-efficiency 0.32mm2 4-phase time-based buck converter consuming 3μA/MHz quiescent current in 65nm CMOS.
+12.3 PWM buck converter with >80% PCE in 45μA-to-4mA loads using analog-digital hybrid control for impiantale biomedical systems.
+12.4 A 7.5W-output-power 96%-efficiency capacitor-free single-inductor 4-channel all-digital integrated DC-DC LED driver in a 0.18μm technology.
+12.5 An error-based controlled single-inductor 10-output DC-DC buck converter with high efficiency at light load using adaptive pulse modulation.
+12.6 90% Peak efficiency single-inductor-multiple-output DC-DC buck converter with output independent gate drive control.
+12.7 A power-management ASIC with Q-modulation capability for efficient inductive power transmission.
+12.8 Wireless power transfer system using primary equalizer for coupling- and load-range extension in bio-implant applications.
+12.9 A fully integrated 6W wireless power receiver operating at 6.78MHz with magnetic resonance coupling.
+Session 13 overview: Energy-efficient RF systems: RF & wireless subcommittees.
+13.1 A 227pJ/b -83dBm 2.4GHz multi-channel OOK receiver adopting receiver-based FLL.
+13.2 A 3.7mW-RX 4.4mW-TX fully integrated Bluetooth Low-Energy/IEEE802.15.4/proprietary SoC with an ADPLL-based fast frequency offset compensation in 40nm CMOS.
+13.3 A 10mW Bluetooth Low-Energy transceiver with on-chip matching.
+13.4 A 6.3mW BLE transceiver embedded RX image-rejection filter and TX harmonic-suppression filter reusing on-chip matching network.
+13.5 A -97dBm-sensitivity interferer-resilient 2.4GHz wake-up receiver using dual-IF multi-N-Path architecture in 65nm CMOS.
+13.6 A 600μW Bluetooth low-energy front-end receiver in 0.13μm CMOS technology.
+13.7 A +10dBm 2.4GHz transmitter with sub-400pW leakage and 43.7% system efficiency.
+13.8 A 5.8GHz RF-powered transceiver with a 113μW 32-QAM transmitter employing the IF-based quadrature backscattering technique.
+Session 14 overview: Digital PLLs and SoC building blocks: High-performance digital subcommittee.
+14.1 A 0.048mm2 3mW synthesizable fractional-N PLL with a soft injection-locking technique.
+14.2 A physically unclonable function with BER-8 for robust chip authentication using oscillator collapse in 40nm CMOS.
+14.3 15fJ/b static physically unclonable functions for secure chip identification with <2% native bit instability and 140× Inter/Intra PUF hamming distance separation in 65nm.
+14.4 A 5GHz -95dBc-reference-Spur 9.5mW digital fractional-N PLL using reference-multiplied time-to-digital converter and reference-spur cancellation in 65nm CMOS.
+14.5 A 1.22ps integrated-jitter 0.25-to-4GHz fractional-N ADPLL in 16nm FinFET CM0S.
+14.6 An all-digital power-delivery monitor for analysis of a 28nm dual-core ARM Cortex-A57 cluster.
+14.7 In-situ techniques for in-field sensing of NBTI degradation in an SRAM register file.
+14.8 A 0.009mm2 2.06mW 32-to-2000MHz 2nd-order ΔΣ analogous bang-bang digital PLL with feed-forward delay-locked and phase-locked operations in 14nm FinFET technology.
+14.9 Sub-sampling all-digital fractional-N frequency synthesizer with -111dBc/Hz in-band phase noise and an FOM of -242dB.
+Session 15 overview: Data-converter techniques: Data converters subcommittee.
+15.1 An 85dB-DR 74.6dB-SNDR 50MHZ-BW CT MASH ΔΣ modulator in 28nm CMOS.
+15.2 A 4.5mW CT self-coupled ΔΣ modulator with 2.2MHz BW and 90.4dB SNDR using residual ELD compensation.
+15.3 A 115dB-DR audio DAC with -61dBFS out-of-band noise.
+15.4 A 0.8V 10b 80kS/s SAR ADC with duty-cycled reference generation.
+15.5 A 0.6V 1.17ps PVT-tolerant and synthesizable time-to-digital converter using stochastic phase interpolation with 16× spatial redundancy in 14nm FinFET technology.
+15.6 12b 250MS/S pipelined ADC with virtual ground reference buffers.
+15.7 14b 35MS/S SAR ADC achieving 75dB SNDR and 99dB SFDR with loop-embedded input buffer in 40nm CMOS.
+15.8 90dB-SFDR 14b 500MS/S BiCMOS switched-current pipelined ADC.
+Session 16 overview: Emerging technologies enabling next-generation systems: Technology directions subcommittee.
+16.1 An ultra-thin flexible CMOS stress sensor demonstrated on an adaptive robotic gripper.
+16.2 A large-area image sensing and detection system based on embedded thin-film classifiers.
+16.3 Flexible thin-film NFC tags powered by commercial USB reader device at 13.56MHz.
+16.4 Energy-autonomous fever alarm armband integrating fully flexible solar cells, piezoelectric speaker, temperature detector, and 12V organic complementary FET circuits.
+16.5 A NEMS-array control IC for sub-attogram gravimetric sensing applications in 28nm CMOS technology.
+16.6 Double-side CMOS-CNT biosensor array with padless structure for simple bare-die measurements in a medical environment.
+16.7 A 20V 8.4W 20MHz four-phase GaN DC-DC converter with fully on-chip dual-SR bootstrapped GaN FET driver achieving 4ns constant propagation delay and 1ns switching rise time.
+16.8 1GHz GaN-MMIC monolithically integrated MEMS-based oscillators.
+16.9 A 128kb 4b/cell nonvolatile memory with crystalline In-Ga-Zn oxide FET using Vt, cancel write method.
+Session 17 overview: Embedded memory and DRAM I/O: Memory subcommittee.
+17.1 A 0.6V 1.5GHz 84Mb SRAM design in 14nm FinFET CMOS technology.
+17.2 A 64kb 16nm asynchronous disturb current free 2-port SRAM with PMOS pass-gates for FinFET technologies.
+17.3 A 28nm 256kb 6T-SRAM with 280mV improvement in VMIN using a dual-split-control assist scheme.
+17.4 A 14nm 1.1Mb embedded DRAM macro with 1ns access.
+17.5 A 3T1R nonvolatile TCAM using MLC ReRAM with Sub-1ns search time.
+17.6 1V 10Gb/s/pin single-ended transceiver with controllable active-inductor-based driver and adaptively calibrated cascade-DFE for post-LPDDR4 interfaces.
+17.7 A digital DLL with hybrid DCC using 2-step duty error extraction and 180° phase aligner for 2.67Gb/S/pin 16Gb 4-H stack DDR4 SDRAM with TSVs.
+Session 18 overview: SoCs for mobile vision, sensing, and communications: Energy-efficient digital subcommittee.
+18.1 A 2.71nJ/pixel 3D-stacked gaze-activated object-recognition system for low-power mobile HMD applications.
+18.2 A 1.9TOPS and 564GOPS/W heterogeneous multicore SoC with color-based object classification accelerator for image-recognition applications.
+18.3 A 0.5V 54μW ultra-low-power recognition processor with 93.5% accuracy geometric vocabulary tree and 47.5% database compression.
+18.4 A matrix-multiplying ADC implementing a machine-learning classifier directly with data conversion.
+18.5 A configurable 12-to-237KS/s 12.8mW sparse-approximation engine for mobile ExG data aggregation.
+18.6 A 0.5nJ/pixel 4K H.265/HEVC codec LSI for multi-format smartphone applications.
+18.7 A 2.4mm2 130mW MMSE-nonbinary-LDPC iterative detector-decoder for 4×4 256-QAM MIMO in 65nm CMOS.
+Session 19 overview: Advanced wireless techniques: Wireless subcommittee.
+19.1 Receiver with >20MHz bandwidth self-interference cancellation suitable for FDD, co-existence and full-duplex applications.
+19.2 A self-interference-cancelling receiver for in-band full-duplex wireless with low distortion under cancellation of strong TX leakage.
+19.3 Reconfigurable SDR receiver with enhanced front-end frequency selectivity suitable for intra-band and inter-band carrier aggregation.
+19.4 A 2.7-to-3.7GHz rapid interférer detector exploiting compressed sampling with a quadrature analog-to-information converter.
+19.5 An HCI-healing 60GHz CMOS transceiver.
+19.6 A 1.9mm-precision 20GS/S real-time sampling receiver using time-extension method for indoor localization.
+19.7 A 79GHz binary phase-modulated continuous-wave radar transceiver with TX-to-RX spillover cancellation in 28nm CMOS.
+Session 20 overview: Energy harvesting and SC power conversion: Analog subcommittee.
+20.1 A light-load-efficient 11/1 switched-capacitor DC-DC converter with 94.7% efficiency while delivering 100mW at 3.3V.
+20.2 A variable-conversion-ratio 3-phase resonant switched capacitor converter with 85% efficiency at 0.91W/mm2 using 1.1nH PCB-trace inductors.
+20.3 A feedforward controlled on-chip switched-capacitor voltage regulator delivering 10W in 32nm SOI CMOS.
+20.4 A 123-phase DC-DC converter-ring with fast-DVS for microprocessors.
+20.5 A 2-/3-phase fully integrated switched-capacitor DC-DC converter in bulk CMOS for energy-efficient digital circuits with 14% efficiency improvement.
+20.6 Electromagnetic vibration energy harvester interface IC with conduction-angle-controlled maximum-power-point tracking and harvesting efficiencies of up to 90%.
+20.7 A 0.45-to-3V reconfigurable charge-pump energy harvester with two-dimensional MPPT for Internet of Things.
+20.8 A 500nW batteryless integrated electrostatic energy harvester interface based on a DC-DC converter with 60V maximum input voltage and operating from 1μW available power, including MPPT and cold start.
+20.9 An energy-recycling three-switch single-inductor dual-input buck/boost DC-DC converter with 93% peak conversion efficiency and 0.5mm2 active area for light energy harvesting.
+20.10 A 50nW-to-10mW output power tri-mode digital buck converter with self-tracking zero current detection for photovoltaic energy harvesting.
+Session 21 overview: Innovative personalized biomédical systems: Technology directions subcommittee.
+21.1 A 79pJ/b 80Mb/s full-duplex transceiver and a 42.5μW 100kb/s super-regenerative transceiver for body channel communication.
+21.2 A 3nW signal-acquisition IC integrating an amplifier with 2.1 NEF and a 1.5fJ/conv-step ADC.
+21.3 A 6.45μW self-powered IoT SoC with integrated energy-harvesting power management and ULP asymmetric radios.
+21.4 A microfluidic-CMOS platform with 3D capacitive sensor and fully integrated transceiver IC for palmtop dielectric spectroscopy.
+21.5 A portable micro gas chromatography system for volatile compounds detection with 15ppb of sensitivity.
+21.6 A smart CMOS assay SoC for rapid blood screening test of risk prediction.
+21.7 A 0.036mbar circadian and cardiac intraocular pressure sensor for smart implantable lens.
+21.8 A 16-ch patient-specific seizure onset and termination detection SoC with machine-learning and voltage-mode transcranial stimulation.
+21.9 A wearable EEG-HEG-HRV multimodal system with real-time tES monitoring for mental health management.
+Session 22 overview: High-speed optical links: Wireline subcommittee.
+22.1 A 25Gb/s burst-mode receiver for rapidly reconfigurable optical networks.
+22.2 A 25Gb/s hybrid integrated silicon photonic transceiver in 28nm CMOS and SOI.
+22.3 A 4-to-11GHz injection-locked quarter-rate clocking for an adaptive 153fJ/b optical receiver in 28nm FDSOI CMOS.
+22.4 A 24Gb/s 0.71pJ/b Si-photonic source-synchronous receiver with adaptive equalization and microring wavelength stabilization.
+22.5 A 4×20Gb/s WDM ring-based hybrid CMOS silicon photonics transceiver.
+22.6 A 25Gb/s 4.4V-swing AC-coupled Si-photonic microring transmitter with 2-tap asymmetric FFE and dynamic thermal tuning in 65nm CMOS.
+22.7 4×25.78Gb/s retimer ICs for optical links in 0.13μm SiGe BiCMOS.
+22.8 A 24-to-35Gb/s x4 VCSEL driver IC with multi-rate referenceless CDR in 0.13um SiGe BiCMOS.
+22.9 A 1310nm 3D-integrated silicon photonics Mach-Zehnder-based transmitter with 275mW multistage CMOS driver achieving 6dB extinction ratio at 25Gb/s.
+Session 23 overview: Low-power SoCs: High-performance digital subcommittee.
+23.1 20nm high-K metal-gate heterogeneous 64b quad-core CPUs and hexa-core GPU for high-performance and energy-efficient mobile application processor.
+23.2 A 1920×1080 30fps 611 mW five-view depth-estimation processor for light-field applications.
+23.3 A highly integrated smartphone SoC featuring a 2.5GHz octa-core CPU with advanced high-performance and low-power techniques.
+Session 24 overview: Secure, efficient circuits for IoT: Technology directions subcommittee.
+24.1 Circuit challenges from cryptography.
+24.2 Context-aware hierarchical information-sensing in a 6μW 90nm CMOS voice activity detector.
+24.3 20k-spin Ising chip for combinational optimization problem with CMOS annealing.
+24.4 A 6.5Gb/s Shared bus using electromagnetic connectors for downsizing and lightening satellite processor system by 60%.
+Session 25 overview: RF frequency generation from GHz to THz: RF subcommittee.
+25.1 A highly-digital frequency synthesizer using ring-oscillator frequency-to-digital conversion and noise cancellation.
+25.2 A 2.2GHz -242dB-FOM 4.2mW ADC-PLL using digital sub-sampling architecture.
+25.3 A VCO with implicit common-mode resonance.
+25.4 A 1/f noise upconversion reduction technique applied to Class-D and Class-F oscillators.
+25.5 A 320GHz phase-locked transmitter with 3.3mW radiated power and 22.5dBm EIRP for heterodyne THz imaging systems.
+25.6 A 70.5-to-85.5GHz 65nm phase-locked loop with passive scaling of loop filter.
+25.7 A 2.4GHz 4mW inductorless RF synthesizer.
+25.8 A 2.4GHz VCO with FOM of 190dBc/Hz at 10kHz-to-2MHz offset frequencies in 0.13μm CMOS using an ISF manipulation technique.
+25.9 A ±3ppm 1.1mW FBAR frequency reference with 750MHz output and 750mV supply.
+Session 26 overview: Nyquist-rate converters: Data converters subcommittee.
+26.1 A 1mW 71.5dB SNDR 50MS/S 13b fully differential ring-amplifier-based SAR-assisted pipeline ADC.
+26.2 A 5.5fJ/conv-step 6.4MS/S 13b SAR ADC utilizing a redundancy-facilitated background error-detection-and-correction scheme.
+26.3 An 800MS/S 10b/13b receiver for 10GBASE-T Ethernet in 28nm CMOS.
+26.4 A 21fJ/conv-step 9 ENOB 1.6GS/S 2× time-interleaved FATI SAR ADC with background offset and timing-skew calibration in 45nm CMOS.
+26.5 A 5.5mW 6b 5GS/S 4×-lnterleaved 3b/cycle SAR ADC in 65nm CMOS.
+26.6 A 5GS/S 150mW 10b SHA-less pipelined/SAR hybrid ADC in 28nm CMOS.
+26.7 A 2.6b/cycle-architecture-based 10b 1 JGS/s 15.4mW 4×-time-interleaved SAR ADC with a multistep hardware-retirement technique.
+Session 27 overview: Physical sensors: Imagers, MEMS, medical and displays subcommittee.
+27.1 A 3-Axis gyroscope for electronic stability control with continuous self-test.
+27.2 A1.2μg/√Hz-resolution 0.4μg-bias-instability MEMS silicon oscillating accelerometer with CMOS readout circuit.
+27.3 A 3-axis open-loop gyroscope with demodulation phase error correction.
+27.4 A 0.8mm3 ±0.68psi single-chip wireless pressure sensor for TPMS applications.
+27.5 A 30ppm <80nJ ring-down-based readout circuit for resonant sensors.
+27.6 A 0.7pF-to-10nF fully digital capacitance-to-digital converter using iterative delay-chain discharge.
+27.7 A 0.05mm2 1V capacitance-to-digital converter based on period modulation.
+27.8 A 4600μm2 1.5°C (3σ) 0.9kS/s thermal-diffusivity temperature sensor with VCO-based readout.
+27.9 A 200kS/s 13.5b integrated-fluxgate differential-magnetic-to-digital converter with an oversampling compensation loop for contactless current sensing.
+F1: High-speed interleaved ADCs.
+F2: Memory trends: From big data to wearable devices.
+F3: Cutting the last wire - Advances in wireless power.
+F4: Building the Internet of Everything (IoE): Low-power techniques at the circuit and system levels.
+F5: Advanced RF CMOS transmitter techniques.
+F6: I/O design at 25Gb/s and beyond: Enabling the future communication infrastructure for big data.
+ES2: Brain-machine interfaces: Integrated circuits talking to neurons.
+EP1: Moore's law challenges below 10nm: Technology, design and economic implications.
+EP2: Lost art? Analog tricks and techniques from the masters.
+EP3: Innovating on the tapeout treadmill.
+ES3: How to achieve 1000× more wireless data capacity? 5G?
+SC1: Circuit design in advanced CMOS technologies: How to design with lower supply voltages.

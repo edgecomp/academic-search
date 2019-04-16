@@ -1,0 +1,649 @@
+Optimal Incremental Preference Elicitation during Negotiation.
+Composing and Verifying Commitment-Based Multiagent Protocols.
+Strategic Abstention Based on Preference Extensions: Positive Results and Computer-Generated Impossibilities.
+Efficiency and Complexity of Price Competition Among Single-Product Vendors.
+Generalizing the Single-Crossing Property on Lines and Trees to Intermediate Preferences on Median Graphs.
+Learning Behaviors in Agents Systems with Interactive Dynamic Influence Diagrams.
+Structural Results for Cooperative Decentralized Control Models.
+Tractable Inquiry in Information-Rich Environments.
+An Adaptive Computational Model for Personalized Persuasion.
+Tradeoffs between Incentive Mechanisms in Boolean Games.
+Environment-Driven Social Force Model: Lévy Walk Pattern in Collective Behavior.
+The Power of Local Manipulation Strategies in Assignment Mechanisms.
+Revenue Maximization Envy-Free Pricing for Homogeneous Resources.
+Exchange of Indivisible Objects with Asymmetry.
+Characterization of Scoring Rules with Distances: Application to the Clustering of Rankings.
+Quantifying Robustness of Trust Systems against Collusive Unfair Rating Attacks Using Information Theory.
+Optimal Auctions for Partially Rational Bidders.
+An Expert-Level Card Playing Agent Based on a Variant of Perfect Information Monte Carlo Sampling.
+Agile Planning for Real-World Disaster Response.
+Optimal Pricing for the Competitive and Evolutionary Cloud Market.
+Uncovering Hidden Structure through Parallel Problem Decomposition for the Set Basis Problem: Application to Materials Discovery.
+Emotions in Argumentation: an Empirical Evaluation.
+Parliamentary Voting Procedures: Agenda Control, Manipulation, and Uncertainty.
+Computer Science on the Move: Inferring Migration Regularities from the Web via Compressed Label Propagation.
+Semi-Universal Portfolios with Transaction Costs.
+Context-Independent Claim Detection for Argument Mining.
+A Deterministic Partition Function Approximation for Exponential Random Graph Models.
+Bonus or Not? Learn to Reward in Crowdsourcing.
+Mechanism Design and Implementation for Lung Exchange.
+Maximal Cooperation in Repeated Games on Social Networks.
+Selling Reserved Instances in Cloud Computing.
+A Multicore Tool for Constraint Solving.
+Improving the Effectiveness of SAT-Based Preprocessing for MaxSAT.
+Maximum Satisfiability Using Cores and Correction Sets.
+Recursive Decomposition for Nonconvex Optimization - IJCAI-15 Distinguished Paper.
+Finding Diverse Solutions of High Quality to Constraint Optimization Problems.
+On the Resiliency of Unit Propagation to Max-Resolution.
+Improving the Efficiency of Dynamic Programming on Tree Decompositions via Machine Learning.
+Exploiting the Structure of Unsatisfiable Cores in MaxSAT.
+Multi-Armed Bandits for Adaptive Constraint Propagation.
+Combining Preference Elicitation and Search in Multiobjective State-Space Graphs.
+ReACTR: Realtime Algorithm Configuration through Tournament Rankings.
+Expressive Logical Combinators for Free.
+Statistical Regimes and Runtime Prediction.
+Solving QBF by Clause Selection.
+Compiling Constraint Networks into Multivalued Decomposable Decision Graphs.
+Filtering Nogoods Lazily in Dynamic Symmetry Breaking During Search.
+Multi-Pass High-Level Presolving.
+Decomposition of the Factor Encoding for CSPs.
+Towards Automatic Dominance Breaking for Constraint Optimization Problems.
+On the Empirical Time Complexity of Random 3-SAT at the Phase Transition.
+Efficient Operations On MDDs for Building Constraint Programming Models.
+Personalized Mathematical Word Problem Generation.
+On Constrained Boolean Pareto Optimization.
+Packing Curved Objects.
+Efficient Algorithms with Performance Guarantees for the Stochastic Multiple-Choice Knapsack Problem.
+Probabilistic Inference Based Message-Passing for Resource Constrained DCOPs.
+Collective Biobjective Optimization Algorithm for Parallel Test Paper Generation.
+Max-Sum Goes Private.
+Applying Max-Sum to Asymmetric Distributed Constraint Optimization.
+A Bargaining Mechanism for One-Way Games.
+Strategic Network Formation through an Intermediary.
+The Adjusted Winner Procedure: Characterizations and Equilibria.
+Welfare Maximization in Fractional Hedonic Games.
+Possible and Necessary Allocations via Sequential Mechanisms.
+Learning Cooperative Games.
+A Dictatorship Theorem for Cake Cutting.
+Simultaneous Abstraction and Equilibrium Finding in Games.
+Incentivizing Peer Grading in MOOCS: An Audit Game Approach.
+Approximate Nash Equilibria with Near Optimal Social Welfare.
+Influence in Classification via Cooperative Game Theory.
+SAT Is an Effective and Complete Method for Solving Stable Matching Problems with Couples.
+Optimal Network Security Hardening Using Attack Graph Games.
+Gibbard-Satterthwaite Games.
+Equilibrium Refinement through Negotiation in Binary Voting.
+Structural Tractability of Shapley and Banzhaf Values in Allocation Games.
+Smooth UCT Search in Computer Poker.
+Fixing Tournaments for Kings, Chokers, and More.
+A Characterization of n-Player Strongly Monotone Scheduling Mechanisms.
+Limited Lookahead in Imperfect-Information Games.
+Impartial Peer Review.
+Truthful Cake Cutting Mechanisms with Externalities: Do Not Make Them Care for Others Too Much!
+Equilibrium Analysis of Multi-Defender Security Games.
+When Does Schwartz Conjecture Hold?
+Strategic Candidacy Games with Lazy Candidates.
+Simple Causes of Complexity in Hedonic Games.
+Convergence to Equilibria in Strategic Candidacy.
+A Pseudo-Polynomial Algorithm for Computing Power Indices in Graph-Restricted Weighted Voting Games.
+The Game-Theoretic Interaction Index on Social Networks with Applications to Link Prediction and Community Detection.
+Solving Heads-Up Limit Texas Hold'em.
+Envy-Free Sponsored Search Auctions with Budgets.
+Implementing the Wisdom of Waze.
+Spiteful Bidding in the Dollar Auction.
+Security Games with Information Leakage: Modeling and Computation.
+Computing Optimal Mixed Strategies for Security Games with Dynamic Payoffs.
+From Weighted to Unweighted Model Counting.
+Pushing Forward Marginal MAP with Best-First Search.
+Indirect Causes in Dynamic Bayesian Networks Revisited.
+Differential Semantics of Intervention in Bayesian Networks.
+Bayesian Modelling of Community-Based Multidimensional Trust in Participatory Sensing under Data Sparsity.
+A Unified Model for Unsupervised Opinion Spamming Detection Incorporating Text Generality.
+Model-Based Genetic Algorithms for Algorithm Configuration.
+ICBS: Improved Conflict-Based Search Algorithm for Multi-Agent Pathfinding.
+Balance between Complexity and Quality: Local Search for Minimum Vertex Cover in Massive Graphs.
+Generalized Rapid Action Value Estimation.
+A Fast Goal Recognition Technique Based on Interaction Estimates.
+Interplanetary Trajectory Planning with Monte Carlo Tree Search.
+FlashNormalize: Programming by Examples for Text Normalization.
+Efficient Search with an Ensemble of Heuristics.
+Compositional Program Synthesis from Natural Language and Examples.
+Mining Expert Play to Guide Monte Carlo Search in the Opening Moves of Go.
+H-Index Manipulation by Merging Articles: Models, Theory, and Experiments.
+Computing Possibly Optimal Solutions for Multi-Objective Constraint Optimisation with Tradeoffs.
+Mining Definitions from RDF Annotations Using Formal Concept Analysis.
+Personalizing Product Rankings Using Collaborative Filtering on Opinion-Derived Topic Profiles.
+AskWorld: Budget-Sensitive Query Evaluation for Knowledge-on-Demand.
+Building Hierarchies of Concepts via Crowdsourcing.
+Finite Abstractions for the Verification of Epistemic Properties in Open Multi-Agent Systems.
+Formal Analysis of Dialogues on Infinite Argumentation Frameworks.
+On the Graded Acceptability of Arguments.
+A Common-Sense Conceptual Categorization System Integrating Heterogeneous Proxytypes and the Dual Process of Reasoning.
+A Simple Probabilistic Extension of Modal Mu-calculus.
+The Complexity of MAP Inference in Bayesian Networks Specified Through Logical Languages.
+Dissecting German Grammar and Swiss Passports: Open-Domain Decomposition of Compositional Entries in Large-Scale Knowledge Repositories.
+Automatic Generation of Raven's Progressive Matrices.
+From Raw Sensor Data to Detailed Spatial Knowledge.
+Using a Recursive Neural Network to Learn an Agent's Decision Model for Plan Recognition.
+Biclustering Gene Expressions Using Factor Graphs and the Max-Sum Algorithm.
+Greedy Structure Search for Sum-Product Networks.
+On the Consistency of AUC Pairwise Optimization.
+Multi-Label Active Learning: Query Type Matters.
+Joint Learning of Constituency and Dependency Grammars by Decomposed Cross-Lingual Induction.
+Mobility Profiling for User Verification with Anonymized Location Data.
+Analysis of Sampling Algorithms for Twitter.
+Portfolio Choices with Orthogonal Bandit Learning.
+Information Gathering in Networks via Active Exploration.
+Medical Synonym Extraction with Concept Space Models.
+Detecting Emotions in Social Media: A Constrained Optimization Approach.
+Regression Model Fitting under Differential Privacy and Model Inversion Attack.
+Correcting Covariate Shift with the Frank-Wolfe Algorithm.
+Cognitive Modelling for Predicting Examinee Performance.
+Opportunities or Risks to Reduce Labor in Crowdsourcing Translation? Characterizing Cost versus Quality via a PageRank-HITS Hybrid Model.
+Auxiliary Information Regularized Machine for Multiple Modality Feature Learning.
+Discriminative Reordering Model Adaptation via Structural Learning.
+Revisiting Gaussian Process Dynamical Models.
+Character-Based Parsing with Convolutional Neural Network.
+Active Learning from Crowds with Unsure Option.
+Symbolic Model Checking for One-Resource RB+-ATL.
+The Complexity of Model Checking Succinct Multiagent Systems.
+Verifying Emergent Properties of Swarms.
+Pushdown Multi-Agent System Verification.
+A Scalable Interdependent Multi-Issue Negotiation Protocol for Energy Exchange.
+Equilibria Under the Probabilistic Serial Rule.
+Towards City-Scale Mobile Crowdsourcing: Task Recommendations under Trajectory Uncertainties.
+Estimating the Margin of Victory of an Election Using Sampling.
+Strategy-Proofness of Scoring Allocation Correspondences for Indivisible Goods.
+Spectrum-Based Fault Localisation for Multi-Agent Systems.
+What Do We Elect Committees For? A Voting Committee Model for Multi-Winner Rules.
+Algorithmic Exam Generation.
+The Right to Obscure: A Mechanism and Initial Evaluation.
+A New Input Method for Human Translators: Integrating Machine Translation Effectively and Imperceptibly.
+Combining Eye Movements and EEG to Enhance Emotion Recognition.
+Handling Complex Commands as Service Robot Task Requests.
+A Study of Human-Agent Collaboration for Multi-UAV Task Allocation in Dynamic Environments.
+Automated Geometry Theorem Proving for Human-Readable Proofs.
+Offline Sketch Parsing via Shapeness Estimation.
+Multi-Document Abstractive Summarization Using ILP Based Multi-Sentence Compression.
+Do We Criticise (and Laugh) in the Same Way? Automatic Detection of Multi-Lingual Satirical News in Twitter.
+Embedding Semantic Relations into Word Representations.
+Positive, Negative, or Neutral: Learning an Expanded Opinion Lexicon from Emoticon-Annotated Tweets.
+Joint Learning of Character and Word Embeddings.
+A Hybrid Neural Model for Type Classification of Entity Mentions.
+Iterative Learning of Parallel Lexicons and Phrases from Non-Parallel Corpora.
+Word-Error Correction of Continuous Speech Recognition Based on Normalized Relevance Distance.
+Joint POS Tagging and Text Normalization for Informal Text.
+Reader-Aware Multi-Document Summarization via Sparse Coding.
+Incorporating Domain and Sentiment Supervision in Representation Learning for Domain Adaptation.
+Learning Context-Sensitive Word Embeddings with Neural Tensor Skip-Gram Model.
+Automated Rule Selection for Aspect Extraction in Opinion Mining.
+Integrating Importance, Non-Redundancy and Coherence in Graph-Based Extractive Summarization.
+Convolutional Neural Tensor Network Architecture for Community-Based Question Answering.
+An Active Learning Approach to Coreference Resolution.
+Towards Addressing the Winograd Schema Challenge - Building and Using a Semantic Parser and a Knowledge Hunting Module.
+On Conceptual Labeling of a Bag of Words.
+Modeling Mention, Context and Entity with Neural Networks for Entity Disambiguation.
+User Modeling with Neural Network for Review Rating Prediction.
+Target-Dependent Twitter Sentiment Classification with Rich Automatic Features.
+Syntax-Based Deep Matching of Short Texts.
+Modeling Quantum Entanglements in Quantum Language Models.
+Convolutional Neural Networks for Text Hashing.
+Compressive Document Summarization via Sparse Optimization.
+Optimizing Sentence Modeling and Selection for Document Summarization.
+Learning Term Embeddings for Hypernymy Identification.
+Local Translation Prediction with Global Sentence Representation.
+Prior-Based Dual Additive Latent Dirichlet Allocation for User-Item Connected Documents.
+Representation Learning for Measuring Entity Relatedness with Rich Information.
+Linking Heterogeneous Input Features with Pivots for Domain Adaptation.
+A Subspace Learning Framework for Cross-Lingual Sentiment Classification with Partial Parallel Data.
+Unsupervised Learning of an IS-A Taxonomy from a Limited Domain-Specific Corpus.
+Coherence Across Components in Cognitive Systems - One Ontology to Rule Them All.
+How to Select One Preferred Assertional-Based Repair from Inconsistent and Prioritized DL-Lite Knowledge Bases?
+Scalable Maintenance of Knowledge Discovery in an Ontology Stream.
+Bootstrapping Domain Ontologies from Wikipedia: A Uniform Approach.
+An Ontology Matching Approach Based on Affinity-Preserving Random Walks.
+Exploiting Symmetries by Planning for a Descriptive Quotient.
+Cost-Optimal and Net-Benefit Planning - A Parameterised Complexity View.
+On the Boundary of (Un)decidability: Decidable Model-Checking for a Fragment of Resource Agent Logic.
+Tight Bounds for HTN Planning with Task Insertion.
+ASAP-UCT: Abstraction of State-Action Pairs in UCT.
+Further Connections Between Contract-Scheduling and Ray-Searching Problems.
+Temporal Planning with Semantic Attachment of Non-Linear Monotonic Continuous Behaviours.
+A Privacy Preserving Algorithm for Multi-Agent Planning and Search.
+Exploiting Block Deordering for Improving Planners Efficiency.
+On the Online Generation of Effective Macro-Operators.
+Estimating the Probability of Meeting a Deadline in Hierarchical Plans.
+Synthesis for LTL and LDL on Finite Traces.
+Mixed Discrete-Continuous Heuristic Generative Planning Based on Flow Tubes.
+Delete Relaxations for Planning with State-Dependent Action Costs.
+Optimal Planning with Axioms.
+Optimal Policy Generation for Partially Satisfiable Co-Safe LTL Specifications.
+Probabilistic Knowledge-Based Programs.
+Metareasoning for Planning Under Uncertainty.
+Classical Planning with Simulators: Results on the Atari Video Games.
+Action2Activity: Recognizing Complex Activities from Sensor Data.
+Exploratory Digraph Navigation Using A.
+Compiling Away Uncertainty in Strong Temporal Planning with Uncontrollable Durations.
+Sorting Sequential Portfolios in Automated Planning.
+Factored Upper Bounds for Multiagent Planning Problems under Uncertainty with Non-Factored Value Functions.
+Adversarial Hierarchical-Task Network Planning for Complex Real-Time Games.
+Models of Action Concurrency in Temporal Planning.
+Point-Based Planning for Multi-Objective POMDPs.
+Deordering and Numeric Macro Actions for Plan Repair.
+Planning for Stochastic Games with Co-Safe Objectives.
+Simulation-Based Admissible Dominance Pruning.
+Polynomial-Time Reformulations of LTL Temporally Extended Goals into Final-State Goals.
+On the Effective Configuration of Planning Domain Models.
+Integrating Partial Order Reduction and Symmetry Elimination for Cost-Optimal Classical Planning.
+Multi-Objective POMDPs with Lexicographic Reward Preferences.
+An Iterative Approach to Synthesize Data Transformation Programs.
+MORRF*: Sampling-Based Multi-Objective Motion Planning.
+Optimal Greedy Diversity for Recommendation.
+Music Recommenders: User Evaluation Without Real Users?
+A Synthetic Approach for Recommendation: Combining Ratings, Social Relations, and Reviews.
+Differentially Private Matrix Factorization.
+Sparse Probabilistic Matrix Factorization by Laplace Distribution for Collaborative Filtering.
+Personalized Tour Recommendation Based on User Interests and Points of Interest Visit Durations.
+Modeling Users' Dynamic Preference for Personalized Recommendation.
+A Boosting Algorithm for Item Recommendation with Implicit Feedback.
+Simple Atom Selection Strategy for Greedy Matrix Completion.
+Personalized Ad Recommendation Systems for Life-Time Value Optimization with Guarantees.
+Exploring Implicit Hierarchical Structures for Recommender Systems.
+Recommendation Algorithms for Optimizing Hit Rate, User Satisfaction and Website Revenue.
+Cross-Domain Collaborative Filtering with Review Text.
+Inducing Probabilistic Relational Rules from Probabilistic Examples.
+Saul: Towards Declarative Learning Based Programming.
+Anytime Inference in Probabilistic Logic Programs with Tp-Compilation.
+Knowledge Base Completion Using Embeddings and Rules.
+Toward Estimating Others' Transition Models Under Occlusion for Multi-Robot IRL.
+Graph-Based Inverse Optimal Control for Robot Manipulation.
+Reactive Integrated Motion Planning and Execution.
+Weakly Supervised RBM for Semantic Segmentation.
+Grounding the Meaning of Words through Vision and Interactive Gameplay.
+Intelligent Agent Supporting Human-Multi-Robot Team Collaboration.
+Co-Acquisition of Syntax and Semantics - An Investigation in Spatial Language.
+Reduced Time-Expansion Graphs and Goal Decomposition for Solving Cooperative Path Finding Sub-Optimally.
+Learning to Interpret Natural Language Commands through Human-Robot Dialog.
+Logic-Geometric Programming: An Optimization-Based Approach to Combined Task and Motion Planning.
+Multi-Modality Tracker Aggregation: From Generative to Discriminative.
+Tractable Classes of Binary CSPs Defined by Excluded Topological Minors.
+A Modularity-Based Random SAT Instances Generator.
+An Exact Inference Scheme for MinSAT.
+Efficient Model Based Diagnosis with Maximum Satisfiability.
+Literal-Based MCS Extraction.
+Prime Compilation of Non-Clausal Formulae.
+Solving MDPs with Skew Symmetric Bilinear Utility Functions.
+Non-Monotone Adaptive Submodular Maximization.
+Optimization of Probabilistic Argumentation with Markov Decision Models.
+Stick-Breaking Policy Learning in Dec-POMDPs.
+Structure in Dichotomous Preferences.
+Efficient, Private, and eps-Strategyproof Elicitation of Tournament Voting Rules.
+Lie on the Fly: Iterative Voting Center with Manipulative Voters.
+Ranked Voting on Social Networks.
+Non-Myopic Negotiators See What's Best.
+How Robust Is the Wisdom of the Crowds?
+Uncovering the Formation of Triadic Closure in Social Networks.
+Personalized Ranking Metric Embedding for Next New POI Recommendation.
+Influence Maximization in Big Networks: An Incremental Algorithm for Streaming Subgraph Influence Spread Estimation.
+Nonnegative Matrix Tri-Factorization with Graph Regularization for Community Detection in Social Networks.
+A Scalable Community Detection Algorithm for Large Graphs Using Stochastic Block Models.
+CEIL: A Scalable, Resolution Limit Free Approach for Detecting Communities in Large Networks.
+Maximizing the Coverage of Information Propagation in Social Networks.
+Network Representation Learning with Rich Text Information.
+Optimal Route Search with the Coverage of Users' Preferences.
+Integrated Anchor and Social Link Predictions across Social Networks.
+Groupwise Registration of Aerial Images.
+Video Covariance Matrix Logarithm for Human Action Recognition in Videos.
+Modeling Inter- and Intra-Part Deformations for Object Structure Parsing.
+Cross-View Projective Dictionary Learning for Person Re-Identification.
+Inferring Painting Style with Multi-Task Dictionary Learning.
+Social Image Parsing by Cross-Modal Data Refinement.
+Salient Object Detection via Augmented Hypotheses.
+Adaptive Sharing for Image Classification.
+Face Clustering in Videos with Proportion Prior.
+Trailer Generation via a Point Process-Based Visual Attractiveness Model.
+Generalized Transitive Distance with Minimum Spanning Random Forest.
+Saliency Detection with a Deeper Investigation of Light Field.
+Semantic Single Video Segmentation with Robust Graph Representation.
+Reasoning with Style.
+Semantic Concept Discovery for Large-Scale Zero-Shot Event Detection.
+Raising Expectations in GDA Agents Acting in Dynamic Environments.
+Scalable Graph Hashing with Feature Transformation.
+Web Page Classification Based on Uncorrelated Semi-Supervised Intra-View and Inter-View Manifold Discriminant Feature Extraction.
+Distance-Bounded Consistent Query Answering.
+Short and Sparse Text Topic Modeling via Self-Aggregation.
+Personalized Sentiment Classification Based on Latent Individuality of Microblog Users.
+Online Learning to Rank for Content-Based Image Retrieval.
+Deep Multimodal Hashing with Orthogonal Regularization.
+Hamming Compatible Quantization for Hashing.
+Determining Expert Research Areas with Multi-Instance Learning of Hierarchical Multi-Label Classification Model.
+Sampling with Minimum Sum of Squared Similarities for Nystrom-Based Large Scale Spectral Clustering.
+Tracking Political Elections on Social Media: Applications and Experience.
+Deep Learning for Event-Driven Stock Prediction.
+Large Scale Homophily Analysis in Twitter Using a Twixonomy.
+Interactive Gender Inference with Integer Linear Programming.
+Detecting Promotion Campaigns in Community Question Answering.
+VRCA: A Clustering Algorithm for Massive Amount of Texts.
+Towards Domain-Specific Semantic Relatedness: A Case Study from Geography.
+Interest Inference via Structure-Constrained Multi-Source Multi-Task Learning.
+Unsupervised Sentiment Analysis for Social Media Images.
+Re-Ranking Voting-Based Answers by Discarding User Behavior Biases.
+A Unified Probabilistic Model of User Activities and Relations on Social Networking Sites.
+Exploiting k-Degree Locality to Improve Overlapping Community Detection.
+Learning Geographical Hierarchy Features for Social Image Location Prediction.
+Catch the Black Sheep: Unified Framework for Shilling Attack Detection Based on Fraudulent Action Propagation.
+Tackling Data Sparseness in Recommendation using Social Media based Topic Hierarchy Modeling.
+Artificial Intelligence in the Concertgebouw.
+Kinetic Imaginations: Exploring the Possibilities of Combining AI and Dance.
+Heroic versus Collaborative AI for the Arts.
+Computational Invention of Cadences and Chord Progressions by Conceptual Chord-Blending.
+Slogans Are Not Forever: Adapting Linguistic Expressions to the News.
+Pseudo-Supervised Training Improves Unsupervised Melody Segmentation.
+Swarm Systems in the Visualization of Consumption Patterns.
+Evolving Ambiguous Images.
+The Scaffolded Sound Beehive.
+Generating 1/f Noise Sequences as Constraint Satisfaction: The Voss Constraint.
+Generating all Possible Palindromes from Ngram Corpora.
+Haiku Generator that Reads Blogs and Illustrates Them with Sounds and Images.
+Looking at Mondrian's Victory Boogie-Woogie: What Do I Feel?
+Aesthetic Visual Quality Evaluation of Chinese Handwritings.
+Narrative Hermeneutic Circle: Improving Character Role Identification from Natural Language Text via Feedback Loops.
+Learning to Rap Battle with Bilingual Recursive Neural Networks.
+Stroke-Based Stylization Learning and Rendering with Inverse Reinforcement Learning.
+Online Fair Division: Analysing a Food Bank Problem.
+A Personalised Thermal Comfort Model Using a Bayesian Network.
+Aggregate Demand-Based Real-Time Pricing Mechanism for the Smart Grid: A Game-Theoretic Analysis.
+Batch Reinforcement Learning for Smart Home Energy Management.
+Reasoning about Connectivity Constraints.
+Clustering Dynamic Spatio-Temporal Patterns in The Presence of Noise and Missing Data.
+α-min: A Compact Approximate Solver For Finite-Horizon POMDPs.
+When Security Games Go Green: Designing Defender Strategies to Prevent Poaching and Illegal Fishing.
+Modeling Multi-Attribute Demand for Sustainable Cloud Computing with Copulae.
+On the Balance of Meter Deployment Cost and NILM Accuracy.
+Online Mechanisms for Charging Electric Vehicles in Settings with Varying Marginal Electricity Costs.
+Secure Routing in Wireless Sensor Networks via POMDPs.
+Approximately Stable Pricing for Coordinated Purchasing of Electricity.
+Multiple Instance Learning-Based Birdsong Classification Using Unsupervised Recording Segmentation.
+Abstract Routing Models and Abstractions in the Context of Vehicle Routing.
+Copula Graphical Models for Wind Resource Estimation.
+Fast Combinatorial Algorithm for Optimizing the Spread of Cascades.
+Optimal Electric Vehicle Charging Station Placement.
+A Crowdfunding Model for Green Energy Investment.
+A MaxSAT Algorithm Using Cardinality Constraints of Bounded Size.
+Stable Model Semantics of Abstract Dialectical Frameworks Revisited: A Logic Programming Perspective.
+Combining Existential Rules and Description Logics.
+Bidirectional Constraints for Exchanging Data: Beyond Monotone Queries.
+First-Order Rewritability of Temporal Ontology-Mediated Queries.
+Multi-Agent Only Knowing on Planet Kripke.
+Combining Existential Rules and Transitivity: Next Steps.
+Dealing with Generic Contrariness in Structured Argumentation.
+AGM Meets Abstract Argumentation: Expansion and Revision for Dung Frameworks.
+Answer Update for Rule-Based Stream Reasoning.
+Epistemic Quantified Boolean Logic: Expressiveness and Completeness Results.
+Only Knowing Meets Common Knowledge.
+ALLEGRO: Belief-Based Programming in Stochastic Dynamical Domains.
+Probabilistic Inference in Hybrid Domains by Weighted Model Integration.
+Compatible-Based Conditioning in Interval-Based Possibilistic Logic.
+Partial Grounded Fixpoints.
+Complexity Results in Epistemic Planning.
+Policies that Generalize: Solving Many Planning Problems with the Same Policy.
+On the Entailment Problem for a Logic of Typicality.
+The Complexity of Subsumption in Fuzzy EL.
+Temporal Query Answering in the Description Logic EL.
+Reasonable Highly Expressive Query Languages - IJCAI-15 Distinguished Paper (Honorary Mention).
+Logic Program Termination Analysis Using Atom Sizes.
+On the Undecidability of the Situation Calculus Extended with Description Logic Ontologies.
+Verification of Generalized Inconsistency-Aware Knowledge and Action Bases.
+Probabilistic Belief Contraction Using Argumentation.
+Tractable Learning for Structured Probability Spaces: A Case Study in Learning Preference Distributions.
+An Algebra of Granular Temporal Relations for Qualitative Reasoning.
+Extension Enforcement in Abstract Argumentation as an Optimization Problem.
+Controlled Query Evaluation for Datalog and OWL 2 Profile Ontologies.
+Multilateral Negotiation in Boolean Games with Incomplete Information Using Generalized Possibilistic Logic.
+Fixed-Parameter Tractable Reductions to SAT for Planning.
+The Logic of Qualitative Probability.
+On the Aggregation of Argumentation Frameworks.
+Combining Existential Rules with the Power of CP-Theories.
+An Extension-Based Approach to Belief Revision in Abstract Argumentation.
+The Cube of Opposition: A Structure Underlying Many Knowledge Representation Formalisms.
+Modular Systems with Preferences.
+A Logic for Reasoning about Justified Uncertain Beliefs.
+On the Progression of Knowledge and Belief for Nondeterministic Actions in the Situation Calculus.
+Epistemic Equilibrium Logic.
+The Combined Approach to Query Answering Beyond the OWL 2 Profiles.
+Computing Social Behaviours Using Agent Models.
+On the Computational Complexity of Naive-Based Semantics for Abstract Dialectical Frameworks.
+Polynomial Rewritings for Linear Existential Rules.
+Beyond SPARQL under OWL 2 QL Entailment Regime: Rules to the Rescue.
+Group Decision Making via Weighted Propositional Logic: Complexity and Islands of Tractability.
+Lightweight Temporal Description Logics with Rigid Roles and Restricted TBoxes.
+A Modification of the Halpern-Pearl Definition of Causality.
+Efficient Query Rewriting in the Description Logic EL and Beyond.
+Merging in the Horn Fragment.
+Schema.org as a Description Logic.
+Modelling the Persuadee in Asymmetric Argumentation Dialogues for Persuasion.
+Trust-Sensitive Belief Revision.
+Simplifying A Logic Program Using Its Consequences.
+On Forgetting Postulates in Answer Set Programming.
+Efficient Semantic Features for Automated Reasoning over Large Theories.
+Computing Horn Rewritings of Description Logics Ontologies.
+Efficient Paraconsistent Reasoning with Ontologies and Rules.
+Query Rewriting for Existential Rules with Compiled Preorder.
+Automatic Verification of Partial Correctness of Golog Programs.
+Ontology-Mediated Queries with Closed Predicates.
+Combining Rewriting and Incremental Materialisation Maintenance for Datalog Programs with Equality.
+Kernel Contraction and Base Dependence: Redundancy in the Base Resulting in Different Types of Dependence.
+A Top-Down Compiler for Sentential Decision Diagrams.
+On the Parameterized Complexity of Belief Revision.
+Probabilistic Reasoning with Inconsistent Beliefs Using Inconsistency Measures.
+Did You Know? - Mining Interesting Trivia for Entities from Wikipedia.
+Realizability of Three-Valued Semantics for Abstract Dialectical Frameworks.
+Execution Monitoring as Meta-Games for General Game-Playing Robots.
+Membership Constraints in Formal Concept Analysis.
+Characterization of the Expressivity of Existential Rule Queries.
+Towards Fully Observable Non-Deterministic Planning as Assumption-based Automatic Synthesis.
+Qualitative Reasoning about Directions in Semantic Spaces.
+Belief Revision and Progression of Knowledge Bases in the Epistemic Situation Calculus.
+MergeXplain: Fast Computation of Multiple Conflicts for Diagnosis.
+Efficiently Characterizing Non-Redundant Constraints in Large Real World Qualitative Spatial Networks.
+Characterizability in Belief Revision.
+Efficiently Finding Conditional Instruments for Causal Inference.
+AGM Revision of Beliefs about Action and Time.
+A Complete Epistemic Planner without the Epistemic Closed World Assumption.
+Query Understanding through Knowledge-Based Conceptualization.
+Computation and Complexity of Preference Inference Based on Hierarchical Models.
+Verification of Knowledge-Based Programs over Description Logic Actions.
+Characterizing Causal Action Theories and Their Implementations in Answer Set Programming: Action Languages B, C, and Beyond.
+First-Order Disjunctive Logic Programming vs Normal Logic Programming.
+Extending AGM Contraction to Arbitrary Logics.
+Learning Regular Languages via Alternating Automata.
+Maximum Entropy Semi-Supervised Inverse Reinforcement Learning.
+A Graph Kernel Based on the Jensen-Shannon Representation Alignment.
+An Expectation-Maximization Algorithm to Compute a Stochastic Factorization From Data.
+Count-Based Frequency Estimation with Bounded Memory.
+Autonomous Cross-Domain Knowledge Transfer in Lifelong Policy Gradient Reinforcement Learning.
+Reinforcement Learning from Demonstration through Shaping.
+Compressed Spectral Regression for Efficient Nonlinear Dimensionality Reduction.
+Policy Shaping with Human Teachers.
+A Space Alignment Method for Cold-Start TV Show Recommendations.
+Direct Policy Iteration with Demonstrations.
+Model Metric Co-Learning for Time Series Classification.
+Training-Efficient Feature Map for Shift-Invariant Kernels.
+Mirror Representation for Modeling View-Specific Transform in Person Re-Identification.
+Efficient Generalized Conditional Gradient with Gradient Sliding for Composite Optimization.
+Robust Learning for Repeated Stochastic Games via Meta-Gaming.
+Learning Efficient Logical Robot Strategies Involving Composable Objects.
+Optimal Bayesian Hashing for Efficient Face Recognition.
+Multi-View Matrix Decomposition: A New Scheme for Exploring Discriminative Information.
+Intersecting Manifolds: Detection, Segmentation, and Labeling.
+Deep Low-Rank Coding for Transfer Learning.
+Speeding Up Automatic Hyperparameter Optimization of Deep Neural Networks by Extrapolation of Learning Curves.
+Topic Modeling with Document Relative Similarities.
+Robust Multiple Kernel K-means Using L21-Norm.
+Crowdsourced Semantic Matching of Multi-Label Annotations.
+Random Feature Mapping with Signed Circulant Matrix Projection.
+Quiet: Faster Belief Propagation for Images and Related Applications.
+Potential Based Reward Shaping for Hierarchical Reinforcement Learning.
+Pre-release Prediction of Crowd Opinion on Movies by Label Distribution Learning.
+Multitask Coactive Learning.
+Multi-Label Structure Learning with Ising Model Selection.
+Bi-Parameter Space Partition for Cost-Sensitive SVM.
+Online Robust Low Rank Matrix Recovery.
+Robust Subspace Segmentation by Simultaneously Learning Data Representations and Their Affinity Matrix.
+Active Imitation Learning of Hierarchical Policies.
+Identification of Time-Dependent Causal Model: A Gaussian Process Treatment.
+A New Simplex Sparse Learning Model to Measure Data Similarity for Clustering.
+Scalable Gaussian Process Regression Using Deep Neural Networks.
+Training-Time Optimization of a Budgeted Booster.
+Robust Dictionary Learning with Capped l1-Norm.
+Fast Cross-Validation for Incremental Learning.
+Bayesian Active Learning for Posterior Estimation - IJCAI-15 Distinguished Paper.
+Collaborative Place Models.
+Symbol Acquisition for Probabilistic High-Level Planning.
+Data Sparseness in Linear SVM.
+Multi-Label Classification with Feature-Aware Non-Linear Label Space Transformation.
+Multi-Task Model and Feature Joint Learning.
+Word Embedding Revisited: A New Representation Learning and Explicit Matrix Factorization Perspective.
+Mixed Error Coding for Face Recognition with Mixed Occlusions.
+Density Corrected Sparse Recovery when R.I.P. Condition Is Broken.
+Regularizing Flat Latent Variables with Hierarchical Structures.
+Robust Kernel Dictionary Learning Using a Whole Sequence Convergent Algorithm.
+Multi-Task Multi-Dimensional Hawkes Processes for Modeling Event Sequences.
+Between Imitation and Intention Learning.
+Optimizing Locally Linear Classifiers with Supervised Anchor Point Learning.
+Using A* for Inference in Probabilistic Classifier Chains.
+Introspective Forecasting.
+EntScene: Nonparametric Bayesian Temporal Segmentation of Videos Aimed at Entity-Driven Scene Detection.
+Image Feature Learning for Cold Start Problem in Display Advertising.
+Inverse Reinforcement Learning in Relational Domains.
+On the Runtime of Randomized Local Search and Simple Evolutionary Algorithms for Dynamic Makespan Scheduling.
+Weakly Supervised Matrix Factorization for Noisily Tagged Image Parsing.
+Graph Invariant Kernels.
+EigenGP: Gaussian Process Models with Adaptive Eigenfunctions.
+Scalable Probabilistic Tensor Factorization for Binary and Count Data.
+Nonparametric Independence Testing for Small Sample Sizes.
+Data Compression for Learning MRF Parameters.
+Extended Discriminative Random Walk: A Hypergraph Approach to Multi-View Multi-Relational Transductive Learning.
+Deep Linear Coding for Fast Graph Clustering.
+Semi-Orthogonal Multilinear PCA with Relaxed Start.
+A Geometric Theory of Feature Selection and Distance-Based Measures.
+Open Domain Short Text Conceptualization: A Generative + Descriptive Modeling Approach.
+Equivalence Results between Feedforward and Recurrent Neural Networks for Sequences.
+Polytree-Augmented Classifier Chains for Multi-Label Classification.
+Sketch the Storyline with CHARCOAL: A Non-Parametric Approach.
+Convergence of Common Proximal Methods for L1-Regularized Least Squares.
+Portable Option Discovery for Automated Learning Transfer in Object-Oriented Markov Decision Processes.
+Online Learning of k-CNF Boolean Functions.
+Feature Selection from Microarray Data via an Ordered Search with Projected Margin.
+Constrained Information-Theoretic Tripartite Graph Clustering to Identify Semantically Similar Relations.
+Semantic Topic Multimodal Hashing for Cross-Media Retrieval.
+An Efficient Classifier Based on Hierarchical Mixing Linear Support Vector Machines.
+Learning to Hash on Partial Multi-Modal Data.
+Ranking Preserving Hashing for Fast Similarity Search.
+A Soft Version of Predicate Invention Based on Structured Sparsity.
+Discriminative Unsupervised Dimensionality Reduction.
+A Joint Optimization Framework of Sparse Coding and Discriminative Clustering.
+Imaging Time-Series to Improve Classification and Imputation.
+Quantized Correlation Hashing for Fast Cross-Modal Search.
+Multi-Graph-View Learning for Complicated Object Classification.
+Thompson Sampling for Budgeted Multi-Armed Bandits.
+Perception Evolution Network Adapting to the Emergence of New Sensory Receptor.
+Multi-view Self-Paced Learning for Clustering.
+Ice-Breaking: Mitigating Cold-Start Recommendation Problem by Rating Comparison.
+Scalable Maximum Margin Matrix Factorization by Active Riemannian Subspace Search.
+Deep Convolutional Neural Networks on Multichannel Time Series for Human Activity Recognition.
+Accelerated Inexact Soft-Impute for Fast Large-Scale Matrix Completion.
+Unsupervised Machine Condition Monitoring Using Segmental Hidden Markov Models.
+Matrix Factorization with Scale-Invariant Parameters.
+A Direct Boosting Approach for Semi-supervised Classification.
+Increasingly Cautious Optimism for Practical PAC-MDP Exploration.
+Towards Class-Imbalance Aware Multi-Label Learning.
+Solving the Partial Label Learning Problem: An Instance-Based Approach.
+Multi-Task Multi-View Clustering for Non-Negative Data.
+Semi-Supervised Multi-Label Learning with Incomplete Labels.
+Self-Adaptive Hierarchical Sentence Model.
+Dual-Regularized Multi-View Outlier Detection.
+Mobile Query Recommendation via Tensor Function Learning.
+Instance-Wise Weighted Nonnegative Matrix Factorization for Aggregating Partitions with Locally Reliable Clusters.
+MUVIR: Multi-View Rare Category Detection.
+Recovery of Corrupted Multiple Kernels for Clustering.
+Learning a Robust Consensus Matrix for Clustering Ensemble via Kullback-Leibler Divergence Minimization.
+Supervised Representation Learning: Transfer Learning with Deep Autoencoders.
+Adaptive Dropout Rates for Learning with Corrupted Features.
+Evolving Families of Shapes.
+Max Order: A Tale of Creativity.
+Modelling High-Dimensional Sequences with LSTM-RTRBM: Application to Polyphonic Music Generation.
+Capturing a Musician's Groove: Generation of Realistic Accompaniments from Single Song Recordings.
+Constitutive and Regulative Specifications of Commitment Protocols: A Decoupled Approach (Extended Abstract).
+The Arcade Learning Environment: An Evaluation Platform for General Agents (Extended Abstract).
+Influencing Individually: Fusing Personalization and Persuasion (Extended Abstract).
+Developing Corpora for Sentiment Analysis: The Case of Irony and Senti-TUT (Extended Abstract).
+Data Complexity of Query Answering in Description Logics (Extended Abstract).
+Common Sense Reasoning for Detection, Prevention, and Mitigation of Cyberbullying (Extended Abstract).
+Complexity-Sensitive Decision Procedures for Abstract Argumentation (Extended Abstract).
+The Complexity of Manipulative Attacks in Nearly Single-Peaked Electorates (Extended Abstract).
+kLog: A Language for Logical and Relational Learning with Kernels (Extended Abstract).
+Framing Image Description as a Ranking Task: Data, Models and Evaluation Metrics (Extended Abstract).
+Measuring and Recommending Time-Sensitive Routes from Location-based Data.
+Algorithm Runtime Prediction: Methods and Evaluation (Extended Abstract).
+Phrase Detectives: Utilizing Collective Intelligence for Internet-Scale Language Resource Creation (Extended Abstract).
+Norms as a Basis for Governing Sociotechnical Systems: Extended Abstract.
+Continuous Body and Hand Gesture Recognition for Natural Human-Computer Interaction: Extended Abstract.
+On the Testability of BDI Agent Systems (Extended Abstract).
+Inapproximability of Treewidth and Related Problems (Extended Abstract).
+Feature Ensemble Plus Sample Selection: Domain Adaptation for Sentiment Classification (Extended Abstract).
+Using Social Media to Enhance Emergency Situation Awareness: Extended Abstract.
+When Are Description Logic Knowledge Bases Indistinguishable?
+Description Logic Based Dynamic Systems: Modeling, Verification, and Synthesis.
+Exploiting Separability in Multiagent Planning with Continuous-State MDPs (Extended Abstract).
+Trust-Guided Behavior Adaptation Using Case-Based Reasoning.
+Adapting to User Preference Changes in Interactive Recommendation.
+Near-Optimal Approximation Mechanisms for Multi-Unit Combinatorial Auctions.
+How to Define Certain Answers.
+Firefly Monte Carlo: Exact MCMC with Subsets of Data.
+Matching and Grokking: Approaches to Personalized Crowdsourcing.
+Heuristics for Cost-Optimal Classical Planning Based on Linear Programming.
+Reasoning with Probabilistic Ontologies.
+Examples and Tutored Problems: Adaptive Support Using Assistance Scores.
+Max Is More than Min: Solving Maximization Problems with Heuristic Search.
+Speedy versus Greedy Search.
+Online Fair Division.
+Expressive Rule-Based Stream Reasoning.
+Graph Construction for Semi-Supervised Learning.
+Stochastic Density Ratio Estimation and Its Application to Feature Selection.
+Encoding and Combining Knowledge to Speed up Reinforcement Learning.
+A Cognitively Inspired Approach for Knowledge Representation and Reasoning in Knowledge-Based Systems.
+Distribution of UCT and Its Ramifications.
+A Distributed Platform to Ease the Development of Recommendation Algorithms on Large-Scale Graphs.
+Models for Conditional Preferences as extensions of CP-nets.
+Information Extraction of Texts in the Biomedical Domain.
+Learning Efficient Logic Programs.
+RoTuEl: A Semi-Automated Method for Labeling Political Tweets.
+Bipartite Graph for Topic Extraction.
+Statistical Relational Learning Towards Modelling Social Media Users.
+On the Static Analysis for SPARQL Queries Using Modal Logic.
+Exploiting Trust Information to Cope with Malicious Entities in Multi-Agent Systems.
+Artificial Prediction Markets for Online Prediction.
+Multi-Robot Exploration with Communication Restrictions.
+Diagnosis of Technical Systems.
+Abstract Argumentation Frameworks - From Theoretical Insights to Practical Implications.
+Flexible Scheduling for an Agile Earth-Observing Satelllite.
+Towards More Practical Reinforcement Learning.
+Using Small Humanoid Robots to Detect Autism in Toddlers.
+Automatic Extraction of References to Future Events from News Articles Using Semantic and Morphological Information.
+Advances in Nonparametric Hypothesis Testing.
+Efficient Methods for Multi-Objective Decision-Theoretic Planning.
+Automated Agents for Advice Provision.
+Dynamic Execution of Temporal Plans with Sensing Actions and Bounded Risk.
+An Intelligent and Unified Framework for Multiple Robot and Human Coalition Formation.
+Normative Practical Reasoning: An Argumentation-Based Approach.
+Unleashing the Power of Multi-Agent Voting Teams.
+Feature Selection for Multi-Label Learning.
+Rational Architecture = Architecture from a Recommender Perspective.
+Quantifying and Improving the Robustness of Trust Systems.
+The Spatio-Temporal Representation of Natural Reading.
+Approximate Algorithms for Stochastic Network Design.
+Inference and Learning for Probabilistic Description Logics.
+Improvements of Symmetry Breaking During Search.
+Activity-Based Scheduling of Science Campaigns for the Rosetta Orbiter.
+CoBots: Robust Symbiotic Autonomous Mobile Service Robots.

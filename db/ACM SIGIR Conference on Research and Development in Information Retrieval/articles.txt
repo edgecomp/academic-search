@@ -1,0 +1,201 @@
+Salton Award Lecture: People, Interacting with Information.
+Exploring Session Context using Distributed Representations of Queries and Reformulations.
+An Eye-Tracking Study of Query Reformulation.
+Differences in the Use of Search Assistance for Tasks of Varying Complexity.
+Dynamic Query Modeling for Related Content Finding.
+Image-Based Recommendations on Styles and Substitutes.
+Semi-supervised Hashing with Semantic Confidence for Large Scale Visual Search.
+Optimal Aggregation Policy for Reducing Tail Latency of Web Search.
+QuickScorer: A Fast Algorithm to Rank Documents with Additive Ensembles of Regression Trees.
+High Quality Graph-Based Similarity Search.
+Summarizing Contrastive Themes via Hierarchical Non-Parametric Processes.
+Splitting Water: Precision and Anti-Precision to Reduce Pool Bias.
+Learning Maximal Marginal Relevance Model via Directly Optimizing Diversity Evaluation Measures.
+Analyzing User's Sequential Behavior in Query Auto-Completion via Markov Processes.
+Learning by Example: Training Users with High-quality Query Suggestions.
+adaQAC: Adaptive Query Auto-Completion via Implicit Negative Feedback.
+A Random Walk Model for Optimization of Search Impact in Web Frontier Ranking.
+A Similarity Measure for Weaving Patterns in Textiles.
+Local Ranking Problem on the BrowseGraph.
+How many results per page?: A Study of SERP Size, Search Behavior and User Experience.
+Influence of Vertical Result in Web Search Examination.
+Unconscious Physiological Effects of Search Latency on Users and Their Click Behaviour.
+Multiple Social Network Learning and Its Application in Volunteerism Tendency Prediction.
+HSpam14: A Collection of 14 Million Tweets for Hashtag-Oriented Spam Research.
+Uncovering Crowdsourced Manipulation of Online Reviews.
+Relevance Scores for Triples from Type-Like Relations.
+Fielded Sequential Dependence Model for Ad-Hoc Entity Retrieval in the Web of Data.
+Mining, Ranking and Recommending Entity Aspects.
+Bayesian Ranker Comparison Based on Historical User Interactions.
+Incorporating Non-sequential Behavior into Click Models.
+Untangling Result List Refinement and Ranking Quality: a Framework for Evaluation and Prediction.
+WEMAREC: Accurate and Scalable Recommendation through Weighted and Ensemble Matrix Approximation.
+Effective Latent Models for Binary Feedback in Recommender Systems.
+Personalized Recommendation via Parameter-Free Contextual Bandits.
+An Efficient and Scalable MetaFeature-based Document Classification Approach based on Massively Parallel Computing.
+Listwise Collaborative Filtering.
+BROOF: Exploiting Out-of-Bag Errors, Boosting and Random Forests for Effective Automated Classification.
+Monolingual and Cross-Lingual Information Retrieval Models Based on (Bilingual) Word Embeddings.
+Learning to Rank Short Text Pairs with Convolutional Deep Neural Networks.
+Context- and Content-aware Embeddings for Query Rewriting in Sponsored Search.
+Retrieval of Relevant Opinion Sentences for New Products.
+Learning Hierarchical Representation Model for NextBasket Recommendation.
+Parametric and Non-parametric User-aware Sentiment Topic Models.
+Learning to Extract Local Events from the Web.
+Rank-GeoFM: A Ranking based Geographical Factorization Method for Point of Interest Recommendation.
+GeoSoCa: Exploiting Geographical, Social and Categorical Correlations for Point-of-Interest Recommendations.
+Optimised Scheduling of Online Experiments.
+Predicting Search Satisfaction Metrics with Interleaved Comparisons.
+Sequential Testing for Early Stopping of Online Experiments.
+Inferring Searcher Attention by Jointly Modeling User Interactions and Content Salience.
+Different Users, Different Opinions: Predicting Search Satisfaction with Mouse Movement Information.
+Predicting Search Intent Based on Pre-Search Context.
+Leveraging Procedural Knowledge for Task-oriented Search.
+Personalizing Search on Shared Devices.
+Leveraging User Reviews to Improve Accuracy for Mobile App Retrieval.
+Towards a Game-Theoretic Framework for Information Retrieval.
+Representative & Informative Query Selection for Learning to Rank using Submodular Functions.
+Impact of Surrogate Assessments on High-Recall Retrieval.
+The Benefits of Magnitude Estimation Relevance Assessments for Information Retrieval Evaluation.
+Learning to Reweight Terms with Distributed Representations.
+A Probabilistic Model for Information Retrieval Based on Maximum Value Distribution.
+Non-Compositional Term Dependence for Information Retrieval.
+On the Relation Between Assessor's Agreement and Accuracy in Gamified Relevance Assessment.
+Assessor Differences and User Preferences in Tweet Timeline Generation.
+User Variability and IR System Evaluation.
+An Entity Class-Dependent Discriminative Mixture Model for Cumulative Citation Recommendation.
+Scientific Information Understanding via Open Educational Resources (OER).
+In Situ Insights.
+Islands in the Stream: A Study of Item Recommendation within an Enterprise Social Stream.
+Evaluating Streams of Evolving News Events.
+Information Retrieval as Card Playing: A Formal Model for Optimizing Interactive Retrieval Interface.
+From Queries to Cards: Re-ranking Proactive Card Recommendations Based on Reactive Search History.
+Using Sensor Metadata Streams to Identify Topics of Local Events in the City.
+StarSum: A Simple Star Graph for Multi-document Summarization.
+When Relevance Judgement is Happening?: An EEG-based Study.
+Search Engine Evaluation based on Search Engine Switching Prediction.
+Time-Aware Authorship Attribution for Short Text Streams.
+A Priori Relevance Based On Quality and Diversity Of Social Signals.
+Document Comprehensiveness and User Preferences in Novelty Search Tasks.
+Cost-Aware Result Caching for Meta-Search Engines.
+From Unlabelled Tweets to Twitter-specific Opinion Words.
+The Best Published Result is Random: Sequential Testing and its Effect on Reported Effectiveness.
+Load-sensitive CPU Power Management for Web Search Engines.
+Retrieval from Noisy E-Discovery Corpus in the Absence of Training Data.
+Opinion Spammer Detection in Web Forum.
+Multi-Faceted Recall of Continuous Active Learning for Technology-Assisted Review.
+Time Pressure and System Delays in Information Search.
+How Random Decisions Affect Selective Distributed Search.
+Comparing Approaches for Query Autocompletion.
+Sign-Aware Periodicity Metrics of User Engagement for Online Search Quality Evaluation.
+Modelling Term Dependence with Copulas.
+Modeling Website Topic Cohesion at Scale to Improve Webpage Classification.
+Topic-centric Classification of Twitter User's Political Orientation.
+Word Embedding based Generalized Language Model for Information Retrieval.
+A Head-Weighted Gap-Sensitive Correlation Coefficient.
+On Term Selection Techniques for Patent Prior Art Search.
+Automatic Feature Generation on Heterogeneous Graph for Music Recommendation.
+Differences in Eye-Tracking Measures Between Visits and Revisits to Relevant and Irrelevant Web Pages.
+Reducing Hubness: A Cause of Vulnerability in Recommender Systems.
+Modularity-Based Query Clustering for Identifying Users Sharing a Common Condition.
+Understanding Temporal Query Intent.
+On the Reusability of Open Test Collections.
+Towards Vandalism Detection in Knowledge Bases: Corpus Construction and Analysis.
+About the 'Compromised Information Need' and Optimal Interaction as Quality Measure for Search Interfaces.
+I See You: Person-of-Interest Search in Social Networks.
+Towards Quantifying the Impact of Non-Uniform Information Access in Collaborative Information Retrieval.
+Features of Disagreement Between Retrieval Effectiveness Measures.
+Subsequence Search in Event-Interval Sequences.
+Searcher in a Strange Land: Understanding Web Search from Familiar and Unfamiliar Locations.
+Evaluating Retrieval Models through Histogram Analysis.
+Inter-Category Variation in Location Search.
+Reachability based Ranking in Interactive Image Retrieval.
+Modeling Multi-query Retrieval Tasks Using Density Matrix Transformation.
+Predicting User Behavior in Display Advertising via Dynamic Collective Matrix Factorization.
+Zero-shot Image Tagging by Hierarchical Semantic Embedding.
+Using Term Location Information to Enhance Probabilistic Information Retrieval.
+Learning Context-aware Latent Representations for Context-aware Collaborative Filtering.
+Exploiting User and Business Attributes for Personalized Business Recommendation.
+Speeding up Document Ranking with Rank-based Features.
+Mining Measured Information from Text.
+An Initial Investigation into Fixed and Adaptive Stopping Strategies.
+Regularised Cross-Modal Hashing.
+Adapted B-CUBED Metrics to Unbalanced Datasets.
+A Time-aware Random Walk Model for Finding Important Documents in Web Archives.
+A Test Collection for Spoken Gujarati Queries.
+Discovering Experts across Multiple Domains.
+Using Key Concepts in a Translation Model for Retrieval.
+On the Cost of Phrase-Based Ranking.
+Location-Aware Model for News Events in Social Media.
+Exploring Opportunities to Facilitate Serendipity in Search.
+Combining Orthogonal Information in Large-Scale Cross-Language Information Retrieval.
+Tailoring Music Recommendations to Users by Considering Diversity, Mainstreaminess, and Novelty.
+Challenges of Mathematical Information Retrievalin the NTCIR-11 Math Wikipedia Task.
+Probabilistic Multileave for Online Retrieval Evaluation.
+Twitter Sentiment Analysis with Deep Convolutional Neural Networks.
+Anchoring and Adjustment in Relevance Estimation.
+Cognitive Activity during Web Search.
+Personalized Semantic Ranking for Collaborative Recommendation.
+Active Learning for Entity Filtering in Microblog Streams.
+Relevance-aware Filtering of Tuples Sorted by an Attribute Value via Direct Optimization of Search Quality Metrics.
+Multi-source Information Fusion for Personalized Restaurant Recommendation.
+Joint Matrix Factorization and Manifold-Ranking for Topic-Focused Multi-Document Summarization.
+Towards Understanding the Impact of Length in Web Search Result Summaries over a Speech-only Communication Channel.
+Early Detection of Topical Expertise in Community Question Answering.
+LBMCH: Learning Bridging Mapping for Cross-modal Hashing.
+Gibberish, Assistant, or Master?: Using Tweets Linking to News for Extractive Single-Document Summarization.
+Context-aware Point-of-Interest Recommendation Using Tensor Factorization with Social Regularization.
+Adaptive User Engagement Evaluation via Multi-task Learning.
+Compact Snippet Caching for Flash-based Search Engines.
+When Personalization Meets Conformity: Collective Similarity based Multi-Domain Recommendation.
+Sub-document Timestamping of Web Documents.
+DINFRA: A One Stop Shop for Computing Multilingual Semantic Relatedness.
+VenueMusic: A Venue-Aware Music Recommender System.
+Shiny on Your Crazy Diagonal.
+CricketLinking: Linking Event Mentions from Cricket Match Reports to Ball Entities in Commentaries.
+An Aspect-driven Social Media Explorer.
+ERICA: Expert Guidance in Validating Crowd Answers.
+Large-scale Image Retrieval using Neural Net Descriptors.
+Galean: Visualization of Geolocated News Events from Social Media.
+SciNet: Interactive Intent Modeling for Information Discovery.
+Linse: A Distributional Semantics Entity Search Engine.
+Online News Tracking for Ad-Hoc Queries.
+DUMPLING: A Novel Dynamic Search Engine.
+Promoting User Engagement and Learning in Amorphous Search Tasks.
+Cross-Platform Question Routing for Better Question Answering.
+Time Pressure in Information Search.
+Controversy Detection and Stance Analysis.
+Using Contextual Information to Understand Searching and Browsing Behavior.
+Transfer Learning for Information Retrieval.
+Enhancing Mathematics Information Retrieval.
+Improving Search using Proximity-Based Statistics.
+Spoken Conversational Search: Information Retrieval over a Speech-only Communication Channel.
+Finding Answers in Web Search.
+From Web Search Relevance to Vertical Search Relevance.
+Finding Money in the Haystack: Information Retrieval at Bloomberg.
+If SIGIR had an Academic Track, What Would Be In It?
+WeChat Search & Headline: Sogou Joins Force with Tencent on Mobile Search.
+Structure, Personalization, Scale: A Deep Dive into LinkedIn Search.
+Location in Search.
+Challenges and Opportunities in Online Evaluation of Search Engines.
+Lower Search Cost.
+Practical Lessons for Gathering Quality Labels at Scale.
+Incremental Sampling of Query Logs.
+Where to Go on Your Next Trip?: Optimizing Travel Destinations Based on User Preferences.
+Bringing Order to the Job Market: Efficient Job Offer Categorization in E-Recruitment.
+Building and Using Models of Information Seeking, Search and Retrieval: Full Day Tutorial.
+Advanced Click Models and their Applications to IR: SIGIR 2015 Tutorial.
+An Introduction to Click Models for Web Search: SIGIR 2015 Tutorial.
+IR Evaluation: Modeling User Behavior for Measuring Effectiveness.
+Information Retrieval with Verbose Queries.
+Revisiting the Foundations of IR: Timeless, Yet Timely.
+IR Evaluation: Designing an End-to-End Offline Evaluation Pipeline.
+Music Retrieval and Recommendation: A Tutorial Overview.
+Exploiting Wikipedia for Information Retrieval Tasks.
+Web Question Answering: Beyond Factoids: SIGIR 2015 Workshop.
+Graph Search and Beyond: SIGIR 2015 Workshop Summary.
+SIGIR 2015 Workshop on Reproducibility, Inexplicability, and Generalizability of Results (RIGOR).
+SIGIR 2015 Workshop on Temporal, Social and Spatially-aware Information Access (#TAIA2015).
+NeuroIR 2015: Neuro-Physiological Methods in IR Research.
+SPS'15: 2015 International Workshop on Social Personalization & Search.
+Privacy-Preserving IR 2015: When Information Retrieval Meets Privacy and Security.

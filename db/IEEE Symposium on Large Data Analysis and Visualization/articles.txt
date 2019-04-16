@@ -1,0 +1,25 @@
+In situ depth maps based feature extraction and tracking.
+Tracking features in embedded surfaces: Understanding extinction in turbulent combustion.
+Fast uncertainty-driven large-scale volume feature extraction on desktop PCs.
+Cylindrical acceleration structures for large hexahedral volume visualization.
+Flying edges: A high-performance scalable isocontouring algorithm.
+Lagrangian representations of flow fields with parameter curves.
+A compact multivariate histogram representation for query-driven visualization.
+A visual analytics paradigm enabling trillion-edge graph exploration.
+Scalable visualization of discrete velocity decompositions using spatially organized histograms.
+Exploring tradeoffs between power and performance for a scientific visualization algorithm.
+Evaluating the efficacy of wavelet configurations on turbulent-flow data.
+Utilizing many-core accelerators for halo and center finding within a cosmology simulation.
+Large interactive visualization of density functions on big data infrastructure.
+Bandlimited OLAP cubes for interactive big data visualization.
+A visualization pipeline for large-scale tractography data.
+Vispark: GPU-accelerated distributed visual computing using spark.
+Fuzzy clustering of network traffic features for security.
+Skydive: An interactive data visualization engine.
+ViQAP: Visualizing quality aspects of public transportation between cities in a region.
+Streaming ultra high resolution images to large tiled display at nearly interactive frame rate with vl3.
+Distributed aggregate computation between server and client for interactive visualization.
+Advanced aggregate computation for large data visualization.
+CEDARS: Combined exploratory data analysis recommender system.
+Large-scale co-visualization for LAMMPS using vl3.
+Tracking space-filling structures in turbulent flows.

@@ -1,0 +1,32 @@
+Improved Security Proofs in Lattice-Based Cryptography: Using the Rényi Divergence Rather Than the Statistical Distance.
+Multi-input Functional Encryption for Unbounded Arity Functions.
+Multi-party Key Exchange for Unbounded Parties from Indistinguishability Obfuscation.
+Adaptively Secure Puncturable Pseudorandom Functions in the Standard Model.
+Multilinear and Aggregate Pseudorandom Functions: New Constructions and Improved Security.
+New Realizations of Somewhere Statistically Binding Hashing and Positional Accumulators.
+Computing Individual Discrete Logarithms Faster in GF(p n ) with the NFS-DL Algorithm.
+Multiple Discrete Logarithm Problems with Auxiliary Inputs.
+Solving Linear Equations Modulo Unknown Divisors: Revisited.
+Fourℚ: Four-Dimensional Decompositions on a ℚ-curve over the Mersenne Prime.
+Efficient Fully Structure-Preserving Signatures for Large Messages.
+A Provably Secure Group Signature Scheme from Code-Based Assumptions.
+Type 2 Structure-Preserving Signature Schemes Revisited.
+Design Principles for HFEv- Based Multivariate Signature Schemes.
+Oblivious Network RAM and Leveraging Parallelism to Achieve Obliviousness.
+Three-Party ORAM for Secure Computation.
+On Cut-and-Choose Oblivious Transfer and Its Variants.
+An Asymptotically Optimal Method for Converting Bit Encryption to Multi-Bit Encryption.
+Selective Opening Security for Receivers.
+Function-Hiding Inner Product Encryption.
+Idealizing Identity-Based Encryption.
+A Framework for Identity-Based Encryption with Almost Tight Security.
+Riding on Asymmetry: Efficient ABE for Branching Programs.
+Conversions Among Several Classes of Predicate Encryption and Applications to ABE with Various Compactness Tradeoffs.
+QA-NIZK Arguments in Asymmetric Groups: New Tools and New Constructions.
+Dual-System Simulation-Soundness with Applications to UC-PAKE and More.
+Secret Sharing and Statistical Zero Knowledge.
+Compactly Hiding Linear Spans - Tightly Secure Constant-Size Simulation-Sound QA-NIZK Proofs and Applications.
+A Unified Approach to MPC with Preprocessing Using OT.
+Secure Computation from Millionaire.
+Garbling Scheme for Formulas with Constant Size of Garbled Gates.
+Card-Based Cryptographic Protocols Using a Minimal Number of Cards.

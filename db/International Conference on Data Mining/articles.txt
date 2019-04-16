@@ -1,0 +1,155 @@
+Behind the Scenes of Duolingo.
+Personal Knowledge/Learning Graph.
+Educational Neuroscience as a Tool to Understand Learning and Learning Disabilities in Mathematics.
+The Future of Practical Applications of EDM at Scale.
+Ethics and Privacy in EDM.
+Grand Challenges for EDM and Related Research Areas.
+Metrics for Evaluation of Student Models.
+Multi-Armed Bandits for Intelligent Tutoring Systems.
+Developing Computational Methods to Measure and Track Learners' Spatial Reasoning in an Open-Ended Simulation.
+Move your lamp post: Recent data reflects learner knowledge better than older data.
+A Partition Tree Approach to Combine Techniques to Refine Item to Skills Q-Matrices.
+On the Performance Characteristics of Latent-Factor and Knowledge Tracing Models.
+Mixture Modeling of Individual Learning Curves.
+Accounting for Slipping and Other False Negatives in Logistic Models of Student Learning.
+Learning Environments and Inquiry Behaviors in Science Inquiry Learning: How Their Interplay Affects the Development of Conceptual Understanding in Physics.
+Toward a Real-time (Day) Dreamcatcher: Detecting Mind Wandering Episodes During Online Reading.
+A Comparison of Face-based and Interaction-based Affect Detectors in Physics Playground.
+Exploring Dynamical Assessments of Affect, Behavior, and Cognition and Math State Test Achievement.
+Sensor-Free or Sensor-Full: A Comparison of Data Modalities in Multi-Channel Affect Detection.
+Machine Beats Experts: Automatic Discovery of Skill Models for Data-Driven Online Courseware Refinement.
+Student Models for Prior Knowledge Estimation.
+Discovering Prerequisite Structure of Skills through Probabilistic Association Rules Mining.
+Choosing to Interact: Exploring the Relationship Between Learner Personality, Attitudes, and Tutorial Dialogue Participation.
+Considering the Influence of Prerequisite Performance on Wheel Spinning.
+Comparing Novice and Experienced Students in Virtual Performance Assessments.
+The Impact of Incorporating Student Confidence Items into an Intelligent Tutor: A Randomized Controlled Trial.
+Analyzing Early At-Risk Factors in Higher Education e-Learning Courses.
+Do Country Stereotypes Exist in Educational Data? A Clustering Approach for Large, Sparse, and Weighted Data.
+Student Privacy and Educational Data Mining: Perspectives from Industry.
+Beyond Prediction: Towards Automatic Intervention in MOOC Student Stop-out.
+From Predictive Models to Instructional Policies.
+Your Model Is Predictive - but Is It Useful? Theoretical and Empirical Considerations of a New Paradigm for Adaptive Tutoring Evaluation.
+Automated Session-Quality Assessment for Human Tutoring Based on Expert Ratings of Tutoring Success.
+A Framework for Multifaceted Evaluation of Student Models.
+Predicting Student Performance In a Collaborative Learning Environment.
+Learning Instructor Intervention from MOOC Forums: Early Results and Issues.
+Investigating How Student's Cognitive Behavior in MOOC Discussion Forum Affect Learning Gains.
+Methodological Challenges in the Analysis of MOOC Data for Exploring the Relationship between Discussion Forum Views and Learning Outcomes.
+Influence Analysis by Heterogeneous Network in MOOC Forums: What can We Discover?
+Modeling Learners' Social Centrality and Performance through Language and Discourse.
+You are your words: Modeling Students' Vocabulary Knowledge with Natural Language Processing Techniques.
+Automatic Identification of Nutritious Contexts for Learning Vocabulary Words.
+Mining a Written Values Affirmation Intervention to Identify the Unique Linguistic Features of Stigmatized Groups.
+Classifying Q&A from Teachers' Speech: Moving Toward an Automated System of Dialogic Analysis.
+Topic Transition in Educational Videos Using Visually Salient Words.
+YouEDU: Addressing Confusion in MOOC Discussion Forums by Recommending Instructional Video Clips.
+Seeing the Instructor in Two Video Styles: Preferences and Patterns.
+Using Partial Credit and Response History to Model User Knowledge.
+Translating Head Motion into Attention - Towards Processing of Student's Body-Language.
+Using Visual Analytics Tool for Improving Data Comprehension.
+Data-Driven Proficiency Profiling.
+Interaction Network Estimation: Predicting Problem-Solving Diversity in Interactive Environments.
+Why Do the Rich Get Richer? A Structural Equation Model to Test How Spatial Skills Affect Learning with Representations.
+Spectral Bayesian Knowledge Tracing.
+Direct Estimation of the Minimum RSS Value for Training Bayesian Knowledge Tracing Parameters.
+Goodness of Fit of Skills Assessment Approaches: Insights from Patterns of Real vs. Synthetic Data Sets.
+A Transfer Learning Approach for Applying Matrix Factorization to Small ITS Datasets.
+Towards Understanding How to Leverage Sense-making, Induction/Refinement and Fluency to Improve Robust Learning.
+Learning Behavior Characterization with Multi-Feature, Hierarchical Activity Sequences.
+Discrimination-Aware Classifiers for Student Performance Prediction.
+Language to Completion: Success in an Educational Data Mining Massive Open Online Class.
+A Comparative Study of Regression and Classification Algorithms for Modelling Students' Academic Performance.
+Predicting Student Grade based on Free-style Comments using Word2Vec and ANN by Considering Prediction Results Obtained in Consecutive Lessons.
+Learning the Creative Potential of Students by Mining a Word Association Task.
+Optimizing Partial Credit Algorithms to Predict Student Performance.
+Identifying Styles and Paths toward Success in MOOCs.
+Analyzing Student Inquiry Data Using Process Discovery and Sequence Classification.
+Desirable Difficulty and Other Predictors of Effective Item Orderings.
+Variations in Learning Rate: Student Clustering Based on Systematic Residual Error Patterns Across Practice Opportunities.
+Evaluating Educational Videos using Bayesian Knowledge Tracing and Big Data.
+Measuring Problem Solving Skills in Plants vs. Zombies 2.
+Strategic Game Moves Mediate Implicit Science Learning.
+Predicting Learning-Related Emotions from Students' Textual Classroom Feedback.
+Video-Based Affect Detection in Noninteractive Learning Environments.
+Modeling Classroom Discourse: Do Models of Predicting Dialogic Instruction Properties Generalize across Populations?
+Breaking Off Engagement: Readers' Cognitive Decoupling as a Function of Reader and Text Characteristics.
+Semantic Similarity Graphs of Mathematics Word Problems: Can Terminology Detection Help?
+An Analysis of Peer-submitted and Peer-reviewed Answer Rationales in a Web-based Peer Instruction Based Learning Environment.
+Learning Analytics Platform. Towards an Open Scalable Streaming Solution for Education.
+Improving Student Performance Using Nudge Analytics.
+Educational Reports That Scale Across Users and Data.
+Mining Login Data For Actionable Student Insight.
+Building Models to Predict Hint-or-Attempt Actions of Students.
+Modeling Students' Memory for Application in Adaptive Educational Systems.
+Psychological Effects of In-Group Activity Feedback in an Online Explanation Task: Lexical Network Analysis.
+Personalized Education; Solving a Group Formation and Scheduling Problem for Educational Content.
+An Approach of Collaboration Analytics in MOOCs Using Social Network Analysis and Influence Diagram.
+On Convergence of Cognitive and Non-cognitive Behavior in Collaborative Activity.
+The Impact of Small Learning Group Composition on Drop-Out Rate and Learning Performance in a MOOC.
+Exploring Causal Mechanisms in a Randomized Effectiveness Trial of the Cognitive Tutor Algebra I Program.
+Confounding Carelessness? Exploring Causal Relationships Between Carelessness, Affect, Behavior, and Learning in Cognitive Tutor Algebra Using Graphical Causal Models.
+Students at Risk: Detection and Remediation.
+Intelligent Tutor Recommender System for On-Line Educational Environments.
+Discovering the Pedagogical Resources that Assist Students to Answer Questions Correctly - A Machine Learning Approach.
+Using Topic Segmentation Models for the Automatic Organisation of MOOCs resources.
+How High School, College, and Online Students Differentially Engage with an Interactive Digital Textbook.
+Modeling Exercise Relationships in E-Learning: A Unified Approach.
+Using Knowledge Components for Collaborative Filtering in Adaptive Tutoring Systems.
+Exploring the Influence of ICT in online Education Through Data Mining Tools.
+Understanding Revision Planning in Peer-Reviewed Writing.
+Convergent Validity of a Student Model: Recent-Performance Factors Analysis.
+Automatic Grading of Short Answers for MOOC via Semi-supervised Document Clustering.
+Discovering Students' Navigation Paths in Moodle.
+Teacher-Student Classroom Interactions: A Computational Approach.
+Modeling Student Learning: Binary or Continuous Skill?
+An Analysis of Response Times in Adaptive Practice of Geography Facts.
+Achievement versus Experience: Predicting Students' Choices during Gameplay.
+How to Aggregate Multimodal Features for Perceived Task Difficulty Recognition in Intelligent Tutoring Systems.
+Teacher and Learner Behaviour in an Online EFL Workbook.
+Skill Assessment Using Behavior Data in Virtual World.
+Pacing through MOOCs: Course Design or Teaching Effect?
+Integrating a Web-based ITS with DM tools for Providing Learning Path Optimization and Visual Analytics.
+Different Patterns of Students' Interaction with Mooodle and Their Relationship with Achievement.
+Educational Data Mining in an Open-Ended Remote Laboratory on Electric Circuits. Goals and Preliminary Results.
+Discovering Process in Curriculum Data to Provide Recommendation.
+Improving Long-Term Retention Level in an Environment of Personalized Expanding Intervals.
+Exploring Problem-Solving Behavior in an Optics Game.
+Simulating Multi-Subject Momentary Time Sampling.
+Analyzing Students' Interaction Based on Their Response to Determine Their Learning Outcomes.
+Exploring the Impact of Spacing in Mathematics Learning through Data Mining.
+Toward Data-Driven Analyses of Electronic Text Books.
+How to Visualize Success: Presenting Complex Data in a Writing Strategy Tutor.
+Adjusting the weights of assessment elements in the evaluation of Final Year Projects.
+Predicting Students' Outcome by Interaction Monitoring.
+Hierarchical Dialogue Act Classification in Online Tutoring Sessions.
+Towards Freshmen Performance Prediction.
+Generalising IRT to Discriminate Between Examinees.
+Detection of Learners with a Performance Inconsistent with Their Effort.
+A Probabilistic Model for Knowledge Component Naming.
+An Improved Data-Driven Hint Selection Algorithm for Probability Tutors.
+Good Communities and Bad Communities: Does Membership Affect Performance?
+A Model for Student Action Prediction in 3D Virtual Environments for Procedural Training.
+The Impact of Instructional Intervention and Practice on Help-Seeking Strategies within an ITS.
+Predicting Performance on Dichotomous Questions: Comparing Models for Large-Scale Adaptive Testing.
+The Effect of the Distribution of Predictions of User Models.
+Predicting Student Aptitude Using Performance History.
+Discovering Concept Maps from Textual Sources.
+Integrating Process and Product Data: The Case of an Automated Writing Evaluation System.
+Application of Sentiment and Topic Analysis to Teacher Evaluation Policy in the U.S.
+Defining Mastery: Knowledge Tracing Versus N- Consecutive Correct Responses.
+A Toolbox for Adaptive Sequence Dissimilarity Measures for Intelligent Tutoring Systems.
+Carnegie Learning's Cognitive Tutor.
+SAP: Student Attrition Predictor.
+Dynamic User Modeling within a Game-Based ITS.
+Use of Time Information in Models behind Adaptive Practice System for Building Fluency in Mathematics.
+Integrating Learning Styles into Adaptive e-Learning System.
+Modeling Speed-Accuracy Tradeoff in Adaptive System for Practicing Estimation.
+Reimagining Khan Analytics for Student Coaches.
+Data Analysis Tools and Methods for Improving the Interaction Design in e-Learning.
+Assessing the Roles of Student Engagement and Academic Emotions within Middle School Computer-Based Learning in College-Going Pathways.
+Who Do You Think I Am? Modeling Individual Differences for More Adaptive and Effective Instruction.
+Developing Self-Regulated Learners Through an Intelligent Tutoring System.
+Data-driven Hint Generation from Peer Debugging Solutions.
+Enhancing Student Motivation and Learning Within Adaptive Tutors.
+Estimating the Local Size and Coverage of Interaction Network Regions.

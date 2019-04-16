@@ -1,0 +1,83 @@
+Massively parallel models of the human circulatory system.
+The in-silico lab-on-a-chip: petascale and high-throughput simulations of microfluidics at cell resolution.
+Pushing back the limit of ab-initio quantum transport simulations on hybrid supercomputers.
+Implicit nonlinear wave simulation with 1.08T DOF and 0.270T unstructured finite elements to enhance comprehensive earthquake simulation.
+An extreme-scale implicit solver for complex PDEs: highly heterogeneous flow in earth's mantle.
+BD-CATS: big data clustering at trillion particle scale.
+Performance optimization for the k-nearest neighbors kernel on x86 architectures.
+Massively parallel phase-field simulations for ternary eutectic directional solidification.
+Parallel implementation and performance optimization of the configuration-interaction method.
+Efficient implementation of quantum materials simulations on distributed CPU-GPU systems.
+Runtime-driven shared last-level cache management for task-parallel programs.
+Frugal ECC: efficient and versatile memory error protection through fine-grained compression.
+Automatic sharing classification and timely push for cache-coherent systems.
+HipMer: an extreme-scale de novo genome assembler.
+A parallel connectivity algorithm for de Bruijn graphs in metagenomic applications.
+Parallel distributed memory construction of suffix and longest common prefix arrays.
+Adaptive and transparent cache bypassing for GPUs.
+ELF: maximizing memory-level parallelism for GPUs with coordinated warp and fetch scheduling.
+Memory access patterns: the missing piece of the multi-GPU puzzle.
+AnalyzeThis: an analysis workflow-aware storage system.
+Mantle: a programmable metadata load balancer for the ceph file system.
+HydraDB: a resilient RDMA-driven key-value middleware for in-memory cluster computing.
+Full correlation matrix analysis of fMRI data on Intel® Xeon Phi™ coprocessors.
+A kernel-independent FMM in general dimensions.
+Engineering inhibitory proteins with InSiPS: the in-silico protein synthesizer.
+Exploring network optimizations for large-scale graph analytics.
+GossipMap: a distributed community detection algorithm for billion-edge directed graphs.
+GraphReduce: processing large-scale graphs on accelerator-based systems.
+A case for application-oblivious energy-efficient MPI runtime.
+Improving concurrency and asynchrony in multithreaded MPI applications using software offloading.
+Practical scalable consensus for pseudo-synchronous distributed systems.
+Monetary cost optimizations for MPI-based HPC applications on Amazon clouds: checkpoints and replicated execution.
+Elastic job bundling: an adaptive resource request strategy for large-scale parallel applications.
+Fault tolerant MapReduce-MPI for HPC clusters.
+Network endpoint congestion control for fine-grained communication.
+Cost-effective diameter-two topologies: analysis and evaluation.
+Profile-based power shifting in interconnection networks with on/off links.
+Reliability lessons learned from GPU experience with the Titan supercomputer at Oak Ridge leadership computing facility.
+Big omics data experience.
+The Spack package manager: bringing order to HPC software chaos.
+STELLA: a domain-specific tool for structured grid methods in weather and climate models.
+Improving the scalability of the ocean barotropic solver in the community earth system model.
+Particle tracking in open simulation laboratories.
+Energy-aware data transfer algorithms.
+IOrchestra: supporting high-performance data-intensive applications in the cloud via collaborative virtualization.
+An elegant sufficiency: load-aware differentiated scheduling of data transfers.
+ScaAnalyzer: a tool to identify memory scalability bottlenecks in parallel programs.
+C2-bound: a capacity and concurrency driven analytical model for many-core design.
+Recovering logical structure from Charm++ event traces.
+Large-scale compute-intensive analysis via a combined in-situ and co-scheduling workflow approach.
+Smart: a MapReduce-like framework for in-situ scientific analytics.
+Optimal scheduling of in-situ analysis for large-scale scientific simulations.
+Exploiting asynchrony from exact forward recovery for DUE in iterative solvers.
+High-performance algebraic multigrid solver optimized for multi-core based distributed parallel systems.
+STS-k: a multilevel sparse triangular solution scheme for NUMA multicores.
+Data partitioning strategies for graph workloads on heterogeneous clusters.
+Scaling iterative graph computations with GraphMap.
+PGX.D: a fast distributed graph processing engine.
+Randomized algorithms to update partial singular value decomposition on a hybrid CPU/GPU cluster.
+Performance of random sampling for computing low-rank approximations of a dense matrix on GPUs.
+CIVL: the concurrency intermediate verification language.
+Clock delta compression for scalable order-replay of non-deterministic parallel applications.
+Relative debugging for a highly parallel hybrid computer system.
+Improving backfilling by using machine learning to predict running times.
+Adaptive data placement for staging-based coupled scientific workflows.
+Multi-objective job placement in clusters.
+A work-efficient algorithm for parallel unordered depth-first search.
+Enterprise: breadth-first graph traversal on GPUs.
+GraphBIG: understanding graph computing in the context of industrial solutions.
+Local recovery and failure masking for stencil-based applications at extreme scales.
+VOCL-FT: introducing techniques for efficient soft error coprocessor recovery.
+Understanding the propagation of transient errors in HPC applications.
+Scientific benchmarking of parallel computing systems: twelve ways to tell the masses when reporting performance results.
+Node variability in large-scale power measurements: perspectives from the Green500, Top500 and EEHPCWG.
+A practical approach to reconciling availability, performance, and capacity in provisioning extreme-scale storage systems.
+An input-adaptive and in-place approach to dense tensor-times-matrix multiply.
+Scalable sparse tensor decompositions in distributed memory systems.
+Analyzing and mitigating the impact of manufacturing variability in power-constrained supercomputing.
+Finding the limits of power-constrained application performance.
+Dynamic power sharing for higher job throughput.
+Regent: a high-productivity programming language for HPC with logical regions.
+Bridging OpenCL and CUDA: a comparative analysis and translation.
+CilkSpec: optimistic concurrency for Cilk.

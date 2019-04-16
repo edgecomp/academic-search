@@ -1,0 +1,30 @@
+A new sharp-crease bending element for folding and wrinkling surfaces and volumes.
+Real-time dynamic wrinkling of coarse animated cloth.
+Multifarious hierarchies of mechanical models for artist assigned levels-of-detail.
+Effect of appearance on perception of deformation.
+Fully momentum-conserving reduced deformable bodies with collision, contact, articulation, and skinning.
+Efficient simulation of knitted cloth using persistent contacts.
+Hands on: interactive animation of precision manipulation and contact.
+Hierarchical planning and control for complex motor tasks.
+Learning reduced-order feedback policies for motion skills.
+Computational design of walking automata.
+Animating articulated characters using wiggly splines.
+BSwarm: biologically-plausible dynamics model of insect swarms.
+Energy-efficient mid-term strategies for collision avoidance in crowd simulation.
+Simulation of fluid mixing with interface control.
+Functional thin films on surfaces.
+Divergence-free smoothed particle hydrodynamics.
+A material point method for viscoelastic fluids, foams and sponges.
+Learning an inverse rig mapping for character animation.
+Fully automatic generation of anatomical face simulation models.
+Sketch abstractions for character posing.
+A hybrid crowd simulation framework towards modeling behavior of individual avoidance of crowds.
+Constraint-based wrinkle simulation in texture space.
+Discovering human postures from non-human silhouette.
+Eulerian-on-lagrangian cloth.
+Fast cloth simulation with implicit contact and exact coulomb friction.
+Gaze driven animation of eyes.
+Improving naturalness of locomotion of many-muscle humanoids.
+Resampling adaptive cloth simulations onto fixed-topology meshes.
+Tracking control for streaming input motion using segmented foot model.
+Trajectory-free reactive stepping of physics-based character using momentum control.

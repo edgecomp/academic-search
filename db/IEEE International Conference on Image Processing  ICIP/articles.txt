@@ -1,0 +1,2020 @@
+Unified image fusion based on application-adaptive importance measure.
+Reconstruction of compressively sensed ultrasound RF echoes by exploiting non-Gaussianity and temporal structure.
+Seeded Laplacian: An interactive image segmentation approach using eigenfunctions.
+Mesh segmentation with connecting parts for 3D object prototyping.
+Multi-kernel collaborative representation for image classification.
+Multi-scale local binary patterns based on path integral for texture classification.
+Frame-level matching of near duplicate videos based on ternary frame descriptor and iterative refinement.
+Talk abstract: Computational lighting design and band-sifting operators.
+Optimization of color quantization with total luminance for DLP projector and its evaluation system.
+Efficient natural color image denoising based on guided filter.
+Approximationorder of the lap optical flow algorithm.
+Load-balanced locality-sensitive hashing: A new method for efficient near duplicate image detection.
+Hybrid super-resolution combining example-based single-image and interpolation-based multi-image reconstruction approaches.
+Semantic embedding space for zero-shot action recognition.
+Compensation of spectral mismatch to enhance WRGB demosaicking.
+Estimation of angular difference between tomographic projections taken at unknown directions in 3D.
+Image analysis of videokymographic data.
+Dictionary-based multiple frame video super-resolution.
+A novel framework for the segmentationof mrinfant brain images.
+Clustered Exemplar-SVM: Discovering sub-categories for visual recognition.
+Robust facial landmark localization using multi partial features.
+Segmentation of cells in electron microscopy images through multimodal label transfer.
+Image denoising using optimally weighted bilateral filters: A sure and fast approach.
+Region based 4D tomographic image reconstruction: Application to cardiac x-ray CT.
+Video denoising by online 3D sparsifying transform learning.
+Nonparametric background model based clutter map for X-band marine radar.
+External and internal learning for single-image super-resolution.
+Correlated warped Gaussian processes for gender-specific age estimation.
+Image deblurring using robust sparsity priors.
+Ensemble classifier for joint object instance and category recognition on RGB-D data.
+Dynamic bi-modal fusion of images for the segmentation of pollen tubes in video.
+Multi-look processing of high-resolution SAS data for improved target detection performance.
+Affect-preserving privacy protection of video.
+Asymmetry evaluation of fundus images in right and left eyes using radon transform and fractal analysis.
+UTD-MHAD: A multimodal dataset for human action recognition utilizing a depth camera and a wearable inertial sensor.
+Automatic contrast enhancement by variational minimax optimization.
+LGHD: A feature descriptor for matching across non-linear intensity variations.
+Image segmentation with the competitive learning based MS model.
+Distributions of local radius indices on periodic tessellations.
+Stochastic bilateral filter for high-dimensional images.
+Captured open book image de-warping using depth information.
+Multitask multivariate common sparse representations for robust multimodal biometrics recognition.
+An adaptive search ordering for rate-constrained successive elimination algorithms.
+Live video synopsis for multiple cameras.
+Color names learning using convolutional neural networks.
+Unsupervised sports video particles annotation based on social latent semantic analysis.
+Mitigating memory requirements for random trees/ferns.
+Improved specular regions localization and optical-flow based motion estimation via joint processing.
+Rate distortion analysis of high dynamic range video coding techniques.
+Low-complexity block size decision for HEVC intra coding using binary image feature descriptors.
+Computationally efficient recognition of activities of daily living.
+Region matching based on local structure information in ipsilateral digital breast tomosynthesis views.
+Scalable action localization with kernel-space hashing.
+Determining fluctuation in bio-nanomachines from electron microscopy images.
+Robustly tracking objects via multi-task kernel dynamic sparse model.
+Statistical hypothesis test for robust classification on the space of covariance matrices.
+New parametric 3D snake for medical segmentation of structures with cylindrical topology.
+Interactive object segmentation using single touch.
+User-guided graph reduction for fast image segmentation.
+Maximum entropy regularized group collaborative representation for face recognition.
+Dynamic textures clustering using a hierarchical Pitman-Yor process mixture of Dirichlet distributions.
+Phylogeny reconstruction for misaligned and compressed video sequences.
+Image deblocking using group-based sparse representation and quantization constraint prior.
+Applying image analysis to assess food aesthetics and uniqueness.
+Generalized inpainting method for hyperspectral image acquisition.
+Exposure bracketing via automatic exposure selection.
+Incremental update of feature extractor for camera identification.
+Whole space subclass discriminant analysis for face recognition.
+A regularization approach for bayer reconstruction in lossy image coding by inverse demosaicing.
+A highly efficient method for blind image quality assessment.
+Orthogonal self-guided similarity preserving projections.
+Watershed superpixel.
+Locally refinable parametric snakes.
+Model-based image reconstruction of chemiluminescence using a plenoptic 2.0 camera.
+LPI adaptive descreening method with Hadamard domain analysis.
+Recursive orientation estimation based on hypersurface reconstruction.
+Local integrity constraints for structure detection and segmentation in high-resolution earth observation images.
+Information extraction from very high resolution satellite SAR data time series using graph based connected features.
+Information-theoretic analysis of Blinn-Phong lighting with applicationto mobile cloud gaming.
+Character recognition for the machine reader zone of electronic identity cards.
+A majorize-minimize approach for high-quality depth upsampling.
+Geodesic weighted Bayesian model for salient object detection.
+Randomized spatial pooling in deep convolutional networks for scene recognition.
+Reflectance estimation and white balancing using multiple images.
+A video saliency detection method based on spatial and motion information.
+The THU multi-view face database for videoconferences.
+Categorization of cloud image patches using an improved texton-based approach.
+Multiple features extraction for timber defects detection and classification using SVM.
+DA3D: Fast and data adaptive dual domain denoising.
+A motion-texture aware denoising for economic hardware design.
+Human pose estimation with global motion cues.
+Subjective and objective evaluation of image inpainting quality.
+Deep-plant: Plant identification with convolutional neural networks.
+Fusion of multispectral and panchromatic images based on a novel inter-band structure model.
+A novel background subtraction approach based on multi layered self-organizing maps.
+Sensory load hierarchy-based classification of schizophrenia patients.
+Skew correction and line extraction in binarized printed text images.
+Fast H.264 to HEVC transcoder based on post-order traversal of quadtree structure.
+L1-Grassmann manifolds for robust face recognition.
+Super-resolution reconstruction using graph Laplacian penalization.
+A Bayesian adaptive weighted total generalized variation model for image restoration.
+On spatial neighborhood of patch-based super resolution.
+Reconstruction of compressively sampled light fields using a weighted 4D-DCT basis.
+CannyLines: A parameter-free line segment detector.
+Object classification from RGB-D images using depth context kernel descriptors.
+Retrieving images combining saliency detection with IRM.
+Investigating the feasibility of image-based nose biometrics.
+Gamma correction acceleration for real-time text extraction from complex colored images.
+Blurred image recognition using domain adaptation.
+Translational and rotational jitter invariant incremental principal component pursuit for video background modeling.
+Rotationally-invariant non-local means for image denoising and tomography.
+Second order Mumford-Shah model for image denoising.
+Supervised fractional eigenfaces.
+Multi-camera interference cancellation of time-of-flight (TOF) cameras.
+Fine-grained bird species recognition via hierarchical subset learning.
+Evaluating the sensory gap for earth observation images using human perception and an LDA-based computational model.
+A very low complexity reduced reference video quality metric based on spatio-temporal information selection.
+Distinctive action sketch.
+A sample set perspective on the classification of hyperspectral image with weighted affine constraint.
+Human action recognition using time-invariant key-trajectories describing spatio-temporal salient motion.
+Image super-resolution based on dictionary learning and anchored neighborhood regression with mutual incoherence.
+Quantum-computation-inspired reverse analysis texture synthesis.
+Classification of polarimetric SAR imagery using unsupervised H/α and extended H/α schemes to detect anomalies on earthen levees.
+What does a single light-ray reveal about a transparent object?
+Pareto-optimal discriminant analysis.
+Identification of aliasing-based patterns in re-captured LCD screens.
+Material classification and semantic segmentation of railway track images with deep convolutional neural networks.
+Brushstroke based sparse hybrid convolutional neural networks for author classification of Chinese ink-wash paintings.
+A structure-based region detector for retinal image registration.
+Multi-level semantic labeling of Sky/cloud images.
+Class-specific hierarchical classification for HEP-2 specimen images.
+Fast spatially varying object motion blur estimation.
+Studying human behavioural responses to time-varying distortions for video quality assessment.
+Center-free PFCM for MRI brain image segmentation.
+Multiple model adaptive visual tracking with correlation filters.
+RGB-D saliency detection via mutual guided manifold ranking.
+An adaptive Lagrange multiplier determination method for rate-distortion optimisation in hybrid video codecs.
+Missing data super-resolution using non-local and statistical priors.
+EREL: Extremal regions of extremum levels.
+Learning occlusion patterns using semantic phrases for object detection.
+Fluorosocopic sequence denoising using a motion compensated multi-scale temporal filtering.
+Discriminative regional color co-occurrence descriptor.
+Sparse tensor recovery via combined first and second order high-accuracy total variation.
+Using steerable wavelets and minimal paths to reconstruct automatically filaments in fluorescence imaging.
+Ellipse-specific fitting by relaxing the 3L constraints with semidefinite programming.
+Real-time eye localization, blink detection, and gaze estimation system without infrared illumination.
+Software defined networking for video: Overview & multicast study.
+Online learning of multi-feature weights for robust object tracking.
+Low-rank regularized collaborative filtering for image denoising.
+Reference image based method of region of interest enhancement for haze image.
+Occlusion handling in feature point tracking using ranked parts based models.
+Exploiting effects of parts in fine-grained categorization of vehicles.
+360 degrees video coding using region adaptive smoothing.
+Reflectance spectra based skin and non-skin classification.
+A no reference texture granularity index and application to visual media compression.
+Multi-scale bisector integrals: An invariant descriptor for accurate shape retrieval.
+Action recognition with approximate sparse coding.
+Feature saliency analysis for perceptual similarity of clustered microcalcifications.
+Effective document image deblurring via gradient histogram preservation.
+Blind image deconvolution using the Sylvester resultant matrix.
+PIRM: Fast background subtraction under sudden, local illumination changes via probabilistic illumination range modelling.
+Multi-view descriptor mining via codeword net for action recognition.
+Joint metal artifact reduction and segmentation of CT images using dictionary-based image prior and continuous-relaxed potts model.
+An accelerated separable median filter with sorting networks.
+Regression based landmark estimation and multi-feature fusion for visual speech recognition.
+Robust video stitching using adaptive pixel transfer.
+Barcode annotations for medical image retrieval: A preliminary investigation.
+Bridging computer vision and social science: A multi-camera vision system for social interaction training analysis.
+Multi-class semantic segmentation of faces.
+Merging linear discriminant analysis with Bag of Words model for human action recognition.
+Scene text detection based on component-level fusion and region-level verification.
+Improving uniformity in detection performance of clustered microcalcifications in mammograms.
+Abnormal event detection via adaptive cascade dictionary learning.
+Guided integral filter for light field stereo matching.
+Learning a temporally invariant representation for visual tracking.
+A user-friendly interactive image inpainting framework using Laplacian coordinates.
+Dependent random access point pictures in HEVC.
+Segment-wise online learning based on greedy algorithm for real-time multi-target tracking.
+Fast 3D tracking and quantization of small vascular structures in 3D medical images.
+Bone extraction in X-ray images by analysis of line fluctuations.
+A comprehensive aesthetic quality assessment method for natural images using basic rules of photography.
+3-D image reconstruction for bio nanomachines with helical symmetry: Image formation theory.
+Variational multi-image stereo matching.
+Fast label propagation for real-time superpixels for video content.
+Multipass encoding for reducing pulsing artifacts in cloud based video transcoding.
+Image classification using RBM to encode local descriptors with group sparse learning.
+Neural netwok based X-ray tomography for fast inspection of apples on a conveyor belt system.
+Selective parts for fine-grained recognition.
+An extension to the PRO-MPEG COP3 codes for unequal error protection of real-time video transmission.
+Computationally efficient, real-time motion recognition based on bio-inspired visual and cognitive processing.
+An iterative algorithm for spectral estimation with spatial smoothing.
+Enhanced deformable part model for pedestrian detection via joint state inference.
+A contrario patch matching, with an application to keypoint matches validation.
+Fast and accurate candidate reduction using the multiclass LDA for Japanese/Chinese character recognition.
+A novel binarization approach for text in images.
+Efficient depth intra mode decision by reference pixels classification in 3D-HEVC.
+Atomic decomposition based anisotropic non-local structure tensor.
+Visual attention for content based image retrieval.
+Color deflickering for high-speed video in the presence of artificial lighting.
+On the accuracy of point localisation in a circular camera-array.
+Face hallucination based on nonparametric Bayesian learning.
+Context aware model for articulated human pose estimation.
+Adaptive multi-task learning for fine-grained categorization.
+Parameter optimisation for vision guided terrestrial locomotion: Multi-frame.
+Adaptive regularization level set evolution for medical image segmentation and bias field correction.
+High-accuracy 3D image stitching for robot-based inspection systems.
+Discriminative label consistent dictionary learning.
+Extraction of hierarchical structure of web communities including salient keyword estimation for web video retrieval.
+Factor graphs for inverse problems: Accelerated phase contrast magnetic resonance imaging.
+Evolutionary fusion of local texture patterns for facial expression recognition.
+Delaunay-supported edges for image graphs.
+Adaptive visual target detection and tracking using incremental appearance learning.
+Improving background estimation for faint astronomical object detection.
+Extending α-expansion to a larger set of regularization functions.
+Upsampled-view distortion optimization for mixed resolution 3D Video Coding.
+Automatic detection of colonoscopic anomalies using capsule endoscopy.
+Denoising of natural stochastic colored-textures based on fractional brownian motion model.
+Transformation of focus profiles for digital autofocus.
+Efficient cost volume sampling for plane sweeping based multiview depth estimation.
+Feature extraction of handwritten Kannada characters using curvelets and principal component analysis.
+Shannon-Kotelnikov mappings for softcast-based joint source-channel video coding.
+User interactive segmentation with partially growing random forest.
+The hidden structure of image datasets.
+Salient object detection using normalized cut and geodesics.
+Sequential non-rigid point registration for 3D human pose tracking.
+Spatial-temporal recovery for hierarchical frame based video compressed sensing.
+Sparse least-squares prediction for intra image coding.
+Combined 2D and 3D web-based visualisation of on-set big media data.
+Adaptive appearance learning for human pose estimation.
+DCSLAM: A dynamically constrained real-time slam.
+Fast and exact bi-directional fitting of active appearance models.
+Object tracking with adaptive motion modeling of particle filter and support vector machines.
+Plant identification using triangular representation based on salient points and margin points.
+Visual tracking via manifold regularized local structured sparse representation model.
+Online view sampling for estimating depth from light fields.
+A new unsupervised model of action recognition.
+Facial age estimation via extended curvature Gabor filter.
+Large visual words for large scale image classification.
+Line meets as-projective-as-possible image stitching with moving DLT.
+Spatial domain quantization noise based image filtering detection.
+Automatic classification of tissues using T1 and T2 relaxation times from prostate MRI: A step towards generation of PET/MR attenuation map.
+Post inserted object calibration for stereo video rectification.
+Fitting 3D Morphable Face Models using local features.
+4D non-local means post-filtering for cardiac gated SPECT.
+Augmented Lagrangian without alternating directions: Practical algorithms for inverse problems in imaging.
+Anomaly detection by using random projection forest.
+Repositioning the salient region of videos by using active illumination.
+Albedo assisted high-quality shape recovery from 4D light fields.
+L1-fusion: Robust linear-time image recovery from few severely corrupted copies.
+Motion estimation for non-overlapping cameras by improvement of feature points matching based on urban 3D structure.
+Multithreading AdaBoost framework for object recognition.
+A robust gesture recognition using hand local data and skeleton trajectory.
+Structured feature-graph model for human activity recognition.
+The quest for the integration of visual saliency models in objective image quality assessment: A distraction power compensated combination strategy.
+Sparse concept discriminant matrix factorization for image representation.
+A multi-view video synopsis framework.
+HEVC video authentication using data embedding technique.
+Histograms of locally aggregated oriented gradients.
+LQ-bundle adjustment.
+Crowd modeling using social networks.
+VLSI friendly fast CU/PU mode decision for HEVC intra encoding: Leveraging convolution neural network.
+Saliency map based improved segmentation.
+Efficient O(1) edge-aware filter.
+Local feature embedding for supervised image classification.
+Parallax rectification for spectrally-coded plenoptic cameras.
+Textureless object detection using cumulative orientation feature.
+Facial video super resolution using semantic exemplar components.
+Fast image super-resolution via selective manifold learning of high-resolution patches.
+A maximal interest-point strategy applied to image enhancement with external priors.
+A self-organizing lattice Boltzmann active contour (SOLBAC) approach for fast and robust object region segmentation.
+Return of grid seams: A superpixel algorithm using discontinuous multi-functional energy seam carving.
+Artrieval: Painting retrieval without expert knowledge.
+Hierarchical tucker tensor regression: Application to brain imaging data analysis.
+Recognizing hand-object interactions in wearable camera videos.
+Robust visual tracking via discriminative sequential ranking.
+Low complexity unsupervised multi-camera color calibration with application to panoramic video capturing.
+Classification of interferometric SAR images based on parametric modeling in the fractional fourier transform domain.
+DEEPFOCAL: A method for direct focal length estimation.
+Outdoor scene labelling with learned features and region consistency activation.
+Image based rendering technique via sparse representation in shearlet domain.
+Encoding rotation invariant features in HEP-2 cell classification.
+ROI-based rate control using tiles for an HEVC encoded video stream over a lossy network.
+Graph modelling of 3D geometric information for color consistency of multiview images.
+A robust contour sampling and tensor-based approach to facial beard and mustache shape segmentation and matching.
+Dark image enhancement based onpairwise target contrast and multi-scale detail boosting.
+Large-area depth recovery for RGB-D camera.
+Multi-view image inpainting with sparse representations.
+Low-complexity rate control in video coding based on bi-geometric transparent composite models.
+A saliency model for automated tumor detection in breast ultrasound images.
+Texture classification with fuzzy color co-occurrence matrices.
+Perceptual screen content image quality assessment and compression.
+Photographic paper classification via local radius index metric.
+Reconstruction for stochastic 3-D signals with symmetric statistics in noise: Electron microscopy of virus particles.
+Synthesis of light-field raw data from RGB-D images.
+External forces for active contours using the undecimated wavelet transform.
+Noise correction of image labeling in crowdsourcing.
+Inverse halftoning with grouping singular value decomposition.
+Robust visual tracking using joint scale-spatial correlation filters.
+Region-based brain selection and classification on pet images for Alzheimer's disease computer aided diagnosis.
+Context adaptive mode sorting for fast HEVC mode decision.
+Automatic rectangular building detection from VHR aerial imagery using shadow and image segmentation.
+Dimensionality reduction by supervised locality analysis.
+Vessel region detection in coronary X-ray angiograms.
+Robust steganalysis based on training set construction and ensemble classifiers weighting.
+Volume visualization for out-of-core 3D images based on semi-adaptive partitioning.
+Face sketch synthesis using non-local means and patch-based seaming.
+Distributed compressed sensing for photo-acoustic imaging.
+Temporal aggregation for large-scale query-by-image video retrieval.
+Subject identification based on EEG responses to video stimuli.
+Image denoising in multiplicative noise.
+Fast inter mode decision for HEVC based on transparent composite model.
+High throughput parallel scheme for HEVC deblocking filter.
+Efficient regression priors for reducing image compression artifacts.
+Short local descriptors from 2D connected pattern spectra.
+An automatic energy-based region growing method for ultrasound image segmentation.
+Locality sensitive discriminative dictionary learning.
+Shape encoding for edge map image compression.
+Online person orientation estimation based on classifier update.
+A feature subtraction method for image based kinship verification under uncontrolled environments.
+Fluctuations of disparity space image for stereo matching in untextured regions.
+Visual aesthetic quality assessment with a regression model.
+Evaluation of 60 full-reference image quality metrics on the CID: IQ.
+Fast CU size decision and PU mode decision algorithm in HEVC intra coding.
+Mode-dependent transform competition for HEVC.
+Content based video retrieval on mobile devices: How much content is enough?
+FACE2GPS: Estimating geographic location from facial features.
+Background-foreground tracking for video object segmentation.
+Rotation invariant similarity measure for non-local self-similarity based image denoising.
+Group-based hyperspectral image denoising using low rank representation.
+Inter-block consistent soft decoding of JPEG images with sparsity and graph-signal smoothness priors.
+High-order regularization for stereo color editing.
+Robust multi-object tracking using confident detections and safe tracklets.
+A Study on PUF characteristics for counterfeit detection.
+Robust pose normalization for face recognition under varying views.
+Partially discrete magnetic resonance tomography.
+May the torcher light our way: A negative-accelerated active learning framework for image classification.
+Tensor-based subspace learning for tracking salt-dome boundaries.
+Object segmentation with deep regression.
+Accelerated microstructure imaging via convex optimisation for regions with multiple fibres (AMICOx).
+Rate-distortion optimized optical flow estimation.
+PerSIM: Multi-resolution image quality assessment in the perceptually uniform color domain.
+Removing camera fingerprint to disguise photograph source.
+Visual saliency by extended quantum cuts.
+A two-stage video coding framework with both self-adaptive redundant dictionary and adaptively orthonormalized DCT basis.
+Guided inpainting with cluster-based auxiliary information.
+Hierarchical segmentation and tracking of coronary arteries in 2D X-ray Angiography sequences.
+Refractive stereo ray tracing for reconstructing underwater structures.
+Multi-exposure image fusion: A patch-wise approach.
+Automatic classification of skin lesions using geometrical measurements of adaptive neighborhoods and local binary patterns.
+Image resolution enhancement based on novel view synthesis.
+Challenges in cloud based ingest and encoding for high quality streaming media.
+Notes on image processing with partial differential equations.
+Scene text detection using sequential nontext filtering.
+Image-based evaluation of treatment responses of facial wrinkles using LDDMM registration and Gabor features.
+Boosted human head pose estimation using kinect camera.
+Region-based image retargeting quality assessment.
+How much bandwidth does surveillance system require?
+Salient object carving.
+Unsupervised segmentation using dynamic superpixel random walks.
+AN ℓ1/2 regularized low-rank representation for hyperspectral imagery classification.
+Visual tracking via guided filter.
+Cascade of classifiers based on binary, non-binary and deep convolutional network descriptors for video concept detection.
+Quantification of the 3D collagen network geometry in confocal reflection microscopy.
+Fast image completion method using patch offset statistics.
+Facial landmark detection via cascade multi-channel convolutional neural network.
+A discriminative tracklets representation for crowd analysis.
+Novel general KNN classifier and general nearest mean classifier for visual classification.
+Multi-feature hashing based on SNR maximization.
+Texture based sub-PU motion inheritance for depth coding.
+Novel features for microcalcification detection in digital mammogram images based on wavelet and statistical analysis.
+A robust nonsymmetric student's-t finite mixture model for MR image segmentation.
+Learning shape priors for object segmentation via neural networks.
+Edge model based fusion of multi-focus images using matting method.
+Co-saliency detection via similarity-based saliency propagation.
+On the improvement of no-reference mean opinion score estimation accuracy by following a frame-level regression approach.
+Nonparametric empirical Bayes estimation for multiplicative multiscale innovation in photon-limited imaging.
+Progressive feature matching via triplet graph.
+A spectral unmixing method based on wavelet weighted similarity.
+Universal lossless coding with random user access: The cost of interactivity.
+An effective eye states detection method based on the projection of the gray interval distribution.
+Super-resolution for mixed-resolution multiview image plus depth data using a novel two-stage high-frequency extrapolation method for occluded areas.
+Hyperspectral image interpretation based on partial least squares.
+Beyond local phase quantization: Mid-level blurred image representation using fisher vector.
+Learning depth from a single image using visual-depth words.
+An objective 3D quality assessment model to adjust stereo camera baseline.
+High performance loop filter for HEVC.
+Illumination robust optical flow estimation by illumination-chromaticity decoupling.
+Nonparametric scene parsing with deep convolutional features and dense alignment.
+Detecting repetitive elements with accurate locations and shapes from urban façade.
+Cross-modality hashing with partial correspondence.
+Copy mode for static screen content coding with HEVC.
+Cross-pose color facial expression recognition using transductive transfer linear discriminat analysis.
+Reflection removal using disparity and gradient-sparsity via smoothing algorithm.
+Deep CCA based super vector for action recognition.
+A framework for image-based asset generation and animation.
+Prostate detection from abdominal ultrasound images: A part based approach.
+Image classification: No features, no clustering.
+Color decorrelation helps visual saliency detection.
+Tiger: A texture-illumination guided energy response model for illumination robust local saliency.
+CBRA: Color-based ranking aggregation for person re-identification.
+Abandoned object detection using operator-space pursuit.
+Regularized single-image super-resolution based on progressive gradient estimation.
+A new Mumford-Shah type model involvinga smoothing operator for multiphase image segmentation.
+Pixel-grain prediction and K-order UEG-rice entropy coding oriented lossless frame memory compression for motion estimation in HEVC.
+Image denoising via coded aperture photography.
+Fast and accurate bilateral filtering using Gauss-polynomial decomposition.
+Efficient calibration for multi-plane homography using a laser level.
+CDF 9/7 wavelets as sparsifying operator in compressive holography.
+Graph regularized discriminant analysis and its application to face recognition.
+Fine-grained visual categorization with fine-tuned segmentation.
+Efficient scalable compression of sparsely sampled images.
+Product tree quantization for approximate nearest neighbor search.
+Biologically motivated spiral architecture for fast video processing.
+Sparse coding-based spatiotemporal saliency for action recognition.
+Three-dimensional reconstruction from heterogeneous video devices with camera-in-view information.
+Reproducible evaluation of Pan-Tilt-Zoom tracking.
+Diagnostic color estimation of tissue components in pathology images via von Mises mixture model.
+Compressive sensing of video with weighted sensing and measurement allocation.
+Spatio-temporal pyramid cuboid matching for action recognition using depth maps.
+A novel moving parameter estimation approach offast moving targets based on phase extraction.
+PSF accuracy measure for evaluation of blur estimation algorithms.
+Moving camera human activity localization and recognition with motionplanes and multiple homographies.
+Spatio-spectral Gaussian random field modeling approach for target detection on hyperspectral data obtained in very low SNR.
+Motion vector fields based video coding.
+Hyperspectral classification using a composite kernel driven by nearest-neighbor spatial features.
+Image quality assessment based on DCT subband similarity.
+Incorporating image degeneration modeling with multitask learning for image super-resolution.
+Facial landmark detection via pose-induced auto-encoder networks.
+Image fingerprinting system based on collusion secure code and watermarking method.
+Point-cut: Fixation point-based image segmentation using random walk model.
+Partially occluded object detection by finding the visible features and parts.
+Super-resolution from learning the enhancement ratio and texture/residual dictionary.
+Lung segmentation in chest radiographs using distance regularized level set and deep-structured learning and inference.
+Four-channel lifting-householder-based Hadamard transform.
+How to make nD images well-composed without interpolation.
+Overview of the multiview high efficiency video coding (MV-HEVC) standard.
+High dynamic range map estimation via fully connected random fields with stochastic cliques.
+Performance analysis of retargeting pyramid and its applications.
+DPM revisited: Utilizing root-part spatial distribution for vehicle viewpoint estimation.
+Multilayer manifold and sparsity constrainted nonnegative matrix factorization for hyperspectral unmixing.
+No-reference image quality assessment for removal of processed and unprocessed noise.
+A fast method for inferring high-quality simply-connected superpixels.
+Saliency detection using a background probability model.
+Robust local and global shape context for tattoo image matching.
+Probabilistic continuous edge detection using local symmetry.
+Predictive graph construction for image compression.
+User adaptive transcoding for video teleconferencing.
+Max-margin analysis based patch sampling for discovery of mid-level parts.
+A map estimation framework for HDR video synthesis.
+Cost aggregation table: A theoretic derivation on the Markov random field and its relation to message passing.
+Superpixel-based statistical anomaly detection for sense and avoid.
+Real-time upper body pose estimation from depth images.
+Single face image super-resolution via solo dictionary learning.
+Compressed domain video processing for tile based panoramic streaming using HEVC.
+Automatic detection of martian dust storms from heterogeneous data based on decision level fusion.
+Inter-channel relation based vectorial total variation for color image recovery.
+Image quality evaluation using image quality ruler and graphical model.
+True motion compensation with feature detection for frame rate up-conversion.
+Unifying the random walker algorithm and the SIR model for graph clustering and image segmentation.
+Improving deep convolutional neural networks with unsupervised feature learning.
+Real-time vehicle back-up warning system with a single camera.
+Depth edge based trilateral filter method for stereo matching.
+Kernel matrix trimming for improved Kernel K-means clustering.
+Elliptical monogenic representation of color images and local frequency analysis.
+Destriping algorithm with L0 sparsity prior for remote sensing images.
+Adaptive autoregressive model with window extension via explicit geometry for image interpolation.
+Accelerating the over-relaxed iterative shrinkage-thresholding algorithms with fast and exact line search for high resolution tomographic image reconstruction.
+Regularization in metric learning for person re-identification.
+Watermarking for position-mapping-based halftoning.
+Median robust extended local binary pattern for texture classification.
+Depth upsampling method via Markov random fields without edge-misaligned artifacts.
+Exploiting multiple detections to learn robust brightness transfer functions in re-identification systems.
+Visual voice activity detection based on spatiotemporal information and bag of words.
+Sparse adaptive template matching and filtering for 2D seismic images with dual-tree wavelets and proximal methods.
+Difference of Gaussian statistical features based blind image quality assessment: A deep learning approach.
+Image coding with incomplete transform competition for HEVC.
+Crowd motion monitoring using tracklet-based commotion measure.
+Belief-propagation-based robust decoding for two-dimensional barcodes to overcome distortion and occlusion and its extension to multi-view decoding.
+Gesture recognition using active body parts and active difference signatures.
+A validation of ICA decomposition for PolSAR images by using measures of normalized compression distance.
+Full-reference visual quality assessment for synthetic images: A subjective study.
+Robust internal exemplar-based image enhancement.
+Scene text recognition with deeper convolutional neural networks.
+Local mean spatio-temporal feature for depth image-based speed-up action recognition.
+Reduced-reference perceptual quality assessment for video streaming.
+Improving distinctiveness of brisk features using depth maps.
+Nonconvex reconstruction for low-dimensional fluorescence molecular tomographic poisson observations.
+Palette mode - A new coding tool in screen content coding extensions of HEVC.
+Online multi-person tracking based on global sparse collaborative representations.
+Coercive region-level registration for multi-modal images.
+Estimation of eye gaze direction angles based on active appearance models.
+Automatic detection of necrosis, normoxia and hypoxia in tumors from multimodal cytological images.
+Anomaly detection in crowd scenes via online adaptive one-class support vector machines.
+Object recognition based on deformable edge set.
+Near-duplicate detection and alignment for multi-view videos.
+Large-scale nonlinear facial image classification based on approximate kernel Extreme Learning Machine.
+Towards sign language recognition based on body parts relations.
+Predicting discrete probability distribution of image emotions.
+Privacy in mini-drone based video surveillance.
+Traffic accident detection through a hydrodynamic lens.
+SWAP-NODE: A regularization approach for deep convolutional neural networks.
+Clinical deep brain stimulation region prediction using regression forests from high-field MRI.
+Outlier aggregation to pick up scattered watermark energy.
+Data-driven progressive compression of colored 3D mesh.
+Multi-resolution super-pixels and their applications on fluorescent mesenchymal stem cells images using 1-D SIFT merging.
+Understanding symmetric smoothing filters via Gaussian mixtures.
+Subject-centered multi-view feature fusion for neuroimaging retrieval and classification.
+Reversible watermarking using enhanced local prediction.
+How to exploit large image data in the fields of texture classification: A case study with local binary patterns.
+Intel realsense = Real low cost gaze.
+Learning discriminative occlusion feature for depth ordering inference on monocular image.
+Hybrid coding of visual content and local image features.
+Dynamic time-alignment k-means kernel clustering for time sequence clustering.
+A hybrid approach for salt dome detection in 2D and 3D seismic data.
+Thermography spatial resolution enhancement by non-rigid registration with visible imagery.
+Predictive multiple motion fields for trajectory completion: Application to surveillance systems.
+Filtering SVM frame-by-frame binary classification in a detection framework.
+Context-aware lane marking detection on urban roads.
+Improving egocentric vision of daily activities.
+Fast motion blur compensation in HEVC using fixed-length filter.
+Dual-ARM VIS/NIR compressive spectral imager.
+Adaptive quantisation in HEVC for contouring artefacts removal in UHD content.
+A database of reflected irradiance field with depth for image based relighting.
+Moving object detection from moving platforms using Lagrange multiplier.
+Hyperspectral classification via learnt features.
+An efficient face classification method based on shared and class-specific dictionary learning.
+A visual comfort assessment metric for stereoscopic images.
+Online supervised hashing.
+SIPF: Scale invariant point feature for 3D point clouds.
+Land use and land cover classification base on image saliency map cooperated coding.
+Event retrieval using motion barcodes.
+Adaptive search of background models for object detection in images taken by moving cameras.
+Superpixel-driven graph transform for image compression.
+Face anti-spoofing based on color texture analysis.
+Transparent texture transfer.
+Automatic video to point cloud registration in a structure-from-motion framework.
+ARFBF model for non stationary random fields and application in HRTEM images.
+Supertexton-based segmentation in early Drosophila oogenesis.
+3D trajectory reconstruction under refraction at a cylindrical surface.
+Optimal bit allocation in HEVC for real-time video communications.
+Boosting 3D LBP-based face recognition by fusing shape and texture descriptors on the mesh.
+One-frame delay for dynamic photometric compensation in a projector-camera system.
+Point set registration based on implicit surface fitting with equivalent distance.
+Fast encoding of 3D color-plus-depth video based on 3D-HEVC.
+Stair detection and tracking from egocentric stereo vision.
+A novel feature descriptor based on microscopy image statistics.
+Multi-scale/multi-resolution Kronecker compressive imaging.
+Landmark-based fisher vector representation for video-based face verification.
+Sparsity preserving multiple canonical correlation analysis with visual emotion recognition to multi-feature fusion.
+Object modeling and trajectory estimations for traffic analysis.
+Retina verification using a combined points and edges approach.
+Facial point detection using convolutional neural network transferred from a heterogeneous task.
+Optimized multilevel fringe patterns for real-time 3D shape measurement with defocused projector.
+Modeling of H.264/AVC based video transmission distortion over wireless network.
+A new data coding scheme using contrast-controllable color intersection.
+Within-class penalty based multi-class support vector machine.
+Motion estimation and compensation for fisheye warped video.
+Two-level multi-task metric learning with application to multi-classification.
+Tapping motion blur for robust normal estimation of planar scenes.
+Joint classification of actions with matrix completion.
+Multi-instance learning via instance-based and bag-based representation transformations.
+Is pedestrian detection robust for surveillance?
+A video texture database for perceptual compression and quality assessment.
+Service provisioning and profit maximization in network-assisted adaptive HTTP streaming.
+Simultaneous estimation of image quality and distortion via multi-task convolutional neural networks.
+Prediction of facial soft tissue deformations with improved rubin-bodner model after craniomaxillofacial (CMF) surgery.
+Complex-valued hough transforms for circles.
+Multifocus image fusion based on surface area analysis.
+A novel integer-pixel motion estimation algorithm based on quadratic prediction.
+Radiometric calibration for HDR imaging.
+Multi-scale saliency of 3D colored meshes.
+Residue boundary histograms for action recognition in the compressed domain.
+Coupled ensemble graph cuts and object verification for animal segmentation from highly cluttered videos.
+Single image super-resolution based on self-examples using context-dependent subpatches.
+Features-based approach for Alzheimer's disease diagnosis using visual pattern of water diffusion in tensor diffusion imaging.
+Efficient image-space extraction and representation of 3D surface topography.
+BIT: Bio-inspired tracker.
+Visual tracking with astructured local model.
+Facial point detection based on a convolutional neural network with optimal mini-batch procedure.
+Regularization of deep neural networks using a novel companion objective function.
+Model-based (passive) heart rate estimation using remote video recording of moving human subjects illuminated by ambient light.
+Seeing as it happens: Real time 3D video event visualization.
+Kernel subspace alignment for unsupervised domain adaptation.
+Rate-distortion evaluation for two-layer coding systems.
+Unsupervised cosegmentation based on global clustering and saliency.
+An iterative convergence algorithm for single/multi ground plane detection and angle estimation with RGB-D camera.
+Interactive image segmentation via cascaded metric learning.
+Local feature learning for face recognition under varying poses.
+A multi-standard interpolation hardware solution for H.264 and HEVC.
+Automatic assessment of online fashion shopping photo aesthetic quality.
+Simple effective image and video color correction using quaternion distance metric.
+Towards defining groups and crowds in video using the atomic group actions dataset.
+Human activity recognition based on pose points selection.
+Contributions to lossless coding of medical images using minimum rate predictors.
+Image splicing detection with local illumination estimation.
+Analysis on spectral effects of dark-channel prior for haze removal.
+Deep structured learning for mass segmentation from mammograms.
+Contrast enhancement of back-light images via a regional rank-1 constraint.
+Limitations of the SSIM quality metric in the context of diagnostic imaging.
+Super-resolution image synthesis using the physical pixel arrangementofalight field camera.
+Auto-synchronized selective encryption of video contents for an improved transmission robustness over error-prone channels.
+Template based inter-layer prediction for high dynamic range scalable compression.
+A hierarchical anti-occlusion tracking algorithm based on DMPF and ORB.
+Hand and object segmentation from RGB-D images for interaction with planar surfaces.
+Self-supervised road detection from a single image.
+MR image reconstruction of a regularly undersampled signal using quadratic phase scrambling.
+Fast-match: Fast and robust feature matching on large images.
+Multi-level action detection via learning latent structure.
+Automatic image segmentation with Anisotropic Fast Marching algorithm and geodesic voting.
+A sensitive and efficient method for measuring change in cortical thickness using fuzzy correspondence in Alzheimer's disease.
+Super-resolution for inconsistent scalable video streaming.
+Comparing feature detectors: A bias in the repeatability criteria.
+Improving surf interest point detection for defocus blur robustness.
+A frame level metric for just noticeable temporal pumping artifact in videos encoded with the hierarchical prediction structure.
+Globally consistent alignment for mosaicking aerial images.
+Depth and angular resolution in plenoptic cameras.
+Edge detection method of Gaussian block distance.
+Channel detection in microscope images of materials using marked point process modeling.
+Cross-layer features in convolutional neural networks for generic classification tasks.
+Nano-scale context-sensitive semantic segmentation.
+Double layer salient parts based multi-people tracking.
+Computer aided endoscope diagnosis via weakly labeled data mining.
+Geometry-based ranking for mobile 3D visual search using hierarchically structured multi-view features.
+Hand gesture recognition and spotting in uncontrolled environments based on classifier weighting.
+Real-time dynamic texture recognition using random sampling and dimension reduction.
+Improved cluster center adaption for image classification.
+ROI encryption for the HEVC coded video contents.
+LR-CNN for fine-grained classification with varying resolution.
+A geometrical-model-based face recognition.
+Automatic segmentation of pathological lung using incremental nonnegative matrix factorization.
+BM3D-AMP: A new image recovery algorithm based on BM3D denoising.
+Assessing the visual effect of non-periodic temporal variation of quantization stepsize in compressed video.
+Salient object detection from distinctive features in low contrast images.
+Classification based on weighted sparse representation using smoothed L0 norm with non-negative coefficients.
+Temporally consistent hole filling method based on global optimization with label propagation for 3D video.
+Knowledge as action: A cognitive framework for indoor scene classification.
+Geometrical graph matching using Monte Carlo tree search.
+One gaze is worth ten thousand (key-)words.
+Comparison of subjective viewing test methods for image quality assessment.
+Simultaneous motion correction and T1 estimation in quantitative T1 mapping: An ML restoration approach.
+Co-regularized deep representations for video summarization.
+Gradient preserving RGB-to-gray conversion using random forest.
+Learning deep compact descriptor with bagging auto-encoders for object retrieval.
+Real-time semantic context labeling for image understanding.
+Facial image analysis based on two-dimensional linear discriminant analysis exploiting symmetry.
+Fast affine-invariant image matching based on global Bhattacharyya measure with adaptive tree.
+Leveraging shape and depth in user authentication from in-air hand gestures.
+Learning histopathological regions of interest by fusing bottom-up and top-down information.
+A pattern recognition approach to make accessible the geographic images for blind and visually impaired.
+Multiple kernel boosting based tracking using pooling features.
+A sparse coding method for semi-supervised segmentation with multi-class histogram constraints.
+Encoding and decoding local binary patterns for harsh face illumination normalization.
+A generalized form of the InSAR phase unwrapping problem based on a compressed sensing technique.
+Depth-weighted group-wise principal component analysis for video foreground/background separation.
+Graph-based motion estimation and compensation for dynamic 3D point cloud compression.
+Perceptual backlight scaling for low power liquid crystal displays based on visual saliency.
+Statistical approach for motion estimation skipping (SAMEK).
+Generalized Sobel Filters for gradient estimation of distorted images.
+Local extrema based Digital Dropout detection in degraded archived media.
+Improved fine structure modeling via guided stochastic clique formation in fully connected conditional random fields.
+A compact shot representation for video semantic indexing.
+UGraSP: A unified framework for activity recognition and person identification using graph signal processing.
+Multivalued label diffusion for semi-supervised segmentation.
+Human fall detection via shape analysis on Riemannian manifolds with applications to elderly care.
+Structured representation-based robust agile-beam LADAR imaging.
+Traffic analysis without motion features.
+Screen content image segmentation using least absolute deviation fitting.
+CHORD: Cascaded and a contrario method for hole crack detection.
+High-throughput and low-complexity binary arithmetic decoder based on logarithmic domain.
+Semantics constrained dictionary learning for signer-independent sign language recognition.
+Bag-of-word based brand recognition using Markov clustering algorithm for codebook generation.
+Multimodal topic modeling based geo-annotation for social event detection in large photo collections.
+Digital image correlation for small strain measurement in deformable solids and geomechanical structures.
+Sampling optimization for on-chip compressive video.
+A framework for view-dependent hologram representation and adaptive reconstruction.
+Detecting different sub-types of acute myelogenous leukemia using dictionary learning and sparse representation.
+Pattern-based k-level cutset reconstruction.
+Weather classification with deep convolutional neural networks.
+DREM: Decoupled region energy model for image segmentation.
+A multi-resolution approach to depth field estimation in dense image arrays.
+Angular upsampling of projection measurements in 3D computed tomography using a sparsity prior.
+Liver segmentation using superpixel-based graph cuts and restricted regions of shape constrains.
+Motion driven tonal stabilization.
+Scale estimation with difference of ordered residuals.
+3D perception based quality pooling on stereoscopic image.
+Iterative mask generation method for handling occlusion in optical flow assisted view interpolation.
+Model-based iterative reconstruction for magnetic resonance fingerprinting.
+Specular reflection removal using local structural similarity and chromaticity consistency.
+3D window localization on building facades from aerial images.
+A study of subjective video quality at various frame rates.
+Inter-picture prediction based on 3D point cloud model.
+Crowd flow segmentation in compressed domain using CRF.
+Invariant characterization of DOVID security features using a photometric descriptor.
+Quality prediction of asymmetrically compressed stereoscopic videos.
+Predictive prefetching for MPEG DASH over LTE networks.
+Multi-label active learning with label correlation for image classification.
+Facial expression recognition in the wild using rich deep features.
+Bilateral symmetry detection based on scale invariant structure feature.
+A two-stage hog feature extraction processor embedded with SVM for pedestrian detection.
+Real-life violent social interaction detection.
+Cross-domain recognition by identifying compact joint subspaces.
+Texture classification using Rao's distance: An EM algorithm on the poincaré half plane.
+Instantaneous real-time head pose at a distance.
+Features we trust!
+PET image reconstruction and denoising on hexagonal lattices.
+Parallel light speed labeling: An efficient connected component labeling algorithm for multi-core processors.
+Scale- and orientation-invariant keypoints in higher-dimensional data.
+Efficient regression priors for post-processing demosaiced images.
+Feature extraction via multi-view non-negative matrix factorization with local graph regularization.
+Retinal-inspired filtering for dynamic image coding.
+An automatic muscle fiber orientation tracking algorithm using Bayesian Kalman Filter for ultrasound images.
+Superpixel matching-based depth propagation for 2D-to-3D conversion with joint bilateral filtering.
+Robust statistical shape analysis based on the tangent shape space.
+Utilizing the Bezier descriptors for hand gesture recognition.
+Upsampling the depth map with its own properties.
+BI-sparsity pursuit for robust subspace recovery.
+Depth estimation by analyzing intensity distribution for light-field cameras.
+Learning unified sparse representations for multi-modal data.
+Multivariate texture discrimination using a principal geodesic classifier.
+Mine the fine: Fine-grained fragment discovery.
+3D visual discomfort predictor based on neural activity statistics.
+A hybrid motion estimation technique for fisheye video sequences based on equisolid re-projection.
+Recovering intrinsic images from image sequences using total variation models.
+Stochastic model for curvilinear structure reconstruction using morphological profiles.
+Quality assurance in large collections of video sequences.
+Stereo radargrammetry using airborne SAR images without GCP.
+Interactive multiview video scheduling through bargaining.
+Countering anti-forensics of image resampling.
+Perceptual evaluation of single image dehazing algorithms.
+Improving spatial codification in semantic segmentation.
+Out-of-the-loop information hiding for HEVC video.
+Radial lens distortion correction using cascaded one-parameter division model.
+An array-based node-oriented max-tree representation.
+Ortho-diffusion decompositions for face recognition from low quality images.
+Center-based weighted kernel linear regression for image classification.
+A 3D face recognition method using region-based extended local binary pattern.
+Cluster encoding for modelling temporal variation in video.
+Dense femur reconstruction from two x-ray images using generic 3D model with twist correction.
+Texture classification using uniform rotation invariant gradient.
+Segmentationof pathological lungs from CT chest images.
+Background modeling in videos revisited using finite mixtures of generalized Gaussians and spatial information.
+Validation and reliability of the discriminative power of geometric wood log end features.
+A multi-frame optical flow spot tracker.
+An optimized first-order method for image restoration.
+Non-homogeneous priors in a Bayesian latent class model for ocean color inversion.
+DESIRe: Discontinuous energy seam carving for image retargeting via structural and textural energy functionals.
+A particle filter based sequential trajectory classifier for behavior analysis in video surveillance.
+DESIRe: Discontinuous energy seam carving for image retargeting via structural and textural energy functionals.
+Biologically inspired deep stereo model.
+An optimization-based approach for restoring missing structures and textures in images.
+Coverage evaluation of camera networks for facilitating big-data management in film production.
+Low-complexity separable multiplier-less loop filter for video coding.
+Objective quality metric for 3D virtual views.
+A conjointly well localized quadrature mirror filterbank.
+A low-light image enhancement method for both denoising and contrast enlarging.
+Orientation robust object detection in aerial images using deep convolutional neural network.
+Encrypting only AC coefficient signs considered harmful.
+Segmentation of liver tumor via nonlocal active contours.
+Low-complexity HOG for efficient video saliency.
+Fast sparse edge-based intrinsic image decomposition guided by chromaticity gradients.
+Classification of EEG signals for detection of epileptic seizure activities based on LBP descriptor of time-frequency images.
+Unequal error protection for real-time video streaming using expanding window reed-solomon code.
+Estimating two-dimensional blood flow velocities from videos.
+Facial feature parsing and landmark detection via low-rank matrix decomposition.
+Sparse recursive filtering for O(1) stereo matching.
+Unsupervised hierarchical image segmentation based on Bayesian sequential partitioning.
+Image aesthetics depends on context.
+Recursive optimization of spherical watermarking using transportation theory.
+Contextual kernel map learning for scene transduction.
+Traffic flow from a low frame rate city camera.
+Locality sensitive dictionary learning for image classification.
+Source camera device identification based on raw images.
+Visual tracking via orthogonal sparse coding.
+An efficient coding framework for compact descriptors extracted from video sequence.
+Logarithmic multiresolution analysis.
+Video summarization through change detection in a non-overlapping camera network.
+Accelerating CDVS extraction on mobile platform.
+An a-contrario approach to quasi-periodic noise removal.
+Per-patch metric learning for robust image matching.
+Scene statistics of authentically distorted images in perceptually relevant color spaces for blind image quality assessment.
+IRIS super-resolution via nonparametric over-complete dictionary learning.
+Adaptive residual interpolation for color image demosaicking.
+Texture-based vessel classifier for electro-optical satellite imagery.
+Directional ringlet intensity feature transform for tracking.
+Fast single-image upsampling with relative edge growth rate priors.
+Sparsity-based depth image restoration using surface priors and RGB-D correlations.
+Audiovisual voice activity detection using off-the-shelf cameras.
+Real-time software synchronisation of webcams for live 3D tracking.
+3D facial model synthesis using coupled dictionaries.
+Creating descriptive visual words for tag ranking of compressed social image.
+Towards automating visual in-field monitoring of crop health.
+Halo control for LHE based local adaptive tone mapping.
+A two-stage video object segmentation using motion and color information.
+Asplünd's metric defined in the logarithmic image processing (LIP) framework for colour and multivariate images.
+Font finder: Visual recognition of typeface in printed documents.
+Semi-supervised learning based on group sparse for relative attributes.
+A fuzzy approach to real-time digital color reproduction of clothing with 3D camera.
+Attribute constrained subspace learning.
+Multiple features based shared models for background subtraction.
+Firefly: A hardware-friendly real-time local brightness adjustment method.
+Image transmorphing with JPEG.
+Robust texture features based on undecimated dual-tree complex wavelets and local magnitude binary patterns.
+Road extraction via adaptive graph cuts with multiple features.
+A computational model for predicting local distortion visibility via convolutional neural network trainedon natural scenes.
+Block structure reuse for multi-rate high efficiency video coding.
+Combining nonuniform sampling, hybrid super vector, and random forest with discriminative decision trees for action recognition.
+Hyper-parameter optimization of deep convolutional networks for object recognition.
+Age estimation under changes in image quality: An experimental study.
+Graph-based transforms for inter predicted video coding.
+Connecting the dots without clues: Unsupervised domain adaptation for cross-domain visual classification.
+Tomographic image reconstruction withaspatially varying Gaussian mixture prior.
+Cross-modality pose-invariant facial expression.
+Partially tagged image clustering.
+Multiple object tracking based on sparse generative appearance modeling.
+Parts-based multi-task sparse learning for visual tracking.
+Face image assessment learned with objective and relative face image qualities for improved face recognition.
+Segmenting similar shapes via weighted group-similarity active contours.
+Multi-pose face hallucination via neighbor embedding for facial components.
+Sparse edit propagation for high resolution image using support vector machines.
+Visual comfort assessment for stereoscopic 3D images based on salient discomfort regions.
+Synthetic face generation under various operational conditions in video surveillance.
+Piecewise distortion correction for fisheye lenses.
+Saliency detection using two-stage scoring.
+Facial makeup detection via selected gradient orientation of entropy information.
+Interpreting sports tactic based on latent context-free grammar.
+Image segmentation using clique based shape prior and the Mumford Shah Functional.
+Rank-aware graph fusion with contextual dissimilarity measurement for image retrieval.
+Disc segmentation and BMO-MRW measurement from SD-OCT image using graph search and tracing of three bench mark reference layers of retina.
+LASP: Local adaptive super-pixels.
+Recovering background regions in videos of cluttered urban scenes.
+Rotate intra block copy for still image coding.
+Action recognition using joint coordinates of 3D skeleton data.
+Modelling local deep convolutional neural network features to improve fine-grained image classification.
+Reduced-reference quality assessment based on the entropy of DNT coefficients of locally weighted gradients.
+Seamless switching of H.265/HEVC-coded dash representations with open GOP prediction structure.
+Building change detection based on 3D reconstruction.
+Robust contrast enhancement of noisy low-light images: Denoising-enhancement-completion.
+Objectness estimation using edges.
+Epitomic image factorization via neighbor-embedding.
+Using the unity® game engine as a platform for advanced real time cinema image processing.
+Computational 3D reconstruction of FAR and big size objects using synthetic apeture integral imaging.
+Ultrasound median nerve localization by classification based on despeckle filtering and feature selection.
+Depth from accidental motion using geometry prior.
+Multiple exposure integration for restoring all in-focus images.
+Path vs. destination: A case study of blind noise assessment using modified ant shortest path.
+An Augmented Lagrangian Method for image reconstruction with multiple features.
+Accurate scale estimation based on unsynchronized camera network.
+The measurement of cell viability based on temporal bag of words for image sequences.
+Application of image processing techniques for frog call classification.
+A location-aware scale-space method for salient object detection.
+A curvelet-based distance measure for seismic images.
+Single-shot fourier transform multispectroscopy.
+Fast aircraft detection in satellite images based on convolutional neural networks.
+Fast tracking via context depth model learning.
+Motion retrieval using consistency of epipolar geometry.
+An algorithm based on LBPV and MIL for left atrial thrombi detection using transesophageal echocardiography.
+Image colorization via color propagation and rank minimization.
+Fast single image dehazing with domain transformation-based edge-preserving filter and weighted quadtree subdivision.
+Towards privacy-preserving recognition of human activities.
+Quality control in crowdsourced object segmentation.
+Construction of a bird image dataset for ecological investigations.
+Reranking of person re-identification by manifold-based approach.
+Dictionary learning based superpixels clustering for weakly-supervised semantic segmentation.
+Active image pair selection for continuous person re-identification.
+Image super-resolution from compressed sensing observations.
+An estimation-theoretic approach to video denoiseing.
+Optical coherence tomography image segmentation.
+A layered method for determining manga text bubble reading order.
+Non-parametric Ensemble Kalman methods for the inpainting of noisy dynamic textures.
+Sampling piecewise smooth signals and its application to image up-sampling.
+A complexity-based adaptive tile partitioning algorithm for HEVC decoder parallelization.
+Face detection and landmark localization using Bilayer Tree Structured Model.
+Optimized lifting schemes based on ENO stencils for image approximation.
+Local sensing with global recovery.
+Chromatic calibration of an HDR display using 3D octree forests.
+SVM with OpenCL: High performance implementation of support vector machines on heterogeneous systems.
+Segmentation of infant brain MR images based on adaptive shape prior and higher-order MGRF.
+Superpixel-based depth map inpainting for RGB-D view synthesis.
+On the role of non-local Menger curvature in image processing.
+Exemplar based metric learning for robust visual localization.
+Learning the discriminative dictionary for sparse representation by a general fisher regularized model.
+Multi-resolution compressed sensing reconstruction via approximate message passing.
+Detecting specular highlights in dermatological images.
+Predicting audio-visual salient events based on visual, audio and text modalities for movie summarization.
+Face de-identification with expressions preservation.
+Motion estimation via hierarchical block matching and graph cut.
+Improved raindrop detection using combined shape and saliency descriptors with scene context isolation.
+Fast object instance search in videos from one example.
+Template-based statistical shape modelling on deformation space.
+Ranked k-means clustering for terahertz image segmentation.
+Multi-class weather classification on single images.
+Transforms for intra prediction residuals based on prediction inaccuracy modeling.
+PMPA: A patch-based multiscale products algorithm for image denoising.
+A low-power 490 mpixels/s hardware accelerator for pyramidal decomposition of images.
+Texture characterization via improved deterministic walks on image-generated complex network.
+Activity recognition with volume motion templates and histograms of 3D gradients.
+A non-parametric CFAR detector based on SAR sea clutter statistical modeling.
+Object recognition with top-down visual attention modeling for behavioral studies.
+Data rate and dynamic range compression of medical images: Which one goes first?
+A level set-based framework for 3D kidney segmentation from diffusion MR images.
+Angle constrained path for clustering of multiple manifolds.
+Utilizing image-based features in biomedical document classification.
+Detect coherent motions in crowd scenes based on tracklets association.
+Searching for nearest neighbors with a dense space partitioning.
+Precise eye localization with improved SDM.
+Transductive video co-segmentation on the temporal trees.
+Effect of camera-IMU displacement calibration error on tracking performance.
+Salient object detection via objectness measure.
+In-network view re-sampling for interactive free viewpoint video streaming.
+Learning deep features for image emotion classification.
+Beating cilia identification in fluorescence microscope images for accurate CBF measurement.
+A fairness-aware smooth rate adaptation approach for dynamic HTTP streaming.
+Dictionary learning for a sparse appearance model in visual tracking.
+Laplace-Beltrami spectra for shape comparison of surfaces in 3D using the closest point method.
+Superpixel based patch match for differently exposed images with moving objects and camera movements.
+Feature extraction from bilateral dissimilarity in digital breast tomosynthesis reconstructed volume.
+Low-rank tensor decomposition based anomaly detection for hyperspectral imagery.
+Background subtraction for static & moving camera.
+High-order information for robust iris recognition under less controlled conditions.
+The use of deep learning features in a hierarchical classifier learned with the minimization of a non-greedy loss function that delays gratification.
+Combat sports analytics: Boxing punch classification using overhead depthimagery.
+Learning space-time dictionaries for blind compressed sensing dynamic MRI reconstruction.
+Simultaneous extraction of two adjacent bony structures in x-ray images: Application to hip joint segmentation.
+Real time railway extraction by angle alignment measure.
+Denoising-based image reconstruction from pixels located at non-integer positions.
+Ask the dictionary: Soft-assignment location-orientation pooling for image classification.
+Highcapacity data-hiding for 3D meshes based on static arithmetic coding.
+Colorto grayscale image conversion using modulation domain quadratic programming.
+Detection of pedestrian crossing road.
+Generatinga 3D hand model from frontal color and range scans.
+Weighted sparse representation using a learned distance metric for face recognition.
+Multi-temporal foreground detection in videos.
+Lossless screen content coding in HEVC based on sample-wise median and edge prediction.
+Saliency cuts based on adaptive triple thresholding.
+Histogram of gradient magnitudes: A rotation invariant texture-descriptor.
+Fine-structured object segmentation via local and nonlocal neighborhood propagation.
+Head pose estimation via probabilistic high-dimensional regression.
+Hierarchical multi-VLAD for image retrieval.
+Rank analysis of a light field for dual-layer 3D displays.
+Group saliency propagation for large scale and quick image co-segmentation.
+Parameter tuning of CLAHE based on multi-objective optimization to achieve different contrast levels in medical images.
+A spatial class LDA model for classification of sports scene images.
+Graph regularized low-rank matrix recovery for robust person re-identification.
+Non-local/local image filters using fast eigenvalue filtering.
+Active shape model unleashed with multi-scale local appearance.
+CANNET: Context aware nonlocal convolutional networks for semantic image segmentation.
+SDM-BSM: A fusing depth scheme for human action recognition.
+Adaptive exposure fusion for high dynamic range imaging.
+Recovering size and shape of polyp from endoscope image by RBF-NN modification.
+Identifying epileptic seizures based on a template-based eyeball detection technique.
+The embeddability of lane detection algorithms on heterogeneous architectures.
+Class noise removal and correction for image classification using ensemble margin.
+High dynamic range content calibration for accurate acquisition and display.
+On the utility of canonical correlation analysis for domain adaptation in multi-view headpose estimation.
+Towards reduction of the training and search running time complexities for non-rigid object segmentation.
+Improving calibration of thermal stereo cameras using heated calibration board.
+Using line consistency to estimate 3D indoor Manhattan scene layout from a single image.
+Helicobacter pylori infection detection from multiple x-ray images based on combination use of support vector machine and multiple kernel learning.
+Lenselet image compression scheme based on subaperture images streaming.
+NSLIC: SLIC superpixels based on nonstationarity measure.
+UHD image reconstruction by estimating interpolation error.
+Optimal transport using Helmholtz-Hodge decomposition and first-order primal-dual algorithms.
+Learning-based depth estimation from 2D images using GIST and saliency.
+Feature regions based on graph optimization for robust reversible watermarking.
+Low-cost license plate detection using a calibrated camera.
+Gradient-domain image decomposition for image recovery.
+Indexing fingerprint database with minutiae based coaxial Gaussian track code and quantized lookup table.
+Pseudo four-channel image denoising for noisy CFA raw data.
+Real-time human body parts localization from dynamic vision sensor.
+Myocardium segmentation on 3D spect images.
+In-air handwritten Chinese character recognition using multi-stage classifier based on adaptive discriminative locality alignment.
+Sentiment analysis of Chinese micro-blog based on multi-modal correlation model.
+T-clustering: Image clustering by tensor decomposition.
+Ground-based cloud image categorization using deep convolutional visual features.
+Automatic detection of bone marrow infiltration by multiple myeloma detection in low-dose CT.
+Efficient 2×2 block-based connected components labeling algorithms.
+Locally controlled regularized spatiotemporal anisotropic diffusion.
+Spatial matching of sketches without point correspondence.
+Multi-modal big-data management for film production.
+Detection of diabetic retinopathy and age-related macular degeneration from fundus images through local binary patterns and random forests.
+Evaluating the effects of image compression in Moiré-pattern-based face-spoofing detection.
+HEVC inverse transform architecture utilizing coefficient sparsity.
+Hybrid key: An automatic tool for real-time high quality chroma keying.
+Fast 2D and 3D image processing with OpenCL.
+Efficient background subtraction with low-rank and sparse matrix decomposition.
+Block dependent dictionary based disparity compensation for stereo image coding.
+Salience based hierarchical fuzzy representation for object recognition.
+Color-coded pattern for non metric camera calibration.
+Blind multiply distorted image quality assessment using relevant perceptual features.
+Integrability-regularized phase unwrapping via sparse error correction.
+Parameter estimation for LP regularized image deconvolution.
+Robust and fast moving object detection in a non-stationary camera via foreground probability based sampling.
+Class-specific sparse codes for representing activities.
+Asymptotic closed-loop design for transform domain temporal prediction.
+Robust laser stripe extraction using ridge segmentation and region ranking for 3D reconstruction of reflective and uneven surface.
+A dual block coordinate proximal algorithm with application to deconvolution of interlaced video sequences.
+Face attribute classification using attribute-aware correlation map and gated convolutional neural networks.
+Improved 3D sparse maps for high-performance SFM with low-cost omnidirectional robots.
+A bag-of-features approach for malignancy detection in breast histopathology images.
+Contextual object tracker with structure encoding.
+Robust visual tracking via discriminative sequential ranking.
+Saliency weighted quality assessment of tone-mapped images.
+Single underwater image enhancement using depth estimation based on blurriness.
+Multivariate optimization for multifractal-based texture segmentation.
+Complex modulation computer-generated hologram by a fast hybrid point-source/wave-field approach.
+Dynamic texture and geometry features for facial expression recognition in video.
+Fast CU partition decision using machine learning for screen content compression.
+RST-invariant sketch retrieval based on circular description.
+Focal length change compensation for monocular slam.
+Search and retrieval of multi-modal data associated with image-parts.
+Unified image fusion based on application-adaptive importance measure.
+Reconstruction of compressively sensed ultrasound RF echoes by exploiting non-Gaussianity and temporal structure.
+Seeded Laplacian: An interactive image segmentation approach using eigenfunctions.
+Mesh segmentation with connecting parts for 3D object prototyping.
+Multi-kernel collaborative representation for image classification.
+Multi-scale local binary patterns based on path integral for texture classification.
+Frame-level matching of near duplicate videos based on ternary frame descriptor and iterative refinement.
+Talk abstract: Computational lighting design and band-sifting operators.
+Optimization of color quantization with total luminance for DLP projector and its evaluation system.
+Efficient natural color image denoising based on guided filter.
+Approximationorder of the lap optical flow algorithm.
+Load-balanced locality-sensitive hashing: A new method for efficient near duplicate image detection.
+Hybrid super-resolution combining example-based single-image and interpolation-based multi-image reconstruction approaches.
+Semantic embedding space for zero-shot action recognition.
+Compensation of spectral mismatch to enhance WRGB demosaicking.
+Estimation of angular difference between tomographic projections taken at unknown directions in 3D.
+Image analysis of videokymographic data.
+Dictionary-based multiple frame video super-resolution.
+A novel framework for the segmentationof mrinfant brain images.
+Clustered Exemplar-SVM: Discovering sub-categories for visual recognition.
+Robust facial landmark localization using multi partial features.
+Segmentation of cells in electron microscopy images through multimodal label transfer.
+Image denoising using optimally weighted bilateral filters: A sure and fast approach.
+Region based 4D tomographic image reconstruction: Application to cardiac x-ray CT.
+Video denoising by online 3D sparsifying transform learning.
+Nonparametric background model based clutter map for X-band marine radar.
+External and internal learning for single-image super-resolution.
+Correlated warped Gaussian processes for gender-specific age estimation.
+Image deblurring using robust sparsity priors.
+Ensemble classifier for joint object instance and category recognition on RGB-D data.
+Dynamic bi-modal fusion of images for the segmentation of pollen tubes in video.
+Multi-look processing of high-resolution SAS data for improved target detection performance.
+Affect-preserving privacy protection of video.
+Asymmetry evaluation of fundus images in right and left eyes using radon transform and fractal analysis.
+UTD-MHAD: A multimodal dataset for human action recognition utilizing a depth camera and a wearable inertial sensor.
+Automatic contrast enhancement by variational minimax optimization.
+LGHD: A feature descriptor for matching across non-linear intensity variations.
+Image segmentation with the competitive learning based MS model.
+Distributions of local radius indices on periodic tessellations.
+Stochastic bilateral filter for high-dimensional images.
+Captured open book image de-warping using depth information.
+Multitask multivariate common sparse representations for robust multimodal biometrics recognition.
+An adaptive search ordering for rate-constrained successive elimination algorithms.
+Live video synopsis for multiple cameras.
+Color names learning using convolutional neural networks.
+Unsupervised sports video particles annotation based on social latent semantic analysis.
+Mitigating memory requirements for random trees/ferns.
+Improved specular regions localization and optical-flow based motion estimation via joint processing.
+Rate distortion analysis of high dynamic range video coding techniques.
+Low-complexity block size decision for HEVC intra coding using binary image feature descriptors.
+Computationally efficient recognition of activities of daily living.
+Region matching based on local structure information in ipsilateral digital breast tomosynthesis views.
+Scalable action localization with kernel-space hashing.
+Determining fluctuation in bio-nanomachines from electron microscopy images.
+Robustly tracking objects via multi-task kernel dynamic sparse model.
+Statistical hypothesis test for robust classification on the space of covariance matrices.
+New parametric 3D snake for medical segmentation of structures with cylindrical topology.
+Interactive object segmentation using single touch.
+User-guided graph reduction for fast image segmentation.
+Maximum entropy regularized group collaborative representation for face recognition.
+Dynamic textures clustering using a hierarchical Pitman-Yor process mixture of Dirichlet distributions.
+Phylogeny reconstruction for misaligned and compressed video sequences.
+Image deblocking using group-based sparse representation and quantization constraint prior.
+Applying image analysis to assess food aesthetics and uniqueness.
+Generalized inpainting method for hyperspectral image acquisition.
+Exposure bracketing via automatic exposure selection.
+Incremental update of feature extractor for camera identification.
+Whole space subclass discriminant analysis for face recognition.
+A regularization approach for bayer reconstruction in lossy image coding by inverse demosaicing.
+A highly efficient method for blind image quality assessment.
+Orthogonal self-guided similarity preserving projections.
+Watershed superpixel.
+Locally refinable parametric snakes.
+Model-based image reconstruction of chemiluminescence using a plenoptic 2.0 camera.
+LPI adaptive descreening method with Hadamard domain analysis.
+Recursive orientation estimation based on hypersurface reconstruction.
+Local integrity constraints for structure detection and segmentation in high-resolution earth observation images.
+Information extraction from very high resolution satellite SAR data time series using graph based connected features.
+Information-theoretic analysis of Blinn-Phong lighting with applicationto mobile cloud gaming.
+Character recognition for the machine reader zone of electronic identity cards.
+A majorize-minimize approach for high-quality depth upsampling.
+Geodesic weighted Bayesian model for salient object detection.
+Randomized spatial pooling in deep convolutional networks for scene recognition.
+Reflectance estimation and white balancing using multiple images.
+A video saliency detection method based on spatial and motion information.
+The THU multi-view face database for videoconferences.
+Categorization of cloud image patches using an improved texton-based approach.
+Multiple features extraction for timber defects detection and classification using SVM.
+DA3D: Fast and data adaptive dual domain denoising.
+A motion-texture aware denoising for economic hardware design.
+Human pose estimation with global motion cues.
+Subjective and objective evaluation of image inpainting quality.
+Deep-plant: Plant identification with convolutional neural networks.
+Fusion of multispectral and panchromatic images based on a novel inter-band structure model.
+A novel background subtraction approach based on multi layered self-organizing maps.
+Sensory load hierarchy-based classification of schizophrenia patients.
+Skew correction and line extraction in binarized printed text images.
+Fast H.264 to HEVC transcoder based on post-order traversal of quadtree structure.
+L1-Grassmann manifolds for robust face recognition.
+Super-resolution reconstruction using graph Laplacian penalization.
+A Bayesian adaptive weighted total generalized variation model for image restoration.
+On spatial neighborhood of patch-based super resolution.
+Reconstruction of compressively sampled light fields using a weighted 4D-DCT basis.
+CannyLines: A parameter-free line segment detector.
+Object classification from RGB-D images using depth context kernel descriptors.
+Retrieving images combining saliency detection with IRM.
+Investigating the feasibility of image-based nose biometrics.
+Gamma correction acceleration for real-time text extraction from complex colored images.
+Blurred image recognition using domain adaptation.
+Translational and rotational jitter invariant incremental principal component pursuit for video background modeling.
+Rotationally-invariant non-local means for image denoising and tomography.
+Second order Mumford-Shah model for image denoising.
+Supervised fractional eigenfaces.
+Multi-camera interference cancellation of time-of-flight (TOF) cameras.
+Fine-grained bird species recognition via hierarchical subset learning.
+Evaluating the sensory gap for earth observation images using human perception and an LDA-based computational model.
+A very low complexity reduced reference video quality metric based on spatio-temporal information selection.
+Distinctive action sketch.
+A sample set perspective on the classification of hyperspectral image with weighted affine constraint.
+Human action recognition using time-invariant key-trajectories describing spatio-temporal salient motion.
+Image super-resolution based on dictionary learning and anchored neighborhood regression with mutual incoherence.
+Quantum-computation-inspired reverse analysis texture synthesis.
+Classification of polarimetric SAR imagery using unsupervised H/α and extended H/α schemes to detect anomalies on earthen levees.
+What does a single light-ray reveal about a transparent object?
+Pareto-optimal discriminant analysis.
+Identification of aliasing-based patterns in re-captured LCD screens.
+Material classification and semantic segmentation of railway track images with deep convolutional neural networks.
+Brushstroke based sparse hybrid convolutional neural networks for author classification of Chinese ink-wash paintings.
+A structure-based region detector for retinal image registration.
+Multi-level semantic labeling of Sky/cloud images.
+Class-specific hierarchical classification for HEP-2 specimen images.
+Fast spatially varying object motion blur estimation.
+Studying human behavioural responses to time-varying distortions for video quality assessment.
+Center-free PFCM for MRI brain image segmentation.
+Multiple model adaptive visual tracking with correlation filters.
+RGB-D saliency detection via mutual guided manifold ranking.
+An adaptive Lagrange multiplier determination method for rate-distortion optimisation in hybrid video codecs.
+Missing data super-resolution using non-local and statistical priors.
+EREL: Extremal regions of extremum levels.
+Learning occlusion patterns using semantic phrases for object detection.
+Fluorosocopic sequence denoising using a motion compensated multi-scale temporal filtering.
+Discriminative regional color co-occurrence descriptor.
+Sparse tensor recovery via combined first and second order high-accuracy total variation.
+Using steerable wavelets and minimal paths to reconstruct automatically filaments in fluorescence imaging.
+Ellipse-specific fitting by relaxing the 3L constraints with semidefinite programming.
+Real-time eye localization, blink detection, and gaze estimation system without infrared illumination.
+Software defined networking for video: Overview & multicast study.
+Online learning of multi-feature weights for robust object tracking.
+Low-rank regularized collaborative filtering for image denoising.
+Reference image based method of region of interest enhancement for haze image.
+Occlusion handling in feature point tracking using ranked parts based models.
+Exploiting effects of parts in fine-grained categorization of vehicles.
+360 degrees video coding using region adaptive smoothing.
+Reflectance spectra based skin and non-skin classification.
+A no reference texture granularity index and application to visual media compression.
+Multi-scale bisector integrals: An invariant descriptor for accurate shape retrieval.
+Action recognition with approximate sparse coding.
+Feature saliency analysis for perceptual similarity of clustered microcalcifications.
+Effective document image deblurring via gradient histogram preservation.
+Blind image deconvolution using the Sylvester resultant matrix.
+PIRM: Fast background subtraction under sudden, local illumination changes via probabilistic illumination range modelling.
+Multi-view descriptor mining via codeword net for action recognition.
+Joint metal artifact reduction and segmentation of CT images using dictionary-based image prior and continuous-relaxed potts model.
+An accelerated separable median filter with sorting networks.
+Regression based landmark estimation and multi-feature fusion for visual speech recognition.
+Robust video stitching using adaptive pixel transfer.
+Barcode annotations for medical image retrieval: A preliminary investigation.
+Bridging computer vision and social science: A multi-camera vision system for social interaction training analysis.
+Multi-class semantic segmentation of faces.
+Merging linear discriminant analysis with Bag of Words model for human action recognition.
+Scene text detection based on component-level fusion and region-level verification.
+Improving uniformity in detection performance of clustered microcalcifications in mammograms.
+Abnormal event detection via adaptive cascade dictionary learning.
+Guided integral filter for light field stereo matching.
+Learning a temporally invariant representation for visual tracking.
+A user-friendly interactive image inpainting framework using Laplacian coordinates.
+Dependent random access point pictures in HEVC.
+Segment-wise online learning based on greedy algorithm for real-time multi-target tracking.
+Fast 3D tracking and quantization of small vascular structures in 3D medical images.
+Bone extraction in X-ray images by analysis of line fluctuations.
+A comprehensive aesthetic quality assessment method for natural images using basic rules of photography.
+3-D image reconstruction for bio nanomachines with helical symmetry: Image formation theory.
+Variational multi-image stereo matching.
+Fast label propagation for real-time superpixels for video content.
+Multipass encoding for reducing pulsing artifacts in cloud based video transcoding.
+Image classification using RBM to encode local descriptors with group sparse learning.
+Neural netwok based X-ray tomography for fast inspection of apples on a conveyor belt system.
+Selective parts for fine-grained recognition.
+An extension to the PRO-MPEG COP3 codes for unequal error protection of real-time video transmission.
+Computationally efficient, real-time motion recognition based on bio-inspired visual and cognitive processing.
+An iterative algorithm for spectral estimation with spatial smoothing.
+Enhanced deformable part model for pedestrian detection via joint state inference.
+A contrario patch matching, with an application to keypoint matches validation.
+Fast and accurate candidate reduction using the multiclass LDA for Japanese/Chinese character recognition.
+A novel binarization approach for text in images.
+Efficient depth intra mode decision by reference pixels classification in 3D-HEVC.
+Atomic decomposition based anisotropic non-local structure tensor.
+Visual attention for content based image retrieval.
+Color deflickering for high-speed video in the presence of artificial lighting.
+On the accuracy of point localisation in a circular camera-array.
+Face hallucination based on nonparametric Bayesian learning.
+Context aware model for articulated human pose estimation.
+Adaptive multi-task learning for fine-grained categorization.
+Parameter optimisation for vision guided terrestrial locomotion: Multi-frame.
+Adaptive regularization level set evolution for medical image segmentation and bias field correction.
+High-accuracy 3D image stitching for robot-based inspection systems.
+Discriminative label consistent dictionary learning.
+Extraction of hierarchical structure of web communities including salient keyword estimation for web video retrieval.
+Factor graphs for inverse problems: Accelerated phase contrast magnetic resonance imaging.
+Evolutionary fusion of local texture patterns for facial expression recognition.
+Delaunay-supported edges for image graphs.
+Adaptive visual target detection and tracking using incremental appearance learning.
+Improving background estimation for faint astronomical object detection.
+Extending α-expansion to a larger set of regularization functions.
+Upsampled-view distortion optimization for mixed resolution 3D Video Coding.
+Automatic detection of colonoscopic anomalies using capsule endoscopy.
+Denoising of natural stochastic colored-textures based on fractional brownian motion model.
+Transformation of focus profiles for digital autofocus.
+Efficient cost volume sampling for plane sweeping based multiview depth estimation.
+Feature extraction of handwritten Kannada characters using curvelets and principal component analysis.
+Shannon-Kotelnikov mappings for softcast-based joint source-channel video coding.
+User interactive segmentation with partially growing random forest.
+The hidden structure of image datasets.
+Salient object detection using normalized cut and geodesics.
+Sequential non-rigid point registration for 3D human pose tracking.
+Spatial-temporal recovery for hierarchical frame based video compressed sensing.
+Sparse least-squares prediction for intra image coding.
+Combined 2D and 3D web-based visualisation of on-set big media data.
+Adaptive appearance learning for human pose estimation.
+DCSLAM: A dynamically constrained real-time slam.
+Fast and exact bi-directional fitting of active appearance models.
+Object tracking with adaptive motion modeling of particle filter and support vector machines.
+Plant identification using triangular representation based on salient points and margin points.
+Visual tracking via manifold regularized local structured sparse representation model.
+Online view sampling for estimating depth from light fields.
+A new unsupervised model of action recognition.
+Facial age estimation via extended curvature Gabor filter.
+Large visual words for large scale image classification.
+Line meets as-projective-as-possible image stitching with moving DLT.
+Spatial domain quantization noise based image filtering detection.
+Automatic classification of tissues using T1 and T2 relaxation times from prostate MRI: A step towards generation of PET/MR attenuation map.
+Post inserted object calibration for stereo video rectification.
+Fitting 3D Morphable Face Models using local features.
+4D non-local means post-filtering for cardiac gated SPECT.
+Augmented Lagrangian without alternating directions: Practical algorithms for inverse problems in imaging.
+Anomaly detection by using random projection forest.
+Repositioning the salient region of videos by using active illumination.
+Albedo assisted high-quality shape recovery from 4D light fields.
+L1-fusion: Robust linear-time image recovery from few severely corrupted copies.
+Motion estimation for non-overlapping cameras by improvement of feature points matching based on urban 3D structure.
+Multithreading AdaBoost framework for object recognition.
+A robust gesture recognition using hand local data and skeleton trajectory.
+Structured feature-graph model for human activity recognition.
+The quest for the integration of visual saliency models in objective image quality assessment: A distraction power compensated combination strategy.
+Sparse concept discriminant matrix factorization for image representation.
+A multi-view video synopsis framework.
+HEVC video authentication using data embedding technique.
+Histograms of locally aggregated oriented gradients.
+LQ-bundle adjustment.
+Crowd modeling using social networks.
+VLSI friendly fast CU/PU mode decision for HEVC intra encoding: Leveraging convolution neural network.
+Saliency map based improved segmentation.
+Efficient O(1) edge-aware filter.
+Local feature embedding for supervised image classification.
+Parallax rectification for spectrally-coded plenoptic cameras.
+Textureless object detection using cumulative orientation feature.
+Facial video super resolution using semantic exemplar components.
+Fast image super-resolution via selective manifold learning of high-resolution patches.
+A maximal interest-point strategy applied to image enhancement with external priors.
+A self-organizing lattice Boltzmann active contour (SOLBAC) approach for fast and robust object region segmentation.
+Return of grid seams: A superpixel algorithm using discontinuous multi-functional energy seam carving.
+Artrieval: Painting retrieval without expert knowledge.
+Hierarchical tucker tensor regression: Application to brain imaging data analysis.
+Recognizing hand-object interactions in wearable camera videos.
+Robust visual tracking via discriminative sequential ranking.
+Low complexity unsupervised multi-camera color calibration with application to panoramic video capturing.
+Classification of interferometric SAR images based on parametric modeling in the fractional fourier transform domain.
+DEEPFOCAL: A method for direct focal length estimation.
+Outdoor scene labelling with learned features and region consistency activation.
+Image based rendering technique via sparse representation in shearlet domain.
+Encoding rotation invariant features in HEP-2 cell classification.
+ROI-based rate control using tiles for an HEVC encoded video stream over a lossy network.
+Graph modelling of 3D geometric information for color consistency of multiview images.
+A robust contour sampling and tensor-based approach to facial beard and mustache shape segmentation and matching.
+Dark image enhancement based onpairwise target contrast and multi-scale detail boosting.
+Large-area depth recovery for RGB-D camera.
+Multi-view image inpainting with sparse representations.
+Low-complexity rate control in video coding based on bi-geometric transparent composite models.
+A saliency model for automated tumor detection in breast ultrasound images.
+Texture classification with fuzzy color co-occurrence matrices.
+Perceptual screen content image quality assessment and compression.
+Photographic paper classification via local radius index metric.
+Reconstruction for stochastic 3-D signals with symmetric statistics in noise: Electron microscopy of virus particles.
+Synthesis of light-field raw data from RGB-D images.
+External forces for active contours using the undecimated wavelet transform.
+Noise correction of image labeling in crowdsourcing.
+Inverse halftoning with grouping singular value decomposition.
+Robust visual tracking using joint scale-spatial correlation filters.
+Region-based brain selection and classification on pet images for Alzheimer's disease computer aided diagnosis.
+Context adaptive mode sorting for fast HEVC mode decision.
+Automatic rectangular building detection from VHR aerial imagery using shadow and image segmentation.
+Dimensionality reduction by supervised locality analysis.
+Vessel region detection in coronary X-ray angiograms.
+Robust steganalysis based on training set construction and ensemble classifiers weighting.
+Volume visualization for out-of-core 3D images based on semi-adaptive partitioning.
+Face sketch synthesis using non-local means and patch-based seaming.
+Distributed compressed sensing for photo-acoustic imaging.
+Temporal aggregation for large-scale query-by-image video retrieval.
+Subject identification based on EEG responses to video stimuli.
+Image denoising in multiplicative noise.
+Fast inter mode decision for HEVC based on transparent composite model.
+High throughput parallel scheme for HEVC deblocking filter.
+Efficient regression priors for reducing image compression artifacts.
+Short local descriptors from 2D connected pattern spectra.
+An automatic energy-based region growing method for ultrasound image segmentation.
+Locality sensitive discriminative dictionary learning.
+Shape encoding for edge map image compression.
+Online person orientation estimation based on classifier update.
+A feature subtraction method for image based kinship verification under uncontrolled environments.
+Fluctuations of disparity space image for stereo matching in untextured regions.
+Visual aesthetic quality assessment with a regression model.
+Evaluation of 60 full-reference image quality metrics on the CID: IQ.
+Fast CU size decision and PU mode decision algorithm in HEVC intra coding.
+Mode-dependent transform competition for HEVC.
+Content based video retrieval on mobile devices: How much content is enough?
+FACE2GPS: Estimating geographic location from facial features.
+Background-foreground tracking for video object segmentation.
+Rotation invariant similarity measure for non-local self-similarity based image denoising.
+Group-based hyperspectral image denoising using low rank representation.
+Inter-block consistent soft decoding of JPEG images with sparsity and graph-signal smoothness priors.
+High-order regularization for stereo color editing.
+Robust multi-object tracking using confident detections and safe tracklets.
+A Study on PUF characteristics for counterfeit detection.
+Robust pose normalization for face recognition under varying views.
+Partially discrete magnetic resonance tomography.
+May the torcher light our way: A negative-accelerated active learning framework for image classification.
+Tensor-based subspace learning for tracking salt-dome boundaries.
+Object segmentation with deep regression.
+Accelerated microstructure imaging via convex optimisation for regions with multiple fibres (AMICOx).
+Rate-distortion optimized optical flow estimation.
+PerSIM: Multi-resolution image quality assessment in the perceptually uniform color domain.
+Removing camera fingerprint to disguise photograph source.
+Visual saliency by extended quantum cuts.
+A two-stage video coding framework with both self-adaptive redundant dictionary and adaptively orthonormalized DCT basis.
+Guided inpainting with cluster-based auxiliary information.
+Hierarchical segmentation and tracking of coronary arteries in 2D X-ray Angiography sequences.
+Refractive stereo ray tracing for reconstructing underwater structures.
+Multi-exposure image fusion: A patch-wise approach.
+Automatic classification of skin lesions using geometrical measurements of adaptive neighborhoods and local binary patterns.
+Image resolution enhancement based on novel view synthesis.
+Challenges in cloud based ingest and encoding for high quality streaming media.
+Notes on image processing with partial differential equations.
+Scene text detection using sequential nontext filtering.
+Image-based evaluation of treatment responses of facial wrinkles using LDDMM registration and Gabor features.
+Boosted human head pose estimation using kinect camera.
+Region-based image retargeting quality assessment.
+How much bandwidth does surveillance system require?
+Salient object carving.
+Unsupervised segmentation using dynamic superpixel random walks.
+AN ℓ1/2 regularized low-rank representation for hyperspectral imagery classification.
+Visual tracking via guided filter.
+Cascade of classifiers based on binary, non-binary and deep convolutional network descriptors for video concept detection.
+Quantification of the 3D collagen network geometry in confocal reflection microscopy.
+Fast image completion method using patch offset statistics.
+Facial landmark detection via cascade multi-channel convolutional neural network.
+A discriminative tracklets representation for crowd analysis.
+Novel general KNN classifier and general nearest mean classifier for visual classification.
+Multi-feature hashing based on SNR maximization.
+Texture based sub-PU motion inheritance for depth coding.
+Novel features for microcalcification detection in digital mammogram images based on wavelet and statistical analysis.
+A robust nonsymmetric student's-t finite mixture model for MR image segmentation.
+Learning shape priors for object segmentation via neural networks.
+Edge model based fusion of multi-focus images using matting method.
+Co-saliency detection via similarity-based saliency propagation.
+On the improvement of no-reference mean opinion score estimation accuracy by following a frame-level regression approach.
+Nonparametric empirical Bayes estimation for multiplicative multiscale innovation in photon-limited imaging.
+Progressive feature matching via triplet graph.
+A spectral unmixing method based on wavelet weighted similarity.
+Universal lossless coding with random user access: The cost of interactivity.
+An effective eye states detection method based on the projection of the gray interval distribution.
+Super-resolution for mixed-resolution multiview image plus depth data using a novel two-stage high-frequency extrapolation method for occluded areas.
+Hyperspectral image interpretation based on partial least squares.
+Beyond local phase quantization: Mid-level blurred image representation using fisher vector.
+Learning depth from a single image using visual-depth words.
+An objective 3D quality assessment model to adjust stereo camera baseline.
+High performance loop filter for HEVC.
+Illumination robust optical flow estimation by illumination-chromaticity decoupling.
+Nonparametric scene parsing with deep convolutional features and dense alignment.
+Detecting repetitive elements with accurate locations and shapes from urban façade.
+Cross-modality hashing with partial correspondence.
+Copy mode for static screen content coding with HEVC.
+Cross-pose color facial expression recognition using transductive transfer linear discriminat analysis.
+Reflection removal using disparity and gradient-sparsity via smoothing algorithm.
+Deep CCA based super vector for action recognition.
+A framework for image-based asset generation and animation.
+Prostate detection from abdominal ultrasound images: A part based approach.
+Image classification: No features, no clustering.
+Color decorrelation helps visual saliency detection.
+Tiger: A texture-illumination guided energy response model for illumination robust local saliency.
+CBRA: Color-based ranking aggregation for person re-identification.
+Abandoned object detection using operator-space pursuit.
+Regularized single-image super-resolution based on progressive gradient estimation.
+A new Mumford-Shah type model involvinga smoothing operator for multiphase image segmentation.
+Pixel-grain prediction and K-order UEG-rice entropy coding oriented lossless frame memory compression for motion estimation in HEVC.
+Image denoising via coded aperture photography.
+Fast and accurate bilateral filtering using Gauss-polynomial decomposition.
+Efficient calibration for multi-plane homography using a laser level.
+CDF 9/7 wavelets as sparsifying operator in compressive holography.
+Graph regularized discriminant analysis and its application to face recognition.
+Fine-grained visual categorization with fine-tuned segmentation.
+Efficient scalable compression of sparsely sampled images.
+Product tree quantization for approximate nearest neighbor search.
+Biologically motivated spiral architecture for fast video processing.
+Sparse coding-based spatiotemporal saliency for action recognition.
+Three-dimensional reconstruction from heterogeneous video devices with camera-in-view information.
+Reproducible evaluation of Pan-Tilt-Zoom tracking.
+Diagnostic color estimation of tissue components in pathology images via von Mises mixture model.
+Compressive sensing of video with weighted sensing and measurement allocation.
+Spatio-temporal pyramid cuboid matching for action recognition using depth maps.
+A novel moving parameter estimation approach offast moving targets based on phase extraction.
+PSF accuracy measure for evaluation of blur estimation algorithms.
+Moving camera human activity localization and recognition with motionplanes and multiple homographies.
+Spatio-spectral Gaussian random field modeling approach for target detection on hyperspectral data obtained in very low SNR.
+Motion vector fields based video coding.
+Hyperspectral classification using a composite kernel driven by nearest-neighbor spatial features.
+Image quality assessment based on DCT subband similarity.
+Incorporating image degeneration modeling with multitask learning for image super-resolution.
+Facial landmark detection via pose-induced auto-encoder networks.
+Image fingerprinting system based on collusion secure code and watermarking method.
+Point-cut: Fixation point-based image segmentation using random walk model.
+Partially occluded object detection by finding the visible features and parts.
+Super-resolution from learning the enhancement ratio and texture/residual dictionary.
+Lung segmentation in chest radiographs using distance regularized level set and deep-structured learning and inference.
+Four-channel lifting-householder-based Hadamard transform.
+How to make nD images well-composed without interpolation.
+Overview of the multiview high efficiency video coding (MV-HEVC) standard.
+High dynamic range map estimation via fully connected random fields with stochastic cliques.
+Performance analysis of retargeting pyramid and its applications.
+DPM revisited: Utilizing root-part spatial distribution for vehicle viewpoint estimation.
+Multilayer manifold and sparsity constrainted nonnegative matrix factorization for hyperspectral unmixing.
+No-reference image quality assessment for removal of processed and unprocessed noise.
+A fast method for inferring high-quality simply-connected superpixels.
+Saliency detection using a background probability model.
+Robust local and global shape context for tattoo image matching.
+Probabilistic continuous edge detection using local symmetry.
+Predictive graph construction for image compression.
+User adaptive transcoding for video teleconferencing.
+Max-margin analysis based patch sampling for discovery of mid-level parts.
+A map estimation framework for HDR video synthesis.
+Cost aggregation table: A theoretic derivation on the Markov random field and its relation to message passing.
+Superpixel-based statistical anomaly detection for sense and avoid.
+Real-time upper body pose estimation from depth images.
+Single face image super-resolution via solo dictionary learning.
+Compressed domain video processing for tile based panoramic streaming using HEVC.
+Automatic detection of martian dust storms from heterogeneous data based on decision level fusion.
+Inter-channel relation based vectorial total variation for color image recovery.
+Image quality evaluation using image quality ruler and graphical model.
+True motion compensation with feature detection for frame rate up-conversion.
+Unifying the random walker algorithm and the SIR model for graph clustering and image segmentation.
+Improving deep convolutional neural networks with unsupervised feature learning.
+Real-time vehicle back-up warning system with a single camera.
+Depth edge based trilateral filter method for stereo matching.
+Kernel matrix trimming for improved Kernel K-means clustering.
+Elliptical monogenic representation of color images and local frequency analysis.
+Destriping algorithm with L0 sparsity prior for remote sensing images.
+Adaptive autoregressive model with window extension via explicit geometry for image interpolation.
+Accelerating the over-relaxed iterative shrinkage-thresholding algorithms with fast and exact line search for high resolution tomographic image reconstruction.
+Regularization in metric learning for person re-identification.
+Watermarking for position-mapping-based halftoning.
+Median robust extended local binary pattern for texture classification.
+Depth upsampling method via Markov random fields without edge-misaligned artifacts.
+Exploiting multiple detections to learn robust brightness transfer functions in re-identification systems.
+Visual voice activity detection based on spatiotemporal information and bag of words.
+Sparse adaptive template matching and filtering for 2D seismic images with dual-tree wavelets and proximal methods.
+Difference of Gaussian statistical features based blind image quality assessment: A deep learning approach.
+Image coding with incomplete transform competition for HEVC.
+Crowd motion monitoring using tracklet-based commotion measure.
+Belief-propagation-based robust decoding for two-dimensional barcodes to overcome distortion and occlusion and its extension to multi-view decoding.
+Gesture recognition using active body parts and active difference signatures.
+A validation of ICA decomposition for PolSAR images by using measures of normalized compression distance.
+Full-reference visual quality assessment for synthetic images: A subjective study.
+Robust internal exemplar-based image enhancement.
+Scene text recognition with deeper convolutional neural networks.
+Local mean spatio-temporal feature for depth image-based speed-up action recognition.
+Reduced-reference perceptual quality assessment for video streaming.
+Improving distinctiveness of brisk features using depth maps.
+Nonconvex reconstruction for low-dimensional fluorescence molecular tomographic poisson observations.
+Palette mode - A new coding tool in screen content coding extensions of HEVC.
+Online multi-person tracking based on global sparse collaborative representations.
+Coercive region-level registration for multi-modal images.
+Estimation of eye gaze direction angles based on active appearance models.
+Automatic detection of necrosis, normoxia and hypoxia in tumors from multimodal cytological images.
+Anomaly detection in crowd scenes via online adaptive one-class support vector machines.
+Object recognition based on deformable edge set.
+Near-duplicate detection and alignment for multi-view videos.
+Large-scale nonlinear facial image classification based on approximate kernel Extreme Learning Machine.
+Towards sign language recognition based on body parts relations.
+Predicting discrete probability distribution of image emotions.
+Privacy in mini-drone based video surveillance.
+Traffic accident detection through a hydrodynamic lens.
+SWAP-NODE: A regularization approach for deep convolutional neural networks.
+Clinical deep brain stimulation region prediction using regression forests from high-field MRI.
+Outlier aggregation to pick up scattered watermark energy.
+Data-driven progressive compression of colored 3D mesh.
+Multi-resolution super-pixels and their applications on fluorescent mesenchymal stem cells images using 1-D SIFT merging.
+Understanding symmetric smoothing filters via Gaussian mixtures.
+Subject-centered multi-view feature fusion for neuroimaging retrieval and classification.
+Reversible watermarking using enhanced local prediction.
+How to exploit large image data in the fields of texture classification: A case study with local binary patterns.
+Intel realsense = Real low cost gaze.
+Learning discriminative occlusion feature for depth ordering inference on monocular image.
+Hybrid coding of visual content and local image features.
+Dynamic time-alignment k-means kernel clustering for time sequence clustering.
+A hybrid approach for salt dome detection in 2D and 3D seismic data.
+Thermography spatial resolution enhancement by non-rigid registration with visible imagery.
+Predictive multiple motion fields for trajectory completion: Application to surveillance systems.
+Filtering SVM frame-by-frame binary classification in a detection framework.
+Context-aware lane marking detection on urban roads.
+Improving egocentric vision of daily activities.
+Fast motion blur compensation in HEVC using fixed-length filter.
+Dual-ARM VIS/NIR compressive spectral imager.
+Adaptive quantisation in HEVC for contouring artefacts removal in UHD content.
+A database of reflected irradiance field with depth for image based relighting.
+Moving object detection from moving platforms using Lagrange multiplier.
+Hyperspectral classification via learnt features.
+An efficient face classification method based on shared and class-specific dictionary learning.
+A visual comfort assessment metric for stereoscopic images.
+Online supervised hashing.
+SIPF: Scale invariant point feature for 3D point clouds.
+Land use and land cover classification base on image saliency map cooperated coding.
+Event retrieval using motion barcodes.
+Adaptive search of background models for object detection in images taken by moving cameras.
+Superpixel-driven graph transform for image compression.
+Face anti-spoofing based on color texture analysis.
+Transparent texture transfer.
+Automatic video to point cloud registration in a structure-from-motion framework.
+ARFBF model for non stationary random fields and application in HRTEM images.
+Supertexton-based segmentation in early Drosophila oogenesis.
+3D trajectory reconstruction under refraction at a cylindrical surface.
+Optimal bit allocation in HEVC for real-time video communications.
+Boosting 3D LBP-based face recognition by fusing shape and texture descriptors on the mesh.
+One-frame delay for dynamic photometric compensation in a projector-camera system.
+Point set registration based on implicit surface fitting with equivalent distance.
+Fast encoding of 3D color-plus-depth video based on 3D-HEVC.
+Stair detection and tracking from egocentric stereo vision.
+A novel feature descriptor based on microscopy image statistics.
+Multi-scale/multi-resolution Kronecker compressive imaging.
+Landmark-based fisher vector representation for video-based face verification.
+Sparsity preserving multiple canonical correlation analysis with visual emotion recognition to multi-feature fusion.
+Object modeling and trajectory estimations for traffic analysis.
+Retina verification using a combined points and edges approach.
+Facial point detection using convolutional neural network transferred from a heterogeneous task.
+Optimized multilevel fringe patterns for real-time 3D shape measurement with defocused projector.
+Modeling of H.264/AVC based video transmission distortion over wireless network.
+A new data coding scheme using contrast-controllable color intersection.
+Within-class penalty based multi-class support vector machine.
+Motion estimation and compensation for fisheye warped video.
+Two-level multi-task metric learning with application to multi-classification.
+Tapping motion blur for robust normal estimation of planar scenes.
+Joint classification of actions with matrix completion.
+Multi-instance learning via instance-based and bag-based representation transformations.
+Is pedestrian detection robust for surveillance?
+A video texture database for perceptual compression and quality assessment.
+Service provisioning and profit maximization in network-assisted adaptive HTTP streaming.
+Simultaneous estimation of image quality and distortion via multi-task convolutional neural networks.
+Prediction of facial soft tissue deformations with improved rubin-bodner model after craniomaxillofacial (CMF) surgery.
+Complex-valued hough transforms for circles.
+Multifocus image fusion based on surface area analysis.
+A novel integer-pixel motion estimation algorithm based on quadratic prediction.
+Radiometric calibration for HDR imaging.
+Multi-scale saliency of 3D colored meshes.
+Residue boundary histograms for action recognition in the compressed domain.
+Coupled ensemble graph cuts and object verification for animal segmentation from highly cluttered videos.
+Single image super-resolution based on self-examples using context-dependent subpatches.
+Features-based approach for Alzheimer's disease diagnosis using visual pattern of water diffusion in tensor diffusion imaging.
+Efficient image-space extraction and representation of 3D surface topography.
+BIT: Bio-inspired tracker.
+Visual tracking with astructured local model.
+Facial point detection based on a convolutional neural network with optimal mini-batch procedure.
+Regularization of deep neural networks using a novel companion objective function.
+Model-based (passive) heart rate estimation using remote video recording of moving human subjects illuminated by ambient light.
+Seeing as it happens: Real time 3D video event visualization.
+Kernel subspace alignment for unsupervised domain adaptation.
+Rate-distortion evaluation for two-layer coding systems.
+Unsupervised cosegmentation based on global clustering and saliency.
+An iterative convergence algorithm for single/multi ground plane detection and angle estimation with RGB-D camera.
+Interactive image segmentation via cascaded metric learning.
+Local feature learning for face recognition under varying poses.
+A multi-standard interpolation hardware solution for H.264 and HEVC.
+Automatic assessment of online fashion shopping photo aesthetic quality.
+Simple effective image and video color correction using quaternion distance metric.
+Towards defining groups and crowds in video using the atomic group actions dataset.
+Human activity recognition based on pose points selection.
+Contributions to lossless coding of medical images using minimum rate predictors.
+Image splicing detection with local illumination estimation.
+Analysis on spectral effects of dark-channel prior for haze removal.
+Deep structured learning for mass segmentation from mammograms.
+Contrast enhancement of back-light images via a regional rank-1 constraint.
+Limitations of the SSIM quality metric in the context of diagnostic imaging.
+Super-resolution image synthesis using the physical pixel arrangementofalight field camera.
+Auto-synchronized selective encryption of video contents for an improved transmission robustness over error-prone channels.
+Template based inter-layer prediction for high dynamic range scalable compression.
+A hierarchical anti-occlusion tracking algorithm based on DMPF and ORB.
+Hand and object segmentation from RGB-D images for interaction with planar surfaces.
+Self-supervised road detection from a single image.
+MR image reconstruction of a regularly undersampled signal using quadratic phase scrambling.
+Fast-match: Fast and robust feature matching on large images.
+Multi-level action detection via learning latent structure.
+Automatic image segmentation with Anisotropic Fast Marching algorithm and geodesic voting.
+A sensitive and efficient method for measuring change in cortical thickness using fuzzy correspondence in Alzheimer's disease.
+Super-resolution for inconsistent scalable video streaming.
+Comparing feature detectors: A bias in the repeatability criteria.
+Improving surf interest point detection for defocus blur robustness.
+A frame level metric for just noticeable temporal pumping artifact in videos encoded with the hierarchical prediction structure.
+Globally consistent alignment for mosaicking aerial images.
+Depth and angular resolution in plenoptic cameras.
+Edge detection method of Gaussian block distance.
+Channel detection in microscope images of materials using marked point process modeling.
+Cross-layer features in convolutional neural networks for generic classification tasks.
+Nano-scale context-sensitive semantic segmentation.
+Double layer salient parts based multi-people tracking.
+Computer aided endoscope diagnosis via weakly labeled data mining.
+Geometry-based ranking for mobile 3D visual search using hierarchically structured multi-view features.
+Hand gesture recognition and spotting in uncontrolled environments based on classifier weighting.
+Real-time dynamic texture recognition using random sampling and dimension reduction.
+Improved cluster center adaption for image classification.
+ROI encryption for the HEVC coded video contents.
+LR-CNN for fine-grained classification with varying resolution.
+A geometrical-model-based face recognition.
+Automatic segmentation of pathological lung using incremental nonnegative matrix factorization.
+BM3D-AMP: A new image recovery algorithm based on BM3D denoising.
+Assessing the visual effect of non-periodic temporal variation of quantization stepsize in compressed video.
+Salient object detection from distinctive features in low contrast images.
+Classification based on weighted sparse representation using smoothed L0 norm with non-negative coefficients.
+Temporally consistent hole filling method based on global optimization with label propagation for 3D video.
+Knowledge as action: A cognitive framework for indoor scene classification.
+Geometrical graph matching using Monte Carlo tree search.
+One gaze is worth ten thousand (key-)words.
+Comparison of subjective viewing test methods for image quality assessment.
+Simultaneous motion correction and T1 estimation in quantitative T1 mapping: An ML restoration approach.
+Co-regularized deep representations for video summarization.
+Gradient preserving RGB-to-gray conversion using random forest.
+Learning deep compact descriptor with bagging auto-encoders for object retrieval.
+Real-time semantic context labeling for image understanding.
+Facial image analysis based on two-dimensional linear discriminant analysis exploiting symmetry.
+Fast affine-invariant image matching based on global Bhattacharyya measure with adaptive tree.
+Leveraging shape and depth in user authentication from in-air hand gestures.
+Learning histopathological regions of interest by fusing bottom-up and top-down information.
+A pattern recognition approach to make accessible the geographic images for blind and visually impaired.
+Multiple kernel boosting based tracking using pooling features.
+A sparse coding method for semi-supervised segmentation with multi-class histogram constraints.
+Encoding and decoding local binary patterns for harsh face illumination normalization.
+A generalized form of the InSAR phase unwrapping problem based on a compressed sensing technique.
+Depth-weighted group-wise principal component analysis for video foreground/background separation.
+Graph-based motion estimation and compensation for dynamic 3D point cloud compression.
+Perceptual backlight scaling for low power liquid crystal displays based on visual saliency.
+Statistical approach for motion estimation skipping (SAMEK).
+Generalized Sobel Filters for gradient estimation of distorted images.
+Local extrema based Digital Dropout detection in degraded archived media.
+Improved fine structure modeling via guided stochastic clique formation in fully connected conditional random fields.
+A compact shot representation for video semantic indexing.
+UGraSP: A unified framework for activity recognition and person identification using graph signal processing.
+Multivalued label diffusion for semi-supervised segmentation.
+Human fall detection via shape analysis on Riemannian manifolds with applications to elderly care.
+Structured representation-based robust agile-beam LADAR imaging.
+Traffic analysis without motion features.
+Screen content image segmentation using least absolute deviation fitting.
+CHORD: Cascaded and a contrario method for hole crack detection.
+High-throughput and low-complexity binary arithmetic decoder based on logarithmic domain.
+Semantics constrained dictionary learning for signer-independent sign language recognition.
+Bag-of-word based brand recognition using Markov clustering algorithm for codebook generation.
+Multimodal topic modeling based geo-annotation for social event detection in large photo collections.
+Digital image correlation for small strain measurement in deformable solids and geomechanical structures.
+Sampling optimization for on-chip compressive video.
+A framework for view-dependent hologram representation and adaptive reconstruction.
+Detecting different sub-types of acute myelogenous leukemia using dictionary learning and sparse representation.
+Pattern-based k-level cutset reconstruction.
+Weather classification with deep convolutional neural networks.
+DREM: Decoupled region energy model for image segmentation.
+A multi-resolution approach to depth field estimation in dense image arrays.
+Angular upsampling of projection measurements in 3D computed tomography using a sparsity prior.
+Liver segmentation using superpixel-based graph cuts and restricted regions of shape constrains.
+Motion driven tonal stabilization.
+Scale estimation with difference of ordered residuals.
+3D perception based quality pooling on stereoscopic image.
+Iterative mask generation method for handling occlusion in optical flow assisted view interpolation.
+Model-based iterative reconstruction for magnetic resonance fingerprinting.
+Specular reflection removal using local structural similarity and chromaticity consistency.
+3D window localization on building facades from aerial images.
+A study of subjective video quality at various frame rates.
+Inter-picture prediction based on 3D point cloud model.
+Crowd flow segmentation in compressed domain using CRF.
+Invariant characterization of DOVID security features using a photometric descriptor.
+Quality prediction of asymmetrically compressed stereoscopic videos.
+Predictive prefetching for MPEG DASH over LTE networks.
+Multi-label active learning with label correlation for image classification.
+Facial expression recognition in the wild using rich deep features.
+Bilateral symmetry detection based on scale invariant structure feature.
+A two-stage hog feature extraction processor embedded with SVM for pedestrian detection.
+Real-life violent social interaction detection.
+Cross-domain recognition by identifying compact joint subspaces.
+Texture classification using Rao's distance: An EM algorithm on the poincaré half plane.
+Instantaneous real-time head pose at a distance.
+Features we trust!
+PET image reconstruction and denoising on hexagonal lattices.
+Parallel light speed labeling: An efficient connected component labeling algorithm for multi-core processors.
+Scale- and orientation-invariant keypoints in higher-dimensional data.
+Efficient regression priors for post-processing demosaiced images.
+Feature extraction via multi-view non-negative matrix factorization with local graph regularization.
+Retinal-inspired filtering for dynamic image coding.
+An automatic muscle fiber orientation tracking algorithm using Bayesian Kalman Filter for ultrasound images.
+Superpixel matching-based depth propagation for 2D-to-3D conversion with joint bilateral filtering.
+Robust statistical shape analysis based on the tangent shape space.
+Utilizing the Bezier descriptors for hand gesture recognition.
+Upsampling the depth map with its own properties.
+BI-sparsity pursuit for robust subspace recovery.
+Depth estimation by analyzing intensity distribution for light-field cameras.
+Learning unified sparse representations for multi-modal data.
+Multivariate texture discrimination using a principal geodesic classifier.
+Mine the fine: Fine-grained fragment discovery.
+3D visual discomfort predictor based on neural activity statistics.
+A hybrid motion estimation technique for fisheye video sequences based on equisolid re-projection.
+Recovering intrinsic images from image sequences using total variation models.
+Stochastic model for curvilinear structure reconstruction using morphological profiles.
+Quality assurance in large collections of video sequences.
+Stereo radargrammetry using airborne SAR images without GCP.
+Interactive multiview video scheduling through bargaining.
+Countering anti-forensics of image resampling.
+Perceptual evaluation of single image dehazing algorithms.
+Improving spatial codification in semantic segmentation.
+Out-of-the-loop information hiding for HEVC video.
+Radial lens distortion correction using cascaded one-parameter division model.
+An array-based node-oriented max-tree representation.
+Ortho-diffusion decompositions for face recognition from low quality images.
+Center-based weighted kernel linear regression for image classification.
+A 3D face recognition method using region-based extended local binary pattern.
+Cluster encoding for modelling temporal variation in video.
+Dense femur reconstruction from two x-ray images using generic 3D model with twist correction.
+Texture classification using uniform rotation invariant gradient.
+Segmentationof pathological lungs from CT chest images.
+Background modeling in videos revisited using finite mixtures of generalized Gaussians and spatial information.
+Validation and reliability of the discriminative power of geometric wood log end features.
+A multi-frame optical flow spot tracker.
+An optimized first-order method for image restoration.
+Non-homogeneous priors in a Bayesian latent class model for ocean color inversion.
+DESIRe: Discontinuous energy seam carving for image retargeting via structural and textural energy functionals.
+A particle filter based sequential trajectory classifier for behavior analysis in video surveillance.
+DESIRe: Discontinuous energy seam carving for image retargeting via structural and textural energy functionals.
+Biologically inspired deep stereo model.
+An optimization-based approach for restoring missing structures and textures in images.
+Coverage evaluation of camera networks for facilitating big-data management in film production.
+Low-complexity separable multiplier-less loop filter for video coding.
+Objective quality metric for 3D virtual views.
+A conjointly well localized quadrature mirror filterbank.
+A low-light image enhancement method for both denoising and contrast enlarging.
+Orientation robust object detection in aerial images using deep convolutional neural network.
+Encrypting only AC coefficient signs considered harmful.
+Segmentation of liver tumor via nonlocal active contours.
+Low-complexity HOG for efficient video saliency.
+Fast sparse edge-based intrinsic image decomposition guided by chromaticity gradients.
+Classification of EEG signals for detection of epileptic seizure activities based on LBP descriptor of time-frequency images.
+Unequal error protection for real-time video streaming using expanding window reed-solomon code.
+Estimating two-dimensional blood flow velocities from videos.
+Facial feature parsing and landmark detection via low-rank matrix decomposition.
+Sparse recursive filtering for O(1) stereo matching.
+Unsupervised hierarchical image segmentation based on Bayesian sequential partitioning.
+Image aesthetics depends on context.
+Recursive optimization of spherical watermarking using transportation theory.
+Contextual kernel map learning for scene transduction.
+Traffic flow from a low frame rate city camera.
+Locality sensitive dictionary learning for image classification.
+Source camera device identification based on raw images.
+Visual tracking via orthogonal sparse coding.
+An efficient coding framework for compact descriptors extracted from video sequence.
+Logarithmic multiresolution analysis.
+Video summarization through change detection in a non-overlapping camera network.
+Accelerating CDVS extraction on mobile platform.
+An a-contrario approach to quasi-periodic noise removal.
+Per-patch metric learning for robust image matching.
+Scene statistics of authentically distorted images in perceptually relevant color spaces for blind image quality assessment.
+IRIS super-resolution via nonparametric over-complete dictionary learning.
+Adaptive residual interpolation for color image demosaicking.
+Texture-based vessel classifier for electro-optical satellite imagery.
+Directional ringlet intensity feature transform for tracking.
+Fast single-image upsampling with relative edge growth rate priors.
+Sparsity-based depth image restoration using surface priors and RGB-D correlations.
+Audiovisual voice activity detection using off-the-shelf cameras.
+Real-time software synchronisation of webcams for live 3D tracking.
+3D facial model synthesis using coupled dictionaries.
+Creating descriptive visual words for tag ranking of compressed social image.
+Towards automating visual in-field monitoring of crop health.
+Halo control for LHE based local adaptive tone mapping.
+A two-stage video object segmentation using motion and color information.
+Asplünd's metric defined in the logarithmic image processing (LIP) framework for colour and multivariate images.
+Font finder: Visual recognition of typeface in printed documents.
+Semi-supervised learning based on group sparse for relative attributes.
+A fuzzy approach to real-time digital color reproduction of clothing with 3D camera.
+Attribute constrained subspace learning.
+Multiple features based shared models for background subtraction.
+Firefly: A hardware-friendly real-time local brightness adjustment method.
+Image transmorphing with JPEG.
+Robust texture features based on undecimated dual-tree complex wavelets and local magnitude binary patterns.
+Road extraction via adaptive graph cuts with multiple features.
+A computational model for predicting local distortion visibility via convolutional neural network trainedon natural scenes.
+Block structure reuse for multi-rate high efficiency video coding.
+Combining nonuniform sampling, hybrid super vector, and random forest with discriminative decision trees for action recognition.
+Hyper-parameter optimization of deep convolutional networks for object recognition.
+Age estimation under changes in image quality: An experimental study.
+Graph-based transforms for inter predicted video coding.
+Connecting the dots without clues: Unsupervised domain adaptation for cross-domain visual classification.
+Tomographic image reconstruction withaspatially varying Gaussian mixture prior.
+Cross-modality pose-invariant facial expression.
+Partially tagged image clustering.
+Multiple object tracking based on sparse generative appearance modeling.
+Parts-based multi-task sparse learning for visual tracking.
+Face image assessment learned with objective and relative face image qualities for improved face recognition.
+Segmenting similar shapes via weighted group-similarity active contours.
+Multi-pose face hallucination via neighbor embedding for facial components.
+Sparse edit propagation for high resolution image using support vector machines.
+Visual comfort assessment for stereoscopic 3D images based on salient discomfort regions.
+Synthetic face generation under various operational conditions in video surveillance.
+Piecewise distortion correction for fisheye lenses.
+Saliency detection using two-stage scoring.
+Facial makeup detection via selected gradient orientation of entropy information.
+Interpreting sports tactic based on latent context-free grammar.
+Image segmentation using clique based shape prior and the Mumford Shah Functional.
+Rank-aware graph fusion with contextual dissimilarity measurement for image retrieval.
+Disc segmentation and BMO-MRW measurement from SD-OCT image using graph search and tracing of three bench mark reference layers of retina.
+LASP: Local adaptive super-pixels.
+Recovering background regions in videos of cluttered urban scenes.
+Rotate intra block copy for still image coding.
+Action recognition using joint coordinates of 3D skeleton data.
+Modelling local deep convolutional neural network features to improve fine-grained image classification.
+Reduced-reference quality assessment based on the entropy of DNT coefficients of locally weighted gradients.
+Seamless switching of H.265/HEVC-coded dash representations with open GOP prediction structure.
+Building change detection based on 3D reconstruction.
+Robust contrast enhancement of noisy low-light images: Denoising-enhancement-completion.
+Objectness estimation using edges.
+Epitomic image factorization via neighbor-embedding.
+Using the unity® game engine as a platform for advanced real time cinema image processing.
+Computational 3D reconstruction of FAR and big size objects using synthetic apeture integral imaging.
+Ultrasound median nerve localization by classification based on despeckle filtering and feature selection.
+Depth from accidental motion using geometry prior.
+Multiple exposure integration for restoring all in-focus images.
+Path vs. destination: A case study of blind noise assessment using modified ant shortest path.
+An Augmented Lagrangian Method for image reconstruction with multiple features.
+Accurate scale estimation based on unsynchronized camera network.
+The measurement of cell viability based on temporal bag of words for image sequences.
+Application of image processing techniques for frog call classification.
+A location-aware scale-space method for salient object detection.
+A curvelet-based distance measure for seismic images.
+Single-shot fourier transform multispectroscopy.
+Fast aircraft detection in satellite images based on convolutional neural networks.
+Fast tracking via context depth model learning.
+Motion retrieval using consistency of epipolar geometry.
+An algorithm based on LBPV and MIL for left atrial thrombi detection using transesophageal echocardiography.
+Image colorization via color propagation and rank minimization.
+Fast single image dehazing with domain transformation-based edge-preserving filter and weighted quadtree subdivision.
+Towards privacy-preserving recognition of human activities.
+Quality control in crowdsourced object segmentation.
+Construction of a bird image dataset for ecological investigations.
+Reranking of person re-identification by manifold-based approach.
+Dictionary learning based superpixels clustering for weakly-supervised semantic segmentation.
+Active image pair selection for continuous person re-identification.
+Image super-resolution from compressed sensing observations.
+An estimation-theoretic approach to video denoiseing.
+Optical coherence tomography image segmentation.
+A layered method for determining manga text bubble reading order.
+Non-parametric Ensemble Kalman methods for the inpainting of noisy dynamic textures.
+Sampling piecewise smooth signals and its application to image up-sampling.
+A complexity-based adaptive tile partitioning algorithm for HEVC decoder parallelization.
+Face detection and landmark localization using Bilayer Tree Structured Model.
+Optimized lifting schemes based on ENO stencils for image approximation.
+Local sensing with global recovery.
+Chromatic calibration of an HDR display using 3D octree forests.
+SVM with OpenCL: High performance implementation of support vector machines on heterogeneous systems.
+Segmentation of infant brain MR images based on adaptive shape prior and higher-order MGRF.
+Superpixel-based depth map inpainting for RGB-D view synthesis.
+On the role of non-local Menger curvature in image processing.
+Exemplar based metric learning for robust visual localization.
+Learning the discriminative dictionary for sparse representation by a general fisher regularized model.
+Multi-resolution compressed sensing reconstruction via approximate message passing.
+Detecting specular highlights in dermatological images.
+Predicting audio-visual salient events based on visual, audio and text modalities for movie summarization.
+Face de-identification with expressions preservation.
+Motion estimation via hierarchical block matching and graph cut.
+Improved raindrop detection using combined shape and saliency descriptors with scene context isolation.
+Fast object instance search in videos from one example.
+Template-based statistical shape modelling on deformation space.
+Ranked k-means clustering for terahertz image segmentation.
+Multi-class weather classification on single images.
+Transforms for intra prediction residuals based on prediction inaccuracy modeling.
+PMPA: A patch-based multiscale products algorithm for image denoising.
+A low-power 490 mpixels/s hardware accelerator for pyramidal decomposition of images.
+Texture characterization via improved deterministic walks on image-generated complex network.
+Activity recognition with volume motion templates and histograms of 3D gradients.
+A non-parametric CFAR detector based on SAR sea clutter statistical modeling.
+Object recognition with top-down visual attention modeling for behavioral studies.
+Data rate and dynamic range compression of medical images: Which one goes first?
+A level set-based framework for 3D kidney segmentation from diffusion MR images.
+Angle constrained path for clustering of multiple manifolds.
+Utilizing image-based features in biomedical document classification.
+Detect coherent motions in crowd scenes based on tracklets association.
+Searching for nearest neighbors with a dense space partitioning.
+Precise eye localization with improved SDM.
+Transductive video co-segmentation on the temporal trees.
+Effect of camera-IMU displacement calibration error on tracking performance.
+Salient object detection via objectness measure.
+In-network view re-sampling for interactive free viewpoint video streaming.
+Learning deep features for image emotion classification.
+Beating cilia identification in fluorescence microscope images for accurate CBF measurement.
+A fairness-aware smooth rate adaptation approach for dynamic HTTP streaming.
+Dictionary learning for a sparse appearance model in visual tracking.
+Laplace-Beltrami spectra for shape comparison of surfaces in 3D using the closest point method.
+Superpixel based patch match for differently exposed images with moving objects and camera movements.
+Feature extraction from bilateral dissimilarity in digital breast tomosynthesis reconstructed volume.
+Low-rank tensor decomposition based anomaly detection for hyperspectral imagery.
+Background subtraction for static & moving camera.
+High-order information for robust iris recognition under less controlled conditions.
+The use of deep learning features in a hierarchical classifier learned with the minimization of a non-greedy loss function that delays gratification.
+Combat sports analytics: Boxing punch classification using overhead depthimagery.
+Learning space-time dictionaries for blind compressed sensing dynamic MRI reconstruction.
+Simultaneous extraction of two adjacent bony structures in x-ray images: Application to hip joint segmentation.
+Real time railway extraction by angle alignment measure.
+Denoising-based image reconstruction from pixels located at non-integer positions.
+Ask the dictionary: Soft-assignment location-orientation pooling for image classification.
+Highcapacity data-hiding for 3D meshes based on static arithmetic coding.
+Colorto grayscale image conversion using modulation domain quadratic programming.
+Detection of pedestrian crossing road.
+Generatinga 3D hand model from frontal color and range scans.
+Weighted sparse representation using a learned distance metric for face recognition.
+Multi-temporal foreground detection in videos.
+Lossless screen content coding in HEVC based on sample-wise median and edge prediction.
+Saliency cuts based on adaptive triple thresholding.
+Histogram of gradient magnitudes: A rotation invariant texture-descriptor.
+Fine-structured object segmentation via local and nonlocal neighborhood propagation.
+Head pose estimation via probabilistic high-dimensional regression.
+Hierarchical multi-VLAD for image retrieval.
+Rank analysis of a light field for dual-layer 3D displays.
+Group saliency propagation for large scale and quick image co-segmentation.
+Parameter tuning of CLAHE based on multi-objective optimization to achieve different contrast levels in medical images.
+A spatial class LDA model for classification of sports scene images.
+Graph regularized low-rank matrix recovery for robust person re-identification.
+Non-local/local image filters using fast eigenvalue filtering.
+Active shape model unleashed with multi-scale local appearance.
+CANNET: Context aware nonlocal convolutional networks for semantic image segmentation.
+SDM-BSM: A fusing depth scheme for human action recognition.
+Adaptive exposure fusion for high dynamic range imaging.
+Recovering size and shape of polyp from endoscope image by RBF-NN modification.
+Identifying epileptic seizures based on a template-based eyeball detection technique.
+The embeddability of lane detection algorithms on heterogeneous architectures.
+Class noise removal and correction for image classification using ensemble margin.
+High dynamic range content calibration for accurate acquisition and display.
+On the utility of canonical correlation analysis for domain adaptation in multi-view headpose estimation.
+Towards reduction of the training and search running time complexities for non-rigid object segmentation.
+Improving calibration of thermal stereo cameras using heated calibration board.
+Using line consistency to estimate 3D indoor Manhattan scene layout from a single image.
+Helicobacter pylori infection detection from multiple x-ray images based on combination use of support vector machine and multiple kernel learning.
+Lenselet image compression scheme based on subaperture images streaming.
+NSLIC: SLIC superpixels based on nonstationarity measure.
+UHD image reconstruction by estimating interpolation error.
+Optimal transport using Helmholtz-Hodge decomposition and first-order primal-dual algorithms.
+Learning-based depth estimation from 2D images using GIST and saliency.
+Feature regions based on graph optimization for robust reversible watermarking.
+Low-cost license plate detection using a calibrated camera.
+Gradient-domain image decomposition for image recovery.
+Indexing fingerprint database with minutiae based coaxial Gaussian track code and quantized lookup table.
+Pseudo four-channel image denoising for noisy CFA raw data.
+Real-time human body parts localization from dynamic vision sensor.
+Myocardium segmentation on 3D spect images.
+In-air handwritten Chinese character recognition using multi-stage classifier based on adaptive discriminative locality alignment.
+Sentiment analysis of Chinese micro-blog based on multi-modal correlation model.
+T-clustering: Image clustering by tensor decomposition.
+Ground-based cloud image categorization using deep convolutional visual features.
+Automatic detection of bone marrow infiltration by multiple myeloma detection in low-dose CT.
+Efficient 2×2 block-based connected components labeling algorithms.
+Locally controlled regularized spatiotemporal anisotropic diffusion.
+Spatial matching of sketches without point correspondence.
+Multi-modal big-data management for film production.
+Detection of diabetic retinopathy and age-related macular degeneration from fundus images through local binary patterns and random forests.
+Evaluating the effects of image compression in Moiré-pattern-based face-spoofing detection.
+HEVC inverse transform architecture utilizing coefficient sparsity.
+Hybrid key: An automatic tool for real-time high quality chroma keying.
+Fast 2D and 3D image processing with OpenCL.
+Efficient background subtraction with low-rank and sparse matrix decomposition.
+Block dependent dictionary based disparity compensation for stereo image coding.
+Salience based hierarchical fuzzy representation for object recognition.
+Color-coded pattern for non metric camera calibration.
+Blind multiply distorted image quality assessment using relevant perceptual features.
+Integrability-regularized phase unwrapping via sparse error correction.
+Parameter estimation for LP regularized image deconvolution.
+Robust and fast moving object detection in a non-stationary camera via foreground probability based sampling.
+Class-specific sparse codes for representing activities.
+Asymptotic closed-loop design for transform domain temporal prediction.
+Robust laser stripe extraction using ridge segmentation and region ranking for 3D reconstruction of reflective and uneven surface.
+A dual block coordinate proximal algorithm with application to deconvolution of interlaced video sequences.
+Face attribute classification using attribute-aware correlation map and gated convolutional neural networks.
+Improved 3D sparse maps for high-performance SFM with low-cost omnidirectional robots.
+A bag-of-features approach for malignancy detection in breast histopathology images.
+Contextual object tracker with structure encoding.
+Robust visual tracking via discriminative sequential ranking.
+Saliency weighted quality assessment of tone-mapped images.
+Single underwater image enhancement using depth estimation based on blurriness.
+Multivariate optimization for multifractal-based texture segmentation.
+Complex modulation computer-generated hologram by a fast hybrid point-source/wave-field approach.
+Dynamic texture and geometry features for facial expression recognition in video.
+Fast CU partition decision using machine learning for screen content compression.
+RST-invariant sketch retrieval based on circular description.
+Focal length change compensation for monocular slam.
+Search and retrieval of multi-modal data associated with image-parts.

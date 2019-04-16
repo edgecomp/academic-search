@@ -1,0 +1,86 @@
+Approximating ATSP by Relaxing Connectivity.
+Effective-Resistance-Reducing Flows, Spectrally Thin Trees, and Asymmetric TSP.
+Compressing and Teaching for Low VC-Dimension.
+On Monotonicity Testing and Boolean Isoperimetric Type Theorems.
+Tight Hardness Results for LCS and Other Sequence Similarity Measures.
+Quadratic Conditional Lower Bounds for String Problems and Dynamic Time Warping.
+If the Current Clique Algorithms are Optimal, So is Valiant's Parser.
+Language Edit Distance and Maximum Likelihood Parsing of Stochastic Grammars: Faster Algorithms and Connection to Fundamental Graph Problems.
+Probabilistic Polynomials and Hamming Nearest Neighbors.
+Indistinguishability Obfuscation from the Multilinear Subgroup Elimination Assumption.
+Indistinguishability Obfuscation from Functional Encryption.
+Limits on the Power of Indistinguishability Obfuscation and Functional Encryption.
+Black-Box Garbled RAM.
+Efficient Inverse Maintenance and Faster Algorithms for Linear Programming.
+Constructing Linear-Sized Spectral Sparsification in Almost-Linear Time.
+Guaranteed Matrix Completion via Nonconvex Factorization.
+Heavy-Tailed Independent Component Analysis.
+Input Sparsity and Hardness for Robust Subspace Approximation.
+The Minimum Principle of SINR: A Useful Discretization Tool for Wireless Communication.
+Enabling Robust and Efficient Distributed Computation in Dynamic Peer-to-Peer Networks.
+Planar Reachability in Linear Space and Constant Time.
+Towards an Optimal Method for Dynamic Planar Point Location.
+Pattern-Avoiding Access in Binary Search Trees.
+The Average Sensitivity of Bounded-Depth Formulas.
+The Power of Asymmetry in Constant-Depth Circuits.
+Deterministic Divisibility Testing via Shifted Partial Derivatives.
+Hardness of Approximation in PSPACE and Separation Results for Pebble Games.
+The Submodular Secretary Problem Goes Linear.
+Competitive Flow Time Algorithms for Polyhedral Scheduling.
+Tight Bounds for Online Vector Scheduling.
+Online Buy-at-Bulk Network Design.
+Solving the Closest Vector Problem in 2^n Time - The Discrete Gaussian Strikes Again!
+A Robust Sparse Fourier Transform in the Continuous Setting.
+Breaking the Variance: Approximating the Hamming Distance in 1/ε Time Per Alignment.
+Approximately Counting Triangles in Sublinear Time.
+Differentially Private Release and Learning of Threshold Functions.
+Robust Traceability from Trace Amounts.
+Community Detection in General Stochastic Block models: Fundamental Limits and Efficient Algorithms for Recovery.
+How to Refute a Random CSP.
+An O(1)-Approximation for Minimum Spanning Tree Interdiction.
+Reality Distortion: Exact and Approximate Algorithms for Embedding into the Line.
+Polylogarithmic Approximations for the Capacitated Single-Sink Confluent Flow Problem.
+A Light Metric Spanner.
+Near-Optimal Bounds on Bounded-Round Quantum Communication Complexity of Disjointness.
+Hamiltonian Simulation with Nearly Optimal Dependence on all Parameters.
+Quantum Expander Codes.
+Robust Testing of Lifted Codes with Applications to Low-Degree Testing.
+Local Correlation Breakers and Applications to Three-Source Extractors and Mergers.
+Three-Source Extractors for Polylogarithmic Min-Entropy.
+Beyond the Central Limit theorem: Asymptotic Expansions and Pseudorandomness for Combinatorial Sums.
+Pseudorandomness via the Discrete Fourier Transform.
+Tight Bounds on Low-Degree Spectral Concentration of Submodular and XOS Functions.
+Equivalence of Deterministic Top-Down Tree-to-String Transducers is Decidable.
+FO Model Checking on Posets of Bounded Width.
+Satisfiability of Ordering CSPs above Average is Fixed-Parameter Tractable.
+Parameterizing the Permanent: Genus, Apices, Minors, Evaluation Mod 2k.
+Isomorphism Testing for Graphs of Bounded Rank Width.
+An Average-Case Depth Hierarchy Theorem for Boolean Circuits.
+A Faster Cutting Plane Method and its Implications for Combinatorial and Convex Optimization.
+Lower Bounds for Clique vs. Independent Set.
+Deterministic Communication vs. Partition Number.
+New Unconditional Hardness Results for Dynamic and Online Problems.
+Tight Hardness of the Non-commutative Grothendieck Problem.
+No Small Linear Program Approximates Vertex Cover within a Factor 2 - e.
+Approximate Modularity.
+Trading Query Complexity for Sample-Based Testing and Multi-testing Scalability.
+Optimal Algorithms and Lower Bounds for Testing Closeness of Structured Distributions.
+On the Structure, Covering, and Learning of Poisson Multinomial Distributions.
+Uniform Generation of Random Regular Graphs.
+Symbolic Integration and the Complexity of Computing Averages.
+The Complexity of General-Valued CSPs.
+A Holant Dichotomy: Is the FKT Algorithm Universal?
+Sample (x) = (a*x<=t) is a Distinguisher with Probability 1/8.
+Hashing for Statistics over K-Partitions.
+Optimal Induced Universal Graphs and Adjacency Labeling for Trees.
+An Algorithmic Proof of the Lovasz Local Lemma via Resampling Oracles.
+Non-backtracking Spectrum of Random Graphs: Community Detection and Non-regular Ramanujan Graphs.
+Interlacing Families IV: Bipartite Ramanujan Graphs of All Sizes.
+Incidences between Points and Lines in R^4.
+Talagrand's Convolution Conjecture on Gaussian Space.
+Random Matrices: l1 Concentration and Dictionary Learning with Few Samples.
+Mixture Selection, Mechanism Design, and Signaling.
+Optimal Auctions vs. Anonymous Pricing.
+On the Complexity of Optimal Lottery Pricing and Randomized Mechanisms.
+On the Cryptographic Hardness of Finding a Nash Equilibrium.
+Welfare Maximization with Limited Interaction.

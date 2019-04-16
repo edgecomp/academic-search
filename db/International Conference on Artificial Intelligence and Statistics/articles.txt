@@ -1,0 +1,254 @@
+Preface.
+Nonparametric Bayesian Factor Analysis for Dynamic Count Matrices.
+Parameter Estimation of Generalized Linear Models without Assuming their Link Function.
+Spectral Gap Error Bounds for Improving CUR Matrix Decomposition and the Nyström Method.
+Global Multi-armed Bandits with Hölder Continuity.
+Efficient Sparse Clustering of High-Dimensional Non-spherical Gaussian Mixtures.
+Unifying Local Consistency and MAX SAT Relaxations for Scalable Inference with Rounding Guarantees.
+Near-optimal max-affine estimators for convex regression.
+Convex Multi-Task Learning by Clustering.
+Gaussian Processes for Bayesian hypothesis tests on regression functions.
+Sparse Solutions to Nonnegative Linear Systems and Applications.
+Generalized Linear Models for Aggregated Data.
+Accurate and conservative estimates of MRF log-likelihood using reverse annealing.
+Stochastic Spectral Descent for Restricted Boltzmann Machines.
+Implementable confidence sets in high dimensional regression.
+Online Ranking with Top-1 Feedback.
+One-bit Compressed Sensing with the k-Support Norm.
+Efficient Second-Order Gradient Boosting for Conditional Random Fields.
+Filtered Search for Submodular Maximization with Controllable Approximation Bounds.
+Predictive Inverse Optimal Control for Linear-Quadratic-Gaussian Systems.
+Exact Bayesian Learning of Ancestor Relations in Bayesian Networks.
+Model Selection for Topic Models via Spectral Decomposition.
+The Loss Surfaces of Multilayer Networks.
+Averaged Least-Mean-Squares: Bias-Variance Trade-offs and Optimal Sampling Distributions.
+A Topic Modeling Approach to Ranking.
+A totally unimodular view of structured sparsity.
+Back to the Past: Source Identification in Diffusion Networks from Partially Observed Cascades.
+Graph Approximation and Clustering on a Budget.
+A Sufficient Statistics Construction of Exponential Family Levy Measure Densities for Nonparametric Conjugate Models.
+Computational Complexity of Linear Large Margin Classification With Ramp Loss.
+Learning Deep Sigmoid Belief Networks with Data Augmentation.
+Efficient Estimation of Mutual Information for Strongly Dependent Variables.
+On Anomaly Ranking and Excess-Mass Curves.
+Modeling Skill Acquisition Over Time with Sequence and Topic Modeling.
+Consistent Collective Matrix Completion under Joint Low Rank Structure.
+The Bayesian Echo Chamber: Modeling Social Influence via Linguistic Accommodation.
+Preserving Privacy of Continuous High-dimensional Data with Minimax Filters.
+A Consistent Method for Graph Based Anomaly Localization.
+Metric recovery from directed unweighted graphs.
+Scalable Variational Gaussian Process Classification.
+Stochastic Structured Variational Inference.
+Reliable and Scalable Variational Inference for the Hierarchical Dirichlet Process.
+Cross-domain recommendation without shared users or items by sharing latent vector distributions.
+Submodular Point Processes with Applications to Machine learning.
+Online Optimization : Competing with Dynamic Comparators.
+Estimating the accuracies of multiple classifiers without labeled data.
+Sparse Dueling Bandits.
+Consensus Message Passing for Layered Graphical Models.
+Robust Cost Sensitive Support Vector Machine.
+On Approximate Non-submodular Minimization via Tree-Structured Supermodularity.
+Sparse Submodular Probabilistic PCA.
+Latent feature regression for multivariate count data.
+Dimensionality estimation without distances.
+A Bayes consistent 1-NN classifier.
+DART: Dropouts meet Multiple Additive Regression Trees.
+On Estimating L22 Divergence.
+Tensor Factorization via Matrix Factorization.
+Low-Rank Spectral Learning with Weighted Loss Functions.
+Symmetric Iterative Proportional Fitting.
+Tight Regret Bounds for Stochastic Combinatorial Semi-Bandits.
+Sequential Kernel Herding: Frank-Wolfe Optimization for Particle Filtering.
+Particle Gibbs for Bayesian Additive Regression Trees.
+Deeply-Supervised Nets.
+Preferential Attachment in Graphs with Affinities.
+Bayesian Hierarchical Clustering with Exponential Family: Small-Variance Asymptotics and Reducibility.
+Modelling Policies in MDPs in Reproducing Kernel Hilbert Space.
+Scalable Optimization of Randomized Operational Decisions in Adversarial Classification Settings.
+Toward Minimax Off-policy Value Estimation.
+Compressed Sensing with Very Sparse Gaussian Random Projections.
+Max-Margin Zero-Shot Learning for Multi-class Classification.
+Conditional Restricted Boltzmann Machines for Multi-label Learning with Incomplete Labels.
+Sparsistency of 1-Regularized M-Estimators.
+Similarity Learning for High-Dimensional Sparse Data.
+Tradeoffs for Space, Time, Data and Risk in Unsupervised Learning.
+Active Pointillistic Pattern Search.
+The Security of Latent Dirichlet Allocation.
+A Spectral Algorithm for Inference in Hidden semi-Markov Models.
+Efficient Training of Structured SVMs via Soft Constraints.
+Variance Reduction via Antithetic Markov Chains.
+Fast Function to Function Regression.
+Reactive bandits with attitude.
+Feature Selection for Linear SVM with Provable Guarantees.
+On Theoretical Properties of Sum-Product Networks.
+Robust sketching for multiple square-root LASSO problems.
+Deep Exponential Families.
+On the High Dimensional Power of a Linear-Time Two Sample Test under Mean-shift Alternatives.
+A Scalable Algorithm for Structured Kernel Feature Selection.
+Learning Efficient Anomaly Detectors from K-NN Graphs.
+Gamma Processes, Stick-Breaking, and Variational Inference.
+Direct Density-Derivative Estimation and Its Application in KL-Divergence Approximation.
+Non-Uniform Stochastic Average Gradient Method for Training Conditional Random Fields.
+Sensor Selection for Crowdsensing Dynamical Systems.
+A Rate of Convergence for Mixture Proportion Estimation, with Application to Learning from Noisy Labels.
+Inference of Cause and Effect with Unsupervised Inverse Regression.
+Estimation from Pairwise Comparisons: Sharp Minimax Bounds with Topology Dependence.
+Exploiting Symmetries to Construct Efficient MCMC Algorithms With an Application to SLAM.
+Learning Where to Sample in Structured Prediction.
+State Space Methods for Efficient Inference in Student-t Process Regression.
+Learning from Data with Heterogeneous Noise using SGD.
+Data modeling with the elliptical gamma distribution.
+WASP: Scalable Bayes via barycenters of subset posteriors.
+Calibration of conditional composite likelihood for Bayesian inference on Gibbs random fields.
+A Dirichlet Process Mixture Model for Spherical Data.
+Inferring Block Structure of Graphical Models in Exponential Families.
+Two-stage sampled learning theory on distributions.
+Predicting Preference Reversals via Gaussian Process Uncertainty Aversion.
+Streaming Variational Inference for Bayesian Nonparametric Mixture Models.
+Missing at Random in Graphical Models.
+Particle Gibbs with Ancestor Sampling for Probabilistic Programs.
+Learning of Non-Parametric Control Policies with High-Dimensional State Features.
+Maximally Informative Hierarchical Representations of High-Dimensional Data.
+Falling Rule Lists.
+Multi-Manifold Modeling in Non-Euclidean spaces.
+Column Subset Selection with Missing Data via Active Sampling.
+Trend Filtering on Graphs.
+A Greedy Homotopy Method for Regression with Nonconvex Constraints.
+Revisiting the Limits of MAP Inference by MWSS on Perfect Graphs.
+Understanding and Evaluating Sparse Linear Discriminant Analysis.
+Stochastic Block Transition Models for Dynamic Networks.
+Majorization-Minimization for Manifold Embedding.
+A la Carte - Learning Fast Kernels.
+Minimizing Nonconvex Non-Separable Functions.
+A Simple Homotopy Algorithm for Compressive Sensing.
+Scalable Nonparametric Multiway Data Analysis.
+Infinite Edge Partition Models for Overlapping Community Detection and Link Prediction.
+Power-Law Graph Cuts.
+The Log-Shift Penalty for Adaptive Estimation of Multiple Gaussian Graphical Models.
+Preface.
+Nonparametric Bayesian Factor Analysis for Dynamic Count Matrices.
+Parameter Estimation of Generalized Linear Models without Assuming their Link Function.
+Spectral Gap Error Bounds for Improving CUR Matrix Decomposition and the Nyström Method.
+Global Multi-armed Bandits with Hölder Continuity.
+Efficient Sparse Clustering of High-Dimensional Non-spherical Gaussian Mixtures.
+Unifying Local Consistency and MAX SAT Relaxations for Scalable Inference with Rounding Guarantees.
+Near-optimal max-affine estimators for convex regression.
+Convex Multi-Task Learning by Clustering.
+Gaussian Processes for Bayesian hypothesis tests on regression functions.
+Sparse Solutions to Nonnegative Linear Systems and Applications.
+Generalized Linear Models for Aggregated Data.
+Accurate and conservative estimates of MRF log-likelihood using reverse annealing.
+Stochastic Spectral Descent for Restricted Boltzmann Machines.
+Implementable confidence sets in high dimensional regression.
+Online Ranking with Top-1 Feedback.
+One-bit Compressed Sensing with the k-Support Norm.
+Efficient Second-Order Gradient Boosting for Conditional Random Fields.
+Filtered Search for Submodular Maximization with Controllable Approximation Bounds.
+Predictive Inverse Optimal Control for Linear-Quadratic-Gaussian Systems.
+Exact Bayesian Learning of Ancestor Relations in Bayesian Networks.
+Model Selection for Topic Models via Spectral Decomposition.
+The Loss Surfaces of Multilayer Networks.
+Averaged Least-Mean-Squares: Bias-Variance Trade-offs and Optimal Sampling Distributions.
+A Topic Modeling Approach to Ranking.
+A totally unimodular view of structured sparsity.
+Back to the Past: Source Identification in Diffusion Networks from Partially Observed Cascades.
+Graph Approximation and Clustering on a Budget.
+A Sufficient Statistics Construction of Exponential Family Levy Measure Densities for Nonparametric Conjugate Models.
+Computational Complexity of Linear Large Margin Classification With Ramp Loss.
+Learning Deep Sigmoid Belief Networks with Data Augmentation.
+Efficient Estimation of Mutual Information for Strongly Dependent Variables.
+On Anomaly Ranking and Excess-Mass Curves.
+Modeling Skill Acquisition Over Time with Sequence and Topic Modeling.
+Consistent Collective Matrix Completion under Joint Low Rank Structure.
+The Bayesian Echo Chamber: Modeling Social Influence via Linguistic Accommodation.
+Preserving Privacy of Continuous High-dimensional Data with Minimax Filters.
+A Consistent Method for Graph Based Anomaly Localization.
+Metric recovery from directed unweighted graphs.
+Scalable Variational Gaussian Process Classification.
+Stochastic Structured Variational Inference.
+Reliable and Scalable Variational Inference for the Hierarchical Dirichlet Process.
+Cross-domain recommendation without shared users or items by sharing latent vector distributions.
+Submodular Point Processes with Applications to Machine learning.
+Online Optimization : Competing with Dynamic Comparators.
+Estimating the accuracies of multiple classifiers without labeled data.
+Sparse Dueling Bandits.
+Consensus Message Passing for Layered Graphical Models.
+Robust Cost Sensitive Support Vector Machine.
+On Approximate Non-submodular Minimization via Tree-Structured Supermodularity.
+Sparse Submodular Probabilistic PCA.
+Latent feature regression for multivariate count data.
+Dimensionality estimation without distances.
+A Bayes consistent 1-NN classifier.
+DART: Dropouts meet Multiple Additive Regression Trees.
+On Estimating L22 Divergence.
+Tensor Factorization via Matrix Factorization.
+Low-Rank Spectral Learning with Weighted Loss Functions.
+Symmetric Iterative Proportional Fitting.
+Tight Regret Bounds for Stochastic Combinatorial Semi-Bandits.
+Sequential Kernel Herding: Frank-Wolfe Optimization for Particle Filtering.
+Particle Gibbs for Bayesian Additive Regression Trees.
+Deeply-Supervised Nets.
+Preferential Attachment in Graphs with Affinities.
+Bayesian Hierarchical Clustering with Exponential Family: Small-Variance Asymptotics and Reducibility.
+Modelling Policies in MDPs in Reproducing Kernel Hilbert Space.
+Scalable Optimization of Randomized Operational Decisions in Adversarial Classification Settings.
+Toward Minimax Off-policy Value Estimation.
+Compressed Sensing with Very Sparse Gaussian Random Projections.
+Max-Margin Zero-Shot Learning for Multi-class Classification.
+Conditional Restricted Boltzmann Machines for Multi-label Learning with Incomplete Labels.
+Sparsistency of 1-Regularized M-Estimators.
+Similarity Learning for High-Dimensional Sparse Data.
+Tradeoffs for Space, Time, Data and Risk in Unsupervised Learning.
+Active Pointillistic Pattern Search.
+The Security of Latent Dirichlet Allocation.
+A Spectral Algorithm for Inference in Hidden semi-Markov Models.
+Efficient Training of Structured SVMs via Soft Constraints.
+Variance Reduction via Antithetic Markov Chains.
+Fast Function to Function Regression.
+Reactive bandits with attitude.
+Feature Selection for Linear SVM with Provable Guarantees.
+On Theoretical Properties of Sum-Product Networks.
+Robust sketching for multiple square-root LASSO problems.
+Deep Exponential Families.
+On the High Dimensional Power of a Linear-Time Two Sample Test under Mean-shift Alternatives.
+A Scalable Algorithm for Structured Kernel Feature Selection.
+Learning Efficient Anomaly Detectors from K-NN Graphs.
+Gamma Processes, Stick-Breaking, and Variational Inference.
+Direct Density-Derivative Estimation and Its Application in KL-Divergence Approximation.
+Non-Uniform Stochastic Average Gradient Method for Training Conditional Random Fields.
+Sensor Selection for Crowdsensing Dynamical Systems.
+A Rate of Convergence for Mixture Proportion Estimation, with Application to Learning from Noisy Labels.
+Inference of Cause and Effect with Unsupervised Inverse Regression.
+Estimation from Pairwise Comparisons: Sharp Minimax Bounds with Topology Dependence.
+Exploiting Symmetries to Construct Efficient MCMC Algorithms With an Application to SLAM.
+Learning Where to Sample in Structured Prediction.
+State Space Methods for Efficient Inference in Student-t Process Regression.
+Learning from Data with Heterogeneous Noise using SGD.
+Data modeling with the elliptical gamma distribution.
+WASP: Scalable Bayes via barycenters of subset posteriors.
+Calibration of conditional composite likelihood for Bayesian inference on Gibbs random fields.
+A Dirichlet Process Mixture Model for Spherical Data.
+Inferring Block Structure of Graphical Models in Exponential Families.
+Two-stage sampled learning theory on distributions.
+Predicting Preference Reversals via Gaussian Process Uncertainty Aversion.
+Streaming Variational Inference for Bayesian Nonparametric Mixture Models.
+Missing at Random in Graphical Models.
+Particle Gibbs with Ancestor Sampling for Probabilistic Programs.
+Learning of Non-Parametric Control Policies with High-Dimensional State Features.
+Maximally Informative Hierarchical Representations of High-Dimensional Data.
+Falling Rule Lists.
+Multi-Manifold Modeling in Non-Euclidean spaces.
+Column Subset Selection with Missing Data via Active Sampling.
+Trend Filtering on Graphs.
+A Greedy Homotopy Method for Regression with Nonconvex Constraints.
+Revisiting the Limits of MAP Inference by MWSS on Perfect Graphs.
+Understanding and Evaluating Sparse Linear Discriminant Analysis.
+Stochastic Block Transition Models for Dynamic Networks.
+Majorization-Minimization for Manifold Embedding.
+A la Carte - Learning Fast Kernels.
+Minimizing Nonconvex Non-Separable Functions.
+A Simple Homotopy Algorithm for Compressive Sensing.
+Scalable Nonparametric Multiway Data Analysis.
+Infinite Edge Partition Models for Overlapping Community Detection and Link Prediction.
+Power-Law Graph Cuts.
+The Log-Shift Penalty for Adaptive Estimation of Multiple Gaussian Graphical Models.

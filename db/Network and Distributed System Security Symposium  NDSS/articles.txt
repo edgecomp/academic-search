@@ -1,0 +1,50 @@
+Identifying Cross-origin Resource Status Using Application Cache.
+Parking Sensors: Analyzing and Detecting Parked Domains.
+Seven Months' Worth of Mistakes: A Longitudinal Study of Typosquatting Abuse.
+Upgrading HTTPS in mid-air: An empirical study of strict transport security and key pinning.
+I Do Not Know What You Visited Last Summer: Protecting users from stateful third-party web tracking with TrackingFree browser.
+Information Flow Analysis of Android Applications in DroidSafe.
+What's in Your Dongle and Bank Account? Mandatory and Discretionary Protection of Android External Resources.
+EdgeMiner: Automatically Detecting Implicit Control Flow Transitions through the Android Framework.
+CopperDroid: Automatic Reconstruction of Android Malware Behaviors.
+DeepDroid: Dynamically Enforcing Enterprise Policy on Android Devices.
+VTint: Protecting Virtual Function Tables' Integrity.
+Phoneypot: Data-driven Understanding of Telephony Threats.
+SeCReT: Secure Channel between Rich Execution Environment and Trusted Execution Environment.
+FreeSentry: protecting against use-after-free vulnerabilities due to dangling pointers.
+EKHunter: A Counter-Offensive Toolkit for Exploit Kit Infiltration.
+Machine Learning Classification over Encrypted Data.
+Gracewipe: Secure and Verifiable Deletion under Coercion.
+Privacy Preserving Payments in Credit Networks: Enabling trust with privacy in online marketplaces.
+Checking More and Alerting Less: Detecting Privacy Leakages via Enhanced Data-flow Analysis and Peer Voting.
+DEFY: A Deniable, Encrypted File System for Log-Structured Storage.
+Preventing Use-after-free with Dangling Pointers Nullification.
+StackArmor: Comprehensive Protection From Stack-based Memory Error Vulnerabilities for Binaries.
+Isomeron: Code Randomization Resilient to (Just-In-Time) Return-Oriented Programming.
+Thwarting Cache Side-Channel Attacks Through Dynamic Software Diversity.
+Principled Sampling for Anomaly Detection.
+Integrated Circuit (IC) Decamouflaging: Reverse Engineering Camouflaged ICs within Minutes.
+Opaque Control-Flow Integrity.
+Bloom Cookies: Web Search Personalization without User Tracking.
+NSEC5: Provably Preventing DNSSEC Zone Enumeration.
+Predicting Users' Motivations behind Location Check-Ins and Utility Implications of Privacy Protection Mechanisms.
+On Your Social Network De-anonymizablity: Quantification and Large Scale Evaluation with Seed Knowledge.
+Efficient RAM and control flow in verifiable outsourced computation.
+Integro: Leveraging Victim Prediction for Robust Fake Account Detection in OSNs.
+Spaced Repetition and Mnemonics Enable Recall of Multiple Strong Passwords.
+ABY - A Framework for Efficient Mixed-Protocol Secure Two-Party Computation.
+Preventing Lunchtime Attacks: Fighting Insider Threats With Eye Movement Biometrics.
+Knock Yourself Out: Secure Authentication with Short Re-Usable Passwords.
+Verified Contributive Channel Bindings for Compound Authentication.
+The Devil is in the Constants: Bypassing Defenses in Browser JIT Engines.
+Exploiting and Protecting Dynamic Code Generation.
+Too LeJIT to Quit: Extending JIT Spraying to ARM.
+Run-time Monitoring and Formal Analysis of Information Flows in Chromium.
+Mind Your Blocks: On the Stealthiness of Malicious BGP Hijacks.
+SPHINX: Detecting Security Attacks in Software-Defined Networks.
+Securing the Software Defined Network Control Layer.
+Poisoning Network Visibility in Software-Defined Networks: New Attacks and Countermeasures.
+Firmalice - Automatic Detection of Authentication Bypass Vulnerabilities in Binary Firmware.
+vfGuard: Strict Protection for Virtual Function Calls in COTS C++ Binaries.
+P2C: Understanding Output Data Files via On-the-Fly Transformation from Producer to Consumer Executions.
+No More Gotos: Decompilation Using Pattern-Independent Control-Flow Structuring and Semantic-Preserving Transformations.

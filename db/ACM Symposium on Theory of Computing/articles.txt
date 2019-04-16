@@ -1,0 +1,93 @@
+Approximate Distance Oracles with Improved Bounds.
+The Power of Dynamic Distance Oracles: Efficient Dynamic Algorithms for the Steiner Tree.
+Unifying and Strengthening Hardness for Dynamic Problems via the Online Matrix-Vector Multiplication Conjecture.
+Clustered Integer 3SUM via Additive Combinatorics.
+Matching Triangles and Basing Hardness on an Extremely Popular Conjecture.
+Edit Distance Cannot Be Computed in Strongly Subquadratic Time (unless SETH is false).
+Proof of the Satisfiability Conjecture for Large k.
+Consistency Thresholds for the Planted Bisection Model.
+On the Complexity of Random Satisfiability Problems with Planted Solutions.
+Sum-of-squares Lower Bounds for Planted Clique.
+Sum of Squares Lower Bounds from Pairwise Independence.
+Inapproximability of Combinatorial Problems via Small LPs and SDPs.
+Preserving Statistical Validity in Adaptive Data Analysis.
+Local, Private, Efficient Protocols for Succinct Histograms.
+Improved Noisy Population Recovery, and Reverse Bonami-Beckner Inequality for Sparse Functions.
+Dictionary Learning and Tensor Decomposition via the Sum-of-Squares Method.
+Randomized Composable Core-sets for Distributed Submodular Maximization.
+Dimensionality Reduction for k-Means Clustering and Low Rank Approximation.
+Space- and Time-Efficient Algorithm for Maintaining Dense Subgraphs on One-Pass Dynamic Streams.
+Lp Row Sampling by Lewis Weights.
+On the Lovász Theta function for Independent Sets in Sparse Graphs.
+The Complexity of the Simplex Method.
+An Improved Version of the Random-Facet Pivoting Rule for the Simplex Algorithm.
+Near Optimal LP Rounding Algorithm for CorrelationClustering on Complete and Complete k-partite Graphs.
+Nearly-Linear Time Positive LP Solver with Faster Convergence Rate.
+Spectral Sparsification and Regret Minimization Beyond Matrix Multiplicative Updates.
+Almost Optimal Pseudorandom Generators for Spherical Caps: Extended Abstract.
+Rectangles Are Nonnegative Juntas.
+Polynomially Low Error PCPs with polyloglog n Queries via Modular Composition.
+The List Decoding Radius of Reed-Muller Codes over Small Fields.
+A Characterization of the Capacity of Online (causal) Binary Channels.
+Reed-Muller Codes for Random Erasures and Errors.
+Forrelation: A Problem that Optimally Separates Quantum from Classical Computing.
+Quantum Information Complexity.
+Sparse Quantum Codes from Quantum Circuits.
+Small Value Parallel Repetition for General Games.
+An Interactive Information Odometer and Applications.
+The communication complexity of interleaved group products.
+Approximating Nash Equilibria and Dense Bipartite Subgraphs via an Approximate Version of Caratheodory's Theorem.
+Approximating the Nash Social Welfare with Indivisible Items.
+On the Complexity of Nash Equilibria in Anonymous Games.
+Hardness of Graph Pricing Through Generalized Max-Dicut.
+Inapproximability of Truthful Mechanisms via Generalizations of the VC Dimension.
+Inapproximability of Nash Equilibrium.
+Indistinguishability Obfuscation for Turing Machines with Unbounded Memory.
+Succinct Garbling and Indistinguishability Obfuscation for RAM Programs.
+Succinct Randomized Encodings and their Applications.
+Garbled RAM From One-Way Functions.
+Non-malleable Reductions and Applications.
+Leveled Fully Homomorphic Signatures from Standard Lattices.
+Sketching and Embedding are Equivalent for Norms.
+Prioritized Metric Structures and Embedding.
+Toward a Unified Theory of Sparse Dimensionality Reduction in Euclidean Space.
+A Directed Isoperimetric Inequality with application to Bregman Near Neighbor Lower Bounds.
+Boolean Function Monotonicity Testing Requires (Almost) n1/2 Non-adaptive Queries.
+Quantum Spectrum Testing.
+Bypassing KLS: Gaussian Cooling and an O^*(n3) Volume Algorithm.
+FPTAS for #BIS with Degree Bounds on One Side.
+Exponential Separation of Information and Communication for Boolean Functions.
+Lower Bounds on the Size of Semidefinite Programming Relaxations.
+2-Server PIR with Sub-Polynomial Communication.
+Fast Matrix Multiplication: Limitations of the Coppersmith-Winograd Method.
+High Parallel Complexity Graphs and Memory-Hard Functions.
+Byzantine Agreement with Optimal Early Stopping, Optimal Resilience and Polynomial Complexity.
+Test-and-Set in Optimal Space.
+Adjacency Labeling Schemes and Induced-Universal Graphs.
+How Well Can Graphs Represent Wireless Interference?
+Excluded Grid Theorem: Improved and Simplified.
+The Directed Grid Theorem.
+Deterministic Global Minimum Cut of a Simple Graph in Near-Linear Time.
+Beyond the Euler Characteristic: Approximating the Genus of General Graphs.
+Computing with Tangles.
+Faster Canonical Forms for Primitive Coherent Configurations: Extended Abstract.
+Random Permutations using Switching Networks.
+Hypergraph Markov Operators, Eigenvalues and Approximation Algorithms.
+Testing Cluster Structure of Graphs.
+Solving the Shortest Vector Problem in 2n Time Using Discrete Gaussian Sampling: Extended Abstract.
+Learning Arbitrary Statistical Mixtures of Discrete Distributions.
+Tight Bounds for Learning a Mixture of Two Gaussians.
+Learning Mixtures of Gaussians in High Dimensions.
+Efficiently Learning Ising Models on Arbitrary Graphs.
+Approximate k-flat Nearest Neighbor Search.
+Optimal Data-Dependent Hashing for Approximate Near Neighbors.
+Time Lower Bounds for Nonadaptive Turnstile Streaming Algorithms.
+From Independence to Expansion and Back Again.
+Super-resolution, Extremal Functions and the Condition Number of Vandermonde Matrices.
+Analysis of a Classical Matrix Preconditioning Algorithm.
+A Polynomial-time Bicriteria Approximation Scheme for Planar Bisection.
+Minimizing Flow-Time on Unrelated Machines.
+Randomized Rounding for the Largest Simplex Problem.
+Greedy Algorithms for Steiner Forest.
+Secretary Problems with Non-Uniform Arrival Order.
+Online Submodular Welfare Maximization: Greedy Beats 1/2 in Random Order.

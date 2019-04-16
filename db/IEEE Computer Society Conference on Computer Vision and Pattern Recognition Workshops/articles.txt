@@ -1,0 +1,132 @@
+Self-tuned deep super resolution.
+Channel-Max, Channel-Drop and Stochastic Max-pooling.
+Convolutional recurrent neural networks: Learning spatial dependencies for image representation.
+Deep learning of binary hash codes for fast image retrieval.
+From generic to specific deep representations for visual recognition.
+Subset feature learning for fine-grained category classification.
+Exploiting local features from deep networks for image retrieval.
+Object level deep feature pooling for compact image representation.
+Multi-scale pyramid pooling for deep convolutional representation.
+Color constancy using CNNs.
+Learning to count with deep object features.
+Walking and talking: A bilinear approach to multi-label action recognition.
+Discovering human interactions in videos with limited data labeling.
+MuseumVisitors: A dataset for pedestrian and group detection, gaze estimation and behavior understanding.
+Subject centric group feature for person re-identification.
+The GRODE metrics: Exploring the performance of group detection approaches.
+Learning to identify leaders in crowd.
+A comparison of crowd commotion measures from generative models.
+Real-time anomaly detection and localization in crowded scenes.
+Dominant flow extraction and analysis in traffic surveillance videos.
+3D human motion capture from monocular image sequences.
+Multinomial processing models in visual cognitive effort diagnostics.
+Action classification in still images using human eye movements.
+Semantically-enriched 3D models for common-sense knowledge.
+Comparison of infrared and visible imagery for object tracking: Toward trackers with superior IR performance.
+VAIS: A dataset for recognizing maritime imagery in the visible and infrared spectrums.
+A comparison of stereo and multiview 3-D reconstruction using cross-sensor satellite imagery.
+Online multimodal video registration based on shape matching.
+Automated feature weighting and random pixel sampling in k-means clustering for terahertz image segmentation.
+A model-based approach to finding tracks in SAR CCD images.
+Efficient person re-identification by hybrid spatiogram and covariance descriptor.
+Articulated Gaussian kernel correlation for human pose estimation.
+Automation of dormant pruning in specialty crop production: An adaptive framework for automatic reconstruction and modeling of apple trees.
+A cloud infrastructure for target detection and tracking using audio and video fusion.
+Make my day - high-fidelity color denoising with Near-Infrared.
+USDOT number localization and recognition from vehicle side-view NIR images.
+Robust object recognition in RGB-D egocentric videos based on Sparse Affine Hull Kernel.
+Improving superpixel boundaries using information beyond the visual spectrum.
+A simply integrated dual-sensor based non-intrusive iris image acquisition system.
+Heterogeneous structure fusion for Target Recognition in infrared imagery.
+Non-rigid articulated point set registration with Local Structure Preservation.
+Sonar automatic target recognition for underwater UXO remediation.
+NIR-VIS heterogeneous face recognition via cross-spectral joint dictionary learning and reconstruction.
+Road segmentation using multipass single-pol synthetic aperture radar imagery.
+From photography to microbiology: Eigenbiome models for skin appearance.
+Fast registration of segmented images by normal sampling.
+Deep neural networks for anatomical brain segmentation.
+TAEF: A cross-distance/environment face recognition method.
+Perspective distortion modeling, learning and compensation.
+Locality-constrained discriminative learning and coding.
+A preliminary investigation on the sensitivity of COTS face recognition systems to forensic analyst-style face processing for occlusions.
+Exploratory analysis of an operational iris recognition dataset from a CBSA border-crossing application.
+Evaluation of combined visible/NIR camera for iris authentication on smartphones.
+A preliminary study on identifying sensors from iris images.
+The emperor's new masks: On demographic differences and disguises.
+Latent max-margin metric learning for comparing video face tubes.
+Unsupervised learning of overcomplete face descriptors.
+Person identification from action styles.
+A facial features detector integrating holistic facial information and part-based model.
+Genetic algorithm attack on minutiae-based fingerprint authentication and protected template fingerprint systems.
+Electromyograph and keystroke dynamics for spoof-resistant biometric authentication.
+A multiple server scheme for fingerprint fuzzy vaults.
+Pore-based ridge reconstruction for fingerprint recognition.
+ChaLearn Looking at People 2015 challenges: Action spotting and cultural event recognition.
+Exploring Fisher vector and deep networks for action spotting.
+Applying action attribute class validation to improve human activity recognition.
+Keep it accurate and diverse: Enhancing action recognition performance by ensemble learning.
+Object-Scene Convolutional Neural Networks for event recognition in images.
+Cultural Event recognition with visual ConvNets and temporal models.
+Cultural event recognition by subregion classification with convolutional neural network.
+Recognizing cultural events in images: A study of image categorization models.
+Articulated pose estimation with tiny synthetic videos.
+A semantic occlusion model for human pose estimation from a single depth image.
+A new retexturing method for virtual fitting room using Kinect 2 camera.
+Pain recognition using spatiotemporal oriented energy of facial muscles.
+Spatiotemporal analysis of RGB-D-T facial images for multimodal pain level recognition.
+Hand gesture recognition with 3D convolutional neural networks.
+Hierarchical particle filtering for 3D hand tracking.
+On-the-fly hand detection training with application in egocentric action recognition.
+ICPIK: Inverse Kinematics based articulated-ICP.
+Mining discriminative states of hands and objects to recognize egocentric actions with a wearable RGBD camera.
+American Sign Language alphabet recognition using Microsoft Kinect.
+Towards robust cascaded regression for face alignment in the wild.
+Multi-observation face recognition in videos based on label propagation.
+Exemplar Hidden Markov Models for classification of facial expressions in videos.
+Using Hankel matrices for dynamics-based facial emotion recognition and pain detection.
+Age and gender classification using convolutional neural networks.
+FAME: Face Association through Model Evolution.
+Head pose estimation in the wild using approximate view manifolds.
+Mixture of parts revisited: Expressive part interactions for Pose Estimation.
+Towards privacy-preserving activity recognition using extremely low temporal and spatial resolution cameras.
+Sparse Coding Trees with application to emotion classification.
+3D object class detection in the wild.
+On-board real-time tracking of pedestrians on a UAV.
+Guidance: A visual sensing platform for robotic applications.
+Off-the-shelf sensor integration for mono-SLAM on smart devices.
+Retrieving gray-level information from a Binary Sensor and its application to gesture detection.
+Recursive edge-aware filters for stereo matching.
+A real-time high dynamic range HD video camera.
+FPGA acceleration for feature based processing applications.
+Locally non-rigid registration for mobile HDR photography.
+Real-time embedded age and gender classification in unconstrained video.
+FPGA-based pedestrian detection under strong distortions.
+SparkleVision: Seeing the world through random specular microfacets.
+Efficient 3D kernel estimation for non-uniform camera shake removal using perpendicular camera system.
+Reconstruction-free inference on compressive measurements.
+Dense sampling of 3D color transfer functions using HDR photography.
+Fresnel lens imaging with post-capture image processing.
+Video stitching with spatial-temporal content-preserving warping.
+Video compressive sensing with on-chip programmable subsampling.
+Fast single-frequency time-of-flight range imaging.
+Semantic segmentation of urban scenes by learning local class interactions.
+Active learning approach to detecting standing dead trees from ALS point clouds combined with aerial infrared imagery.
+Universality of wavelet-based non-homogeneous hidden Markov chain model features for hyperspectral signatures.
+A semi-supervised approach for ice-water classification using dual-polarization SAR satellite imagery.
+Effective semantic pixel labelling with convolutional networks and Conditional Random Fields.
+Do deep features generalize from everyday objects to remote sensing and aerial scenes domains?
+Matching Persistent Scatterers to optical oblique images.
+Simultaneous registration and change detection in multitemporal, very high resolution remote sensing data.
+On the location dependence of convolutional neural network features.
+Oil spill candidate detection from SAR imagery using a thresholding-guided stochastic fully-connected conditional random field model.
+Detection of incomplete enclosures of rectangular shape in remotely sensed images.
+Geometric inpainting of 3D structures.
+Real-time non-rigid multi-frame depth video super-resolution.
+Accurate localization by fusing images and GPS signals.
+Exploiting global priors for RGB-D saliency detection.
+Sparse re-id: Block sparsity for person re-identification.
+Seamless change detection and mosaicing for aerial imagery.
+Absolute geo-localization thanks to Hidden Markov Model and exemplar-based metric learning.
+Sequence searching with deep-learnt depth for condition- and viewpoint-invariant route-based place recognition.
+Robust and fast detection of moving vehicles in aerial videos using sliding windows.
+Driver cell phone usage detection on Strategic Highway Research Program (SHRP2) face view videos.

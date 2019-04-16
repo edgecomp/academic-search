@@ -1,0 +1,44 @@
+Indoor skydiving in immersive virtual reality with embedded storytelling.
+Walking on foot to explore a virtual environment with uneven terrain.
+Efficient intrinsic image decomposition for RGBD images.
+Vector solid texture synthesis using two-scale shaping model.
+Direct lighting on meso-structured surfaces with area light sources.
+GPU ray-traced collision detection for cloth simulation.
+Head-mounted display with mid-air tactile feedback.
+TouchSketch: a touch-based interface for 3D object manipulation and editing.
+Virtual reality based laparoscopic surgery simulation.
+Interactive virtual percussion instruments on mobile devices.
+High quality compatible triangulations for 2D shape morphing.
+Procedural techniques for simulating the growth of plant leaves and adapting venation patterns.
+A novel integrated analysis-and-simulation approach for detail enhancement in FLIP fluid interaction.
+Adaptive level set for fluid surface tracking.
+VR system for rehabilitation based on hand gestural and olfactory interaction.
+A real time haptic simulator of spine surgeries.
+Embodied interaction using non-planar projections in immersive virtual reality.
+Optimal camera placement for motion capture systems in the presence of dynamic occlusion.
+Realizing a low-latency virtual reality environment for motor learning.
+Dynamic projection mapping onto a deformable object with occlusion based on high-speed tracking of dot marker array.
+Simulating high-DOF human-like agents using hierarchical feedback planner.
+Adding sociality to virtual pedestrian groups.
+Collaborative navigation in virtual worlds: how gender and game experience influence user behavior.
+Video driven pedestrian visualization with characteristic appearances.
+Modeling spatial relations of human body parts for indexing and retrieving close character interactions.
+Evaluating the effects of competition vs collaboration on user engagement in an immersive game using natural interaction.
+A streaming framework for instant 3D rendering and interaction.
+Contributing to VRPN with a new server for haptic devices.
+The effect of vibration and low-frequency audio on full-body haptic sensations.
+Augmented reality for collision warning and path guide in a vehicle.
+Local context based recognition + internet of things: complementary infrastructures for future generic mixed reality space.
+Tele-augmentation for remote AR coaching.
+Resolving view difference between eye and camera for proprioceptive pointing and selection in augmented reality applications.
+Real-time adjustment of contrast saliency for improved information visibility in mobile augmented reality.
+An imitation-based approach to represent common ground in a virtual basketball agent team mate.
+Robust image/video super-resolution display.
+Interactive volumetric segmentation through least-squares optimization of local hessian-constrained implicits.
+Color correspondence of image warping using plane constraints.
+Flexible point handles metaphor for character deformation.
+Evaluating warped projection cameras.
+Evaluation of factors affecting distance perception in architectural project review in immersive virtual environments.
+JackIn head: immersive visual telepresence system with omnidirectional wearable camera for remote collaboration.
+Distortion score based pose selection for 3D tele-immersion.
+Augmented reality-aided tele-presence system for robot manipulation in industrial manufacturing.
