@@ -52,13 +52,3 @@ def get_conference_names(list_path):
         for tableData in tabledata:
             conference_name = tableData.text
             filter_conferences(conference_name, list_path)
-
-
-# def main():
-#     directory_name = 'Conference List'
-#     # create_conference_list_dir(directory_name)
-#     get_conference_names(create_list(directory_name))
-#
-#
-# if __name__ == "__main__":
-#     main()

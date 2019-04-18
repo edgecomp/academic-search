@@ -1,25 +1,17 @@
-from bs4 import BeautifulSoup
 import requests
-import time
 import re
 from sshtunnel import SSHTunnelForwarder
 
+#https://api.elsevier.com/content/abstract/eid/2-s2.0-84984674681?view=FULL&&apikey=289699373eeaaa4f37973f4abd455ddf
 
-# scopus API Key 5a3078ff1f78d91130566929c2721e44
-#
-# server = SSHTunnelForwarder(
-#     'ssh.data.vu.nl',
-#     ssh_username='',
-#     ssh_password='',
-#     remote_bind_address=('127.0.0.1', 8080)
-# )
-#
 SCOPUS_SEARCH_BASE = 'https://api.elsevier.com/content/search/scopus?query='
+SCOPUS_ABSTRACT_SEARCH_BASE = 'https://api.elsevier.com/content/abstract/eid/'
+SCOPUS_ABSTRACT_QUERY_CONDI = '?view=FULL&'
 entry_index = 0
 
 
 def get_api_key():
-    apikey = '&apikey=5a3078ff1f78d91130566929c2721e44'
+    apikey = '&apikey=289699373eeaaa4f37973f4abd455ddf'
     return apikey
 
 
@@ -72,13 +64,7 @@ def no_matching_result(search_results, conference_name):
             publname = conference_name.split()
             # print(crawled_publname)
             # print(publname)
-        # for element in search_results['search-results']['entry']:
-        #     a = element['dc:title'].split()
-        #     b = keyword.split()
             if string_contains(crawled_publname, publname) is False:
-            # if element['dc:title'] != keyword:  # match not found
-                # print(element['dc:title'])
-                # print(keyword)
                 index = index+1
             else:
                 set_index(index)
@@ -87,79 +73,38 @@ def no_matching_result(search_results, conference_name):
 
 
 def scrape_article_data(search_result_url, conference_name_keyword, conference_name, year):
-    search_results = requests.get(search_result_url).json()
-    # time.sleep(2)
+    search_results = requests.get(search_result_url, headers={'User-Agent': 'my agent'}).json()
+    # time.sleep(1)
     if no_result_found(nr_result_found(search_results)) is True \
             or no_matching_result(search_results, conference_name_keyword) is True:
-        title = "None"
+        # title = ""
         # print(title)
-        abstract = "None"
+        # abstract = ""
         # print(abstract)
+        return {}
     else:
-        # print("a")
-        doc_page_url = search_results['search-results']['entry'][get_index()]['link'][2]['@href']
-        # print(doc_page_url)
-        time.sleep(3)
-        doc_page = requests.get(str(doc_page_url) + get_api_key())
-        soup = BeautifulSoup(doc_page.text, 'html.parser')
-        title = soup.find('h2', {"class": "h3"})
-        print(title)
-        unwanted_text = title.find('span')
-        if unwanted_text is not None:
-            unwanted_text.extract()
-            title = title.text.strip()
-        else:
-            title = title.text
-        abstract_section = soup.find('section', {"id": "abstractSection"})
-        abstract = abstract_section.find('p').text
-        # print("output: "+title)
-        # print(abstract)
-    return {'conference': conference_name, 'year': year, 'title': title, 'abstract': abstract}
+        ###################### SSH TUNNELING TO REMOVE AFTER IMPLEMENTATION
+        # server = SSHTunnelForwarder(
+        #     'ssh.data.vu.nl',
+        #     ssh_username='',
+        #     ssh_password='',
+        #     remote_bind_address=('127.0.0.1', 8080)
+        # )
+        # server.start()
+        ######################################################
+        article_in_interest_eid = search_results['search-results']['entry'][get_index()]['eid']
+        abstract_url = SCOPUS_ABSTRACT_SEARCH_BASE + article_in_interest_eid + SCOPUS_ABSTRACT_QUERY_CONDI + get_api_key()
+        article_in_interest = requests.get(abstract_url, headers={'User-Agent': 'my agent'}).json()
+        print(article_in_interest)
+        title = article_in_interest['abstracts-retrieval-response']['coredata']['prism:publicationName']
+        abstract = article_in_interest['abstracts-retrieval-response']['coredata']['dc:description']['abstract']['ce:para']
+
+        # server.close()
+        print("output: "+title)
+        print(abstract)
+        return {'conference': conference_name, 'year': year, 'title': title, 'abstract': abstract}
 
 
 def scopus_search(query, conference_name_keyword, conference_name, year):
-    # server.start()
-    # query = 'TITLE(Stochastic Optimization with Importance Sampling for Regularized Loss Minimization.)'
-    # query = 'TITLE(Bayesian Multiple Target Localization.)'
-    # query='TITLE(Distributed Gaussian Processes.)'
     search_result_url = SCOPUS_SEARCH_BASE + query + get_api_key()
     return scrape_article_data(search_result_url, conference_name_keyword, conference_name, year)
-
-# asd = requests.get(a['link'][2]['@href']+ apikey)
-# print(asd.text)
-# json.load(asd)
-
-
-# a = search_data['search-results']['entry'][0]['prism:url']
-# b = requests.get(a).content
-# print(b)
-
-
-# json_data = search_data.json()
-# print(json_data)
-
-# with open('d_json.json', 'w') as fd:
-#     json.dump(json_data, fd)
-
-
-# scopus.utils.create_config()
-# s = ScopusSearch(query, refresh=True)
-# print(s.results)
-# df = pd.DataFrame(pd.DataFrame(s.results))
-# df.to_csv('scopus.csv', encoding='utf-8')
-# eids = s.get_eids()
-# print(eids)
-
-# server.stop()
-# keyword = 'Stochastic Optimization with Importance Sampling for Regularized Loss Minimization.'
-# scopus_search('TITLE(' + keyword + ')', keyword)
-
-
-# conference_name = 'International Conference on Machine Learning (ICML)'
-# with open('International Conference on Machine Learning (ICML)/articles.txt', 'r', encoding='utf-8') as fd:
-#     for line in fd:
-#         print("1" + line)
-#         line = re.sub(r'[^A-Za-z0-9|:|-]', r' ', line)
-#         conference_name = re.sub(r'[^A-Za-z0-9]', r' ', conference_name)
-#         scopus_search("TITLE("+line+")", conference_name)
-#         time.sleep(0.5)
