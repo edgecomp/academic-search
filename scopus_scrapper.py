@@ -1,6 +1,7 @@
 import requests
 import re
-from sshtunnel import SSHTunnelForwarder
+from bs4 import BeautifulSoup
+# from sshtunnel import SSHTunnelForwarder
 
 #https://api.elsevier.com/content/abstract/eid/2-s2.0-84984674681?view=FULL&&apikey=289699373eeaaa4f37973f4abd455ddf
 
@@ -11,7 +12,7 @@ entry_index = 0
 
 
 def get_api_key():
-    apikey = '&apikey=289699373eeaaa4f37973f4abd455ddf'
+    apikey = '&apikey=de1e502e55a0c85e91b0ff562a757e3a'
     return apikey
 
 
@@ -73,7 +74,7 @@ def no_matching_result(search_results, conference_name):
 
 
 def scrape_article_data(search_result_url, conference_name_keyword, conference_name, year):
-    search_results = requests.get(search_result_url, headers={'User-Agent': 'my agent'}).json()
+    search_results = requests.get(search_result_url).json()
     # time.sleep(1)
     if no_result_found(nr_result_found(search_results)) is True \
             or no_matching_result(search_results, conference_name_keyword) is True:
@@ -88,20 +89,34 @@ def scrape_article_data(search_result_url, conference_name_keyword, conference_n
         #     'ssh.data.vu.nl',
         #     ssh_username='',
         #     ssh_password='',
-        #     remote_bind_address=('127.0.0.1', 8080)
+        #     remote_bind_address=('127.0.0.1', 1080)
         # )
         # server.start()
         ######################################################
         article_in_interest_eid = search_results['search-results']['entry'][get_index()]['eid']
         abstract_url = SCOPUS_ABSTRACT_SEARCH_BASE + article_in_interest_eid + SCOPUS_ABSTRACT_QUERY_CONDI + get_api_key()
-        article_in_interest = requests.get(abstract_url, headers={'User-Agent': 'my agent'}).json()
-        print(article_in_interest)
-        title = article_in_interest['abstracts-retrieval-response']['coredata']['prism:publicationName']
-        abstract = article_in_interest['abstracts-retrieval-response']['coredata']['dc:description']['abstract']['ce:para']
+        # print(abstract_url)
+        article_in_interest = requests.get(abstract_url)
+        soup = BeautifulSoup(article_in_interest.content, 'xml')
+        print(soup)
+        # data = article_in_interest.text
+        # title = data['abstracts-retrieval-response']['coredata']['prism:publicationName']
+        # abstract = data['abstracts-retrieval-response']['coredata']['dc:description']['abstract']['ce:para']
+        title = soup.find('dc:title')
+        if title is None:
+            title = ''
+        else:
+            title = title.text
 
-        # server.close()
-        print("output: "+title)
+        abstract = soup.find('ce:para')
+        if abstract is None:
+            abstract = ''
+        else:
+            abstract = abstract.text
         print(abstract)
+        # server.close()
+        # print("output: "+title)
+        # print(abstract)
         return {'conference': conference_name, 'year': year, 'title': title, 'abstract': abstract}
 
 
