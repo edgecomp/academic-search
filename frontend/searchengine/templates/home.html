@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block head %}
+    <title>Academic Paper Search Engine</title>
+{% endblock %}
+
+{% block body %}
+    <form action="/home/search/" method="get">
+        <div class="SearchBar">
+            <input type="text" placeholder="Input Keyword" name="search" size="30" width="30">
+        </div>
+    </form>
+{% endblock %}

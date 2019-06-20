@@ -1,6 +1,0 @@
-Reactive Processing of RDF Streams of Events.
-COLINDA: Modeling, Representing and Using Scientific Events in the Web of Data.
-Toward Real Event Detection.
-Towards Open Domain Event Extraction from Twitter: REVEALing Entity Relations.
-A Contextual Framework for Reasoning on Events.
-Representing Specialized Events with FrameBase.
