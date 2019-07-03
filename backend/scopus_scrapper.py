@@ -34,19 +34,9 @@ def string_contains(crawled_publname, publname):  # crawled publi name contains 
             return True
     else:
         return False
-    # matched = 0
-    # for item_input in crawled_publname:
-    #     for item_to_compare in publname:
-    #         print(item_to_compare.lower() + " " + item_input.lower())
-    #         if item_to_compare.lower() == item_input.lower():
-    #             matched = matched + 1
-    # if matched == len(publname):
-    #     return True
-    # else:
-    #     return False
 
 
-def process_crawled_publname(element):
+def process_crawled_publname(element): # remove non-alphanumeric char from publication name
     if 'prism:publicationName' in element:
         crawled_publname = re.sub("[\(\[].*?[\)\]]", "", element['prism:publicationName'])
         crawled_publname = re.sub(r'[^A-Za-z0-9]', r' ', crawled_publname)
@@ -105,7 +95,6 @@ def scrape_article_data(search_result_url, conference_name_keyword, conference_n
             else:
                 title = title.text
                 abstract = abstract.text
-                print(abstract)
                 return {'conference_type': conference_name, 'year': year, 'title': title, 'abstract': abstract}
         else:
             return None

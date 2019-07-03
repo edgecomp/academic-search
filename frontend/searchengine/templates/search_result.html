@@ -1,21 +1,68 @@
 {% extends 'base.html' %}
 
 {% block body %}
-    <p>Searched Keywords: {{keyword}}</p>
-    <p>Number of Conferences Found: {{conference_found}}</p>
-{#    {% set seen_item = [] %}#}
-{#    {% with seen_item = '' %}#}
-    {% for object in objects %}
-{#        {% if object.conference_name.conference_name not in seen_item %}#}
+    <p>Searched Keywords: {{allkeywords}}</p>
+    {% if quadgramkeywords|length > 0 %}
+        <div class = "conference_item_info">
+            <p><strong>Quadgram Keywords: {{ quadgramkeywords }}</strong></p>
+            <p>Conferences Found: {{ quadgramobjs|length }}</p>
+        </div>
+    {% endif %}
+    {% for object in quadgramobjs %}
         <div class="conference_item">
             <ul>
                 <li><strong>CONFERENCE NAME: {{object.conference_name.conference_name}}</strong></li>
-                <li>Keyword: {{object.keyword}}  &emsp;&emsp; Score: {{object.score}}</li>
+                <li>Matched Keyword: {{object.keyword}}  &emsp;&emsp; Score: {{object.score}}</li>
                 <li><i>SIMILAR CONFERENCE: {{object.conference_name.similar_conference}}</i></li>
             </ul>
         </div>
-{#            {% seen_item.append(object.conference_name.conference_name) %}#}
-{#        {% endif %}#}
     {% endfor %}
-{#    {% endwith %}#}
+
+    {% if trigramkeywords|length > 0 %}
+        <div class = "conference_item_info">
+            <p><strong>Trigram Keywords: {{ trigramkeywords }}</strong></p>
+            <p>Conferences Found: {{ trigramobjs|length }}</p>
+        </div>
+    {% endif %}
+    {% for object in trigramobjs %}
+        <div class="conference_item">
+            <ul>
+                <li><strong>CONFERENCE NAME: {{object.conference_name.conference_name}}</strong></li>
+                <li>Matched Keyword: {{object.keyword}}  &emsp;&emsp; Score: {{object.score}}</li>
+                <li><i>SIMILAR CONFERENCE: {{object.conference_name.similar_conference}}</i></li>
+            </ul>
+        </div>
+    {% endfor %}
+
+    {% if bigramkeywords|length > 0 %}
+        <div class = "conference_item_info">
+            <p><strong>Bigram Keywords: {{ bigramkeywords }}</strong></p>
+            <p>Conferences Found: {{ bigramobjs|length }}</p>
+        </div>
+    {% endif %}
+    {% for object in bigramobjs %}
+        <div class="conference_item">
+            <ul>
+                <li><strong>CONFERENCE NAME: {{object.conference_name.conference_name}}</strong></li>
+                <li>Matched Keyword: {{object.keyword}}  &emsp;&emsp; Score: {{object.score}}</li>
+                <li><i>SIMILAR CONFERENCE: {{object.conference_name.similar_conference}}</i></li>
+            </ul>
+        </div>
+    {% endfor %}
+
+    {% if singlegramkeywords|length > 0 %}
+        <div class = "conference_item_info">
+            <p><strong>Single Keywords: {{ singlegramkeywords }}</strong></p>
+            <p>Conferences Found: {{ singlegramobjs|length }}</p>
+        </div>
+    {% endif %}
+    {% for object in singlegramobjs %}
+        <div class="conference_item">
+            <ul>
+                <li><strong>CONFERENCE NAME: {{object.conference_name.conference_name}}</strong></li>
+                <li>Matched Keyword: {{object.keyword}}  &emsp;&emsp; Score: {{object.score}}</li>
+                <li><i>SIMILAR CONFERENCE: {{object.conference_name.similar_conference}}</i></li>
+            </ul>
+        </div>
+    {% endfor %}
 {% endblock %}

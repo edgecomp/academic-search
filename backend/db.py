@@ -27,27 +27,6 @@ class DB:
             self.cur = self.connec.cursor()
         except (Exception, pgdb2.Error) as error:
             print("Error while connecting to DB ", error)
-    #
-    # def insert_data(self, insert_data_query, data_to_insert):
-    #     try:
-    #         self.cur.execute(insert_data_query, data_to_insert)
-    #         self.connec.commit()
-    #     except(Exception, pgdb2.Error) as error:
-    #         self.connec.rollback()
-    #         print("Error while inserting data to table ", error)
-
-    # TODO remove
-    # def insert_metadata(self, datadict):
-    #     try:
-    #         insert_data_query = 'INSERT INTO metadata (CONFERENCE_TYPE, YEAR, TITLE, ABSTRACT) VALUES (%s, %s, %s, %s)'
-    #         data_to_insert = (datadict.get("conference_type"), str(datadict.get("year")),
-    #                           datadict.get("title"), datadict.get("abstract"))
-    #         self.cur.execute(insert_data_query, data_to_insert)
-    #         self.connec.commit()
-    #     except(Exception, pgdb2.Error) as error:
-    #         self.connec.rollback()
-    #         print("Error while inserting data to table ", error)
-    # ###########################
 
     def insert_allmetadata(self, dataframe):
         try:
@@ -83,20 +62,6 @@ class DB:
             self.connec.rollback()
             print("Error while inserting dataframe to table ", error)
 
-    #TODO REMOVE
-    ########################################################################
-    # def insert_allconferences(self, dataframe):
-    #     try:
-    #         insert_data_query = 'INSERT INTO conferences (CONFERENCE_NAME, CORPUS) VALUES (%s, %s)'
-    #         for row in dataframe.itertuples(index=True, name='Pandas'):
-    #             data_to_insert = (getattr(row, "conference_name"), getattr(row, "corpus"))
-    #             self.cur.execute(insert_data_query, data_to_insert)
-    #             self.connec.commit()
-    #     except(Exception, pgdb2.Error) as error:
-    #         self.connec.rollback()
-    #         print("Error while inserting dataframe to table ", error)
-    #################################################################################
-
     def insert_allkeywords(self, dataframe):
         try:
             insert_data_query = 'INSERT INTO keywords_temp (KEYWORD, SCORE, CONFERENCE_NAME) VALUES (%s, %s, %s)'
@@ -117,21 +82,6 @@ class DB:
         except(Exception, pgdb2.Error) as error:
             self.connec.rollback()
             print("Error while truncating table", error)
-
-    # def get_metadata_abstract(self, crawled_datadict):
-    #     try:
-    #         get_data_query = 'SELECT abstract FROM metadata WHERE CONFERENCE_TYPE = %s AND YEAR = %s AND TITlE = %s'
-    #         data_to_retrive_condi = (crawled_datadict.get("conference"), crawled_datadict.get("year"),
-    #                                  crawled_datadict.get("title"))
-    #         self.cur.execute(get_data_query, data_to_retrive_condi)
-    #         return self.cur.fetchone()
-    #     except(Exception, pgdb2.Error) as error:
-    #         print("Error while retrieving data from table", error)
-    #############
-    # def get_confname_abstract_from_metadata(self):
-    #     try:
-    #         get_data_query = 'SELECT CONFERENCE_TYPE, YEAR, ABSTRACT FROM metadata_temp'
-    #############
 
     def get_all_data_from_table(self, tablename):
         try:
@@ -172,24 +122,6 @@ class DB:
             self.connec.rollback()
             print("Error while updating data to table", error)
 
-    # def update_keywords_table(self, neighbor, conference_name):
-    #     try:
-    #         update_query = 'UPDATE keywords_temp SET NEIGHBOR = %s WHERE CONFERENCE_NAME = %s'
-    #         data = (neighbor, conference_name)
-    #         self.cur.execute(update_query, data)
-    #         self.connec.commit()
-    #     except(Exception, pgdb2.Error) as error:
-    #         self.connec.rollback()
-    #         print("Error while updating data to table", error)
-
-    # def alter_keywords_table(self):
-    #     try:
-    #         alter_query = 'ALTER TABLE keywords ADD COLUMN neighbor TEXT'
-    #         self.cur.execute(alter_query)
-    #         self.connec.commit()
-    #     except (Exception, pgdb2.Error) as error:
-    #         print("Error while altering table", error)
-
     def copy_data_to_another_table(self, des_table, temp_table):
         try:
             copy_query = 'INSERT INTO ' + des_table + ' SELECT * FROM ' + temp_table
@@ -197,10 +129,3 @@ class DB:
             self.connec.commit()
         except (Exception, pgdb2.Error) as error:
             print("Error while copying table", error)
-
-    # def terminate(self):
-    #     try:
-    #         self.cur.close()
-    #         self.connec.close()
-    #     except(Exception, pgdb2.Error) as error:
-    #         print("Error while closing the DB", error)

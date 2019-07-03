@@ -5,7 +5,7 @@ from sklearn.metrics.pairwise import linear_kernel
 from scipy import spatial
 
 
-def create_relative_keyworddb(db):
+def create_collaborative_keyworddb(db):  # counts finger prints of keywords from each conference
     panda_keywords = []
     stop_update_header = False
     header = ['conference']
@@ -19,7 +19,6 @@ def create_relative_keyworddb(db):
             relative_keywords[keyword_df] = conference_data[1].count(keyword_df)
         panda_keywords.append(relative_keywords)
         stop_update_header = True
-    # pd.DataFrame(panda_keywords).to_csv('count.csv', encoding='utf-8', header=True, columns=header)
     return pd.DataFrame(panda_keywords)
 
 
@@ -46,7 +45,7 @@ def calc_euclidean_dist(X):
     return np.array(scipy_eucli_dist)
 
 
-def get_neigbors(df):
+def get_neigbors(df):  # extract shortest distance and create dataframe of all conferences' similar conference
     df = df.drop(df.columns[df.columns.str.contains('unnamed', case=False)], axis=1)
     conferences = df['conference']
     df = df.drop(df.columns[df.columns.str.contains('conference', case=False)], axis=1)
@@ -60,4 +59,3 @@ def get_neigbors(df):
         neighbor_conf_index_data.append({'conferenceName': conference, 'similar conference': conferences[neighbor_conf_index[i]]})
         i = i + 1
     return pd.DataFrame(neighbor_conf_index_data)
-    # pd.DataFrame(neighbor_conf_index_data).to_csv('neighbor.csv', encoding='utf-8', header=True, index=False)

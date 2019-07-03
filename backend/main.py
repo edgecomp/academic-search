@@ -7,7 +7,7 @@ from stanfordcorenlp import StanfordCoreNLP
 from time import sleep
 from db import *
 from keywordExtractor import *
-from keyword_distance_finder import *
+from similarConferenceFinder import *
 import re
 import pandas as pd
 import datetime as dt
@@ -17,30 +17,16 @@ import numpy as np
 import nltk
 
 db = DB()
-# nlp = StanfordCoreNLP(path_or_host='http://localhost', port=9000, timeout=50000)
-# nlp_props = {'annotators': 'tokenize,ssplit,pos,lemma', 'pipelineLanguage': 'en', 'outputFormat': 'json'}
+nlp = StanfordCoreNLP(path_or_host='http://localhost', port=9000, timeout=50000)
+nlp_props = {'annotators': 'tokenize,ssplit,pos,lemma', 'pipelineLanguage': 'en', 'outputFormat': 'json'}
 
 
 def set_conference_db(corpus_dict):
     db.insert_conference(corpus_dict)
 
 
-# def set_conferences_db(df):
-#     db.truncate_table('conferences')
-#     # df = pd.read_csv('corpus.csv', index_col=False)
-#     # df = df.drop(df.columns[df.columns.str.contains('unnamed', case=False)], axis=1)
-#     db.insert_allconferences(df)
-
-
 def set_keywords_db(df):
-    # db.truncate_table('keywords_temp')
-    # df = pd.read_csv('scores1.csv', index_col=False)
-    # df = df.drop(df.columns[df.columns.str.contains('unnamed', case=False)], axis=1)
     db.insert_allkeywords(df)
-
-
-# def get_corpus_from_db():
-#     db.get_conference_corpus()
 
 
 def remove_unwanted_charac(string_input):
@@ -50,10 +36,8 @@ def remove_unwanted_charac(string_input):
 
 
 def get_article_data(article, conference_name, year, apikey_index, queue):
-    print("TITLE: " + article)
-    article_name = re.sub("[\(\[].*?[\)\]]", "", article) #remove strings inside brackets
+    article_name = re.sub("[\(\[].*?[\)\]]", "", article) #remove brackets and string within
     article_name_query = re.sub(r'[^A-Za-z0-9|:|\-|\\|.|,|\']', r' ', article_name)# replace other unwanted character from query
-    # print(article_name_query)
     conference_name_keyword = remove_unwanted_charac(conference_name)
     try:
         single_arti_data_in_list = scopus_search("TITLE(" + article_name_query + ")",
@@ -61,7 +45,7 @@ def get_article_data(article, conference_name, year, apikey_index, queue):
         if single_arti_data_in_list is None:
             pass
         else:
-            queue.put(single_arti_data_in_list)
+            queue.put(single_arti_data_in_list)  # shared resource, queue to store each data
             sleep(0.1)
     except Exception as excep:
         print('error: ', excep)
@@ -109,7 +93,7 @@ def set_keywords():
 
 
 def set_similar_confs():
-    keywords_df = create_relative_keyworddb(db)
+    keywords_df = create_collaborative_keyworddb(db)
     neighbor_conf_data = get_neigbors(keywords_df)
     for row in neighbor_conf_data.itertuples(index=False):
         neighbor_conf_name = row[1]
@@ -120,13 +104,13 @@ def set_similar_confs():
 def clear_temp_db():
     db.truncate_table('metadata_temp')  # clear table
     db.truncate_table('keywords_temp')
-    db.truncate_table('conferences_temp')  # clear table
+    db.truncate_table('conferences_temp')
 
 
 def update_main_db():
     db.truncate_table('conferences')  # clear table
-    db.copy_data_to_another_table('conferences', 'conferences_temp')
-    db.truncate_table('metadata')  # clear table
+    db.copy_data_to_another_table('conferences', 'conferences_temp') #copy temp table to normal table
+    db.truncate_table('metadata')
     db.copy_data_to_another_table('metadata', 'metadata_temp')
     db.truncate_table('keywords')
     db.copy_data_to_another_table('keywords', 'keywords_temp')
@@ -154,7 +138,7 @@ def main():
                     set_conference_db(corpus)
             else:
                 pass
-        apikey_index = apikey_index + 1
+        apikey_index = apikey_index + 1  # for each year on scopus api key
     set_keywords()
     set_similar_confs()
     update_main_db()

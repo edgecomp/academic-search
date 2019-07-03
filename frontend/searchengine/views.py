@@ -10,14 +10,6 @@ nlp = StanfordCoreNLP(path_or_host='http://localhost', port=9000, timeout=50000)
 nlp_props = {'annotators': 'tokenize, ssplit, lemma', 'piplineLanguage': 'en', 'outputFormat': 'json'}
 
 
-# def search_operator_split(input):
-#     if '&' in input:
-#         return input.split('&')
-#     elif '|' in input:
-#         return input.split('|')
-#     else:
-#         return input
-
 def append_keywords(ngram_keywords, new_keywords):
     for ngram_keyword in ngram_keywords:
         new_keywords.append(ngram_keyword)
@@ -72,28 +64,40 @@ def home(request):
 def search(request):
     if 'search' in request.GET:
         input = request.GET['search']
-        start = time.time()
         new_keywords = input_processing(input)
-        objs = Keywords.objects.none()
-        ngram_keyword = list()
+        singlegramobjs = Keywords.objects.none()
+        bigramobjs = Keywords.objects.none()
+        trigramobjs = Keywords.objects.none()
+        quadgramobjs = Keywords.objects.none()
+        allkeywords = list()
+        bigram_keyword = list()
+        trigram_keyword = list()
+        quadgram_keyword = list()
+        singlegram_keyword = new_keywords
+        print(singlegram_keyword)
         for keyword in new_keywords:
-            objs = objs | Keywords.objects.filter(keyword=keyword).order_by('-score')
+            singlegramobjs = singlegramobjs | Keywords.objects.filter(keyword=keyword).order_by('-score')
         if len(new_keywords) > 1:
-            objs = objs | two_gram_search(new_keywords, ngram_keyword)
+            bigramobjs = bigramobjs | two_gram_search(new_keywords, bigram_keyword)
         if len(new_keywords) > 2:
-            objs = objs | three_gram_search(new_keywords, ngram_keyword)
+            trigramobjs = trigramobjs | three_gram_search(new_keywords, trigram_keyword)
         if len(new_keywords) > 3:
-            objs = objs | four_gram_search(new_keywords, ngram_keyword)
-        conference_found = len(objs.values_list('conference_name').distinct())
-        append_keywords(ngram_keyword, new_keywords)
+            quadgramobjs = quadgramobjs | four_gram_search(new_keywords, quadgram_keyword)
+        append_keywords(singlegram_keyword, allkeywords)
+        append_keywords(bigram_keyword, allkeywords)
+        append_keywords(trigram_keyword, allkeywords)
+        append_keywords(quadgram_keyword, allkeywords)
         context = {
-            'objects': objs,
-            'keyword': new_keywords,
-            'conference_found': conference_found
+            'singlegramobjs': singlegramobjs,
+            'bigramobjs': bigramobjs,
+            'trigramobjs': trigramobjs,
+            'quadgramobjs': quadgramobjs,
+            'allkeywords': allkeywords,
+            'singlegramkeywords': singlegram_keyword,
+            'bigramkeywords': bigram_keyword,
+            'trigramkeywords': trigram_keyword,
+            'quadgramkeywords': quadgram_keyword
         }
     else:
         pass
-    end = time.time()
-    time_taken = end - start
-    print(time_taken)
     return render_to_response('search_result.html', context)

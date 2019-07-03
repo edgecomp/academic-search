@@ -10,23 +10,12 @@ html, body{
 }
 
 .pageheader {
-    /*position: absolute;*/
-    /*height: 100%;*/
-    /*left: 25%;*/
-    /*right: 25%;*/
-    /*text-align: center;*/
     height: 50px;
     padding: 10px;
     text-align: center;
 }
 
-/*.SearchBar {*/
-/*    !*padding:20px;*!*/
-/*    alignment: center;*/
-/*}*/
-
 .content {
-    /*position: absolute;*/
     alignment: center;
     padding-left: 15%;
     padding-right: 15%;
@@ -41,7 +30,6 @@ li {
 }
 
 .SearchBar input {
-    /*position: absolute;*/
     width: 60%;
     top: 40%;
     left: 35%;
@@ -55,20 +43,13 @@ li {
     border-bottom: none;
     border-left: none;
     border-right: none;
-    /*border-bottom: aliceblue;*/
 }
 
-/*#form-control{*/
-/*    position: center;*/
-/*    !*width: 50%;*!*/
-/*    alignment: center;*/
-/*}*/
+.conference_item_info {
+    background-color: dodgerblue;
+}
 
 .footer {
-    /*position:relative;*/
-    /*bottom:0;*/
-    /*width:100%;*/
-    /*text-align:right;*/
     height: 70px;
     width: 100%;
     text-align: center;
